@@ -30,8 +30,7 @@ pip install -r requirements.txt
 ###### Visualization of the Constructed Knowledge Graph
 
 ---
-![KG](fig2.png)
-![KG](fig3.png)
+
 ![KG](fig4.png)
 
 ## Online knowledge retrieval
