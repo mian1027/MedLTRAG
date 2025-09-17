@@ -1,0 +1,4907 @@
+[
+  {
+    "question": "Measles is infective for:",
+    "answer": "Four days before and five days after rash",
+    "options": {
+      "A": "One day before and 4 days after rash",
+      "B": "Four days before and five days after rash",
+      "C": "Entire incubation period",
+      "D": "Only during scabs falling"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "True about measles is/are  a) Incubation period (I.P.) is 10-12 days  b) Confunctivitis common  c) Rash starts on abdomen  d) Koplik spots are seen on fundus examination",
+    "answer": "ab",
+    "options": {
+      "A": "ab",
+      "B": "bc",
+      "C": "cd",
+      "D": "bd"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which disease doesn't require chemoprophylaxis?",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Conjunctivitis",
+      "C": "Cholera",
+      "D": "Malaria"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is the \"Least common\" complication of measles-",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Syncytium formation is a propey of ?",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Herpes virus",
+      "B": "Adenovirus",
+      "C": "Measles virus",
+      "D": "Rabies virus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is the \"Least common\" complication of measles -",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Myocarditis is caused bya) Pertussisb) Measlesc) Diptheriad) Scorpion sting",
+    "answer": "bc",
+    "options": {
+      "A": "bc",
+      "B": "c",
+      "C": "ac",
+      "D": "ad"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles vaccine is not given before:",
+    "answer": "9 months",
+    "options": {
+      "A": "9 months",
+      "B": "12 months",
+      "C": "15 months",
+      "D": "18 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Koplik spot is pathognomic of which infection ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Influenza",
+      "C": "Mumps",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In all of the found except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Typhoid",
+      "C": "Hepatitis B",
+      "D": "Gonorrhea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Mortality rate of measles in developing countries-",
+    "answer": "10%",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Hecht's pneumonia is a complication of",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "AIDS",
+      "D": "Mycoplasma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In all of the following diseases chronic carriers are found except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Typhoid",
+      "C": "Hepatitis B",
+      "D": "Gonorrhoea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Subclinical infection is seen in all except",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Poliomyelitis",
+      "C": "Measles",
+      "D": "Rubella"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "An epidemiologic study observes increased numbers of respiratory tract infections among children living in a community in which most families are at the poverty level. The infectious agents include Streptococcus pneumoniae, Haemophilus influenzae, and Klebsiella pneumoniae. Most of the children have had pneumonitis and rubeola infection. The study documents increased rates of keratomalacia, urinary tract calculi, and generalized papular dermatosis in these children as they reach adulthood. These children are most likely to have a deficiency of which of the following vitamins?",
+    "answer": "Vitamin A",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B1",
+      "C": "Vitamin E",
+      "D": "Vitamin D"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Iceberg phenomenon is depicted by all of the following diseases except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Influenza",
+      "B": "Hypeension",
+      "C": "Measles",
+      "D": "Malnutrition"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following statements is true about the epidemiological determinants of measles -",
+    "answer": "Secondary attack is less than that of rubella",
+    "options": {
+      "A": "Measles virus survives outside the human body for 5 days",
+      "B": "Carriers are important sources of infection",
+      "C": "Secondary attack is less than that of rubella",
+      "D": "Incidence of measles is more in males than females"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Post exposure immunization is given in -a)  Rabiesb)  Pertussisc)  Measlesd)  Yellow fever",
+    "answer": "ac",
+    "options": {
+      "A": "b",
+      "B": "ac",
+      "C": "ab",
+      "D": "bd"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of following are true about measles except-",
+    "answer": "Secondary attack rate is 30%",
+    "options": {
+      "A": "Maximum incidence in 6m - 3 year age group",
+      "B": "Best age for immunization is 9-12 months",
+      "C": "Secondary attack rate is 30%",
+      "D": "I.P= 7-14 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "The following vaccine, if contaminated can cause Toxic Shock Syndrome (TSS) -",
+    "answer": "Measles vaccine",
+    "options": {
+      "A": "Measles vaccine",
+      "B": "DPT",
+      "C": "Hepatitis B",
+      "D": "Typhoral"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The secondary attack rate of measles is more than mumps. What is the conclusion?",
+    "answer": "Measles is more infectious than mumps.",
+    "options": {
+      "A": "Measles is more dangerous than mumps.",
+      "B": "Mumps is more dangerous than measles.",
+      "C": "Measles is more infectious than mumps.",
+      "D": "Measles is more common than mumps."
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "MMR (Measles, mumps, rubella) vaccine is an example of:",
+    "answer": "Live attenuated vaccine",
+    "options": {
+      "A": "Live attenuated vaccine",
+      "B": "Conjugated vaccine",
+      "C": "Polysaccharide vaccine",
+      "D": "Killed vaccine"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most common cause of death in measles is",
+    "answer": "Pneumonia",
+    "options": {
+      "A": "Pneumonia",
+      "B": "Meningitis",
+      "C": "Dehydration",
+      "D": "Encephalitis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A latent, measles-like viral infection and, presumably, a defect in cellular immunity is associated with which of the following diseases?",
+    "answer": "Subacute sclerosing panencephalitis (SSPE)",
+    "options": {
+      "A": "Progressive multifocal leukoencephalopathy (PML)",
+      "B": "Multiple sclerosis (MS)",
+      "C": "Creutzfeldt-Jakob disease",
+      "D": "Subacute sclerosing panencephalitis (SSPE)"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Human immunoglobulin is given in all except",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Hepatitis B",
+      "C": "Rabies",
+      "D": "chickenpox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which virus given below is not a teratogenic virus ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Cytomegalovirus",
+      "C": "Herpes simplex",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following vaccines has maximum efficacy after a single dose –",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus toxoid",
+      "B": "DPT",
+      "C": "Measles",
+      "D": "Typhoid"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most common cause of death in measles ?",
+    "answer": "Pneumonia",
+    "options": {
+      "A": "Encephalitis",
+      "B": "Meningitis",
+      "C": "Dehydration",
+      "D": "Pneumonia"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is a RNA virus?",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Measles virus",
+      "B": "Herpes virus",
+      "C": "Papaya virus",
+      "D": "Adeno virus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Subcutaneous vaccine is -",
+    "answer": "Measles",
+    "options": {
+      "A": "BCG",
+      "B": "Polio",
+      "C": "DPT",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In the Post-disaster phase, all of the following vaccines are mandatory for doctors except:-",
+    "answer": "Measles",
+    "options": {
+      "A": "Cholera",
+      "B": "Typhoid",
+      "C": "Measles",
+      "D": "Tetanus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is stored in freezer?",
+    "answer": "Measles",
+    "options": {
+      "A": "DT",
+      "B": "IT",
+      "C": "DPT",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Warthin Finkeldey giant cells are seen in:",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Rubella",
+      "C": "Measles",
+      "D": "Polio"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Toxic shock syndrome occurs after one of the following vaccinations",
+    "answer": "Measles vaccine",
+    "options": {
+      "A": "DPT",
+      "B": "Recombinant DNA vaccine against hepatitis B",
+      "C": "Oral polio vaccine",
+      "D": "Measles vaccine"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "True about measles outbreak ?",
+    "answer": "Vaccination given at 6 months",
+    "options": {
+      "A": "Occurs if propoion of susceptible children is >20%",
+      "B": "Infects 50% children in virgin community",
+      "C": "Vaccination given at 6 months",
+      "D": "Every 6-7 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most common drug induced skin reaction:",
+    "answer": "Morbilliform rash",
+    "options": {
+      "A": "Maculopapular rash",
+      "B": "Morbilliform rash",
+      "C": "Fixed Drug Eruption",
+      "D": "Photosensitivity reaction"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Emergency or reemergence seen in which of the following organisms -a)  Polio virusb)  Measles virusc)  Nipah virusd)  West Nile viruse)  Hepatitis B virus",
+    "answer": "cde",
+    "options": {
+      "A": "abd",
+      "B": "cde",
+      "C": "bde",
+      "D": "ade"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "True about measles vaccine is that it is -",
+    "answer": "Thermolabile",
+    "options": {
+      "A": "Thermolabile",
+      "B": "Thermostable",
+      "C": "Bonth",
+      "D": "None"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "For elimination of measles, vaccine Coverage should be (in successive brith cohart) -",
+    "answer": "> 95%",
+    "options": {
+      "A": ">70%",
+      "B": "> 80%",
+      "C": ">90%",
+      "D": "> 95%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Complication of measles are all except –",
+    "answer": "Pancreatitis",
+    "options": {
+      "A": "Myocarditis",
+      "B": "Appendicitis",
+      "C": "SSPE",
+      "D": "Pancreatitis"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Efficiency of measles vaccine -",
+    "answer": "55%",
+    "options": {
+      "A": "55%",
+      "B": "75%",
+      "C": "85%",
+      "D": "100%"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All the following are true about measles vaccine except –",
+    "answer": "Diluent not required",
+    "options": {
+      "A": "Given subcutaneously",
+      "B": "High efficacy",
+      "C": "Given below 1 year of age",
+      "D": "Diluent not required"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles stored at PHC at what temperature?",
+    "answer": "2-8degC",
+    "options": {
+      "A": "0degC",
+      "B": "2-8degC",
+      "C": "20degC",
+      "D": "Room temperature"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Subacute sclerosing pan- encephalitis is associated with-",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Rubella",
+      "D": "Typhoid"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient with clustered white lesions on the buccal mucosa opposite the upper 1st as 2nd molars pathognomonic for measles These are",
+    "answer": "Koplik spots",
+    "options": {
+      "A": "Leukoplaka",
+      "B": "Koplik spots",
+      "C": "Kaposi spots",
+      "D": "none"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Out of 10 relatives exposed to a primary case, of measles, 6 developed measles. Secondary attack rate of measles-",
+    "answer": "10-Jun",
+    "options": {
+      "A": "10-Apr",
+      "B": "10-Jun",
+      "C": "6-Apr",
+      "D": "4-Jun"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Not a strategy for measles elimination -",
+    "answer": "Mop up: Vaccinate kids left with routine vaccination",
+    "options": {
+      "A": "Mop up: Vaccinate kids left with routine vaccination",
+      "B": "Catch up: One time nation wide vaccination 9 month- 14 years old children",
+      "C": "Keep up: Vaccinate > 95% successive birth",
+      "D": "Follow up: Nationw ide vaccination every 2-4 years"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Epstein Barr virus causes all the following, except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Infectious mononucleosis",
+      "B": "Measles",
+      "C": "Nasopharyngeal carcinoma",
+      "D": "Non Hodgkin's lymphoma"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Incubatory carrier seen in -a)  Cholerab)  Bubonic plaguec)  Mumpsd)  Measles e)  Influenza",
+    "answer": "cde",
+    "options": {
+      "A": "ba",
+      "B": "aec",
+      "C": "cde",
+      "D": "ce"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Reconstituted measles vaccine should be used with in -",
+    "answer": "1 hour",
+    "options": {
+      "A": "1 hour",
+      "B": "3 hour",
+      "C": "6 hour",
+      "D": "12 hour"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "While calculating the incubation period for measles in a group of 25 kids, standard detion is 2 and the mean incubation period is 8 days, calculate Standard error.",
+    "answer": "0.4",
+    "options": {
+      "A": "0.4",
+      "B": "1",
+      "C": "2",
+      "D": "0.5"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Period of cornmunicability of measles is-",
+    "answer": "4 days before and 5 days after appearance of rashes",
+    "options": {
+      "A": "3 days before and 10 days after appearance of rashes",
+      "B": "3 weeks after appearance of rashes",
+      "C": "I week before appearance of rashes",
+      "D": "4 days before and 5 days after appearance of rashes"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "True about measles –a) Rash appear first on legb) Koplik spots are seen in retinac) Long term complication follows in form of SSPEd) Caused by RNA viruse) IP–IS 2–3 day",
+    "answer": "cd",
+    "options": {
+      "A": "cd",
+      "B": "bc",
+      "C": "bd",
+      "D": "ac"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most common cause of death due to measles is",
+    "answer": "Secondary bacterial infection",
+    "options": {
+      "A": "Pneumonia",
+      "B": "Secondary bacterial infection",
+      "C": "Measles encephalitis",
+      "D": "Otitis media"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of the following statement regarding measles are true except -a) Rash appears first on legb) Koplik spot are seen on retinac) Long term complication may be seen in form of SSPEd) Caused by RNA viruse) I-P is 2-3 days",
+    "answer": "abe",
+    "options": {
+      "A": "abc",
+      "B": "bcd",
+      "C": "cde",
+      "D": "abe"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Bolognini's symptom (a feeling of crepitationoccuring from gradual increasing pressure on the abdomen) is seen in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Congenital pyloric stenosis",
+      "B": "Gastric polyp",
+      "C": "Duodenal atresia",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 3 yr old completely unimmunized child comes to an immunization clinic at PHC for the first time. He should receive -",
+    "answer": "DT-1, OPV-1, Measles, Vitamin-A",
+    "options": {
+      "A": "BCG; Measles, Vitamin-A",
+      "B": "DT-1, OPV-1, Measles, Vitamin-A",
+      "C": "BCG; DPT-1, OPV-1, Measles, Vitamin-A",
+      "D": "DPT-1, OPV-1, Measles, Vitamin-A"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Morbilliform eruptions is seen in – a) Scarlet feverb) Rubellac) Toxic shock syndromed)  Measlese) Mumps",
+    "answer": "bd",
+    "options": {
+      "A": "c",
+      "B": "bd",
+      "C": "ab",
+      "D": "ac"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Infectious cause of Erythematous rashes are seen in",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Typhoid fever",
+      "C": "Yellow fever",
+      "D": "Malaria"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Vaccine with maximum efficacy",
+    "answer": "Measles",
+    "options": {
+      "A": "OPV",
+      "B": "Measles",
+      "C": "BCG",
+      "D": "TT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 3 yr old completely unimmunised child comes to an immunization clinic at PHC for the first time. He should receive",
+    "answer": "DT-1, OPV-1, Measles, Vitamin - A",
+    "options": {
+      "A": "BCG, Measles, Vitamin - A",
+      "B": "DT-1, OPV-1, Measles, Vitamin - A",
+      "C": "BCG, DPT - 1, OPV - 1, Measles, Vitamin - A",
+      "D": "DPT-1, OPV-1, Measles, Vitamin - A"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which vaccine is given by subcutaneous route -",
+    "answer": "Measles",
+    "options": {
+      "A": "BCG",
+      "B": "Measles",
+      "C": "Rabies",
+      "D": "DPT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following disease is not transmitted from animals to man",
+    "answer": "German measles",
+    "options": {
+      "A": "German measles",
+      "B": "Rabies",
+      "C": "Taenia solium",
+      "D": "Plague"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Warthin Finkedly bodies are found in?",
+    "answer": "Measles",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Sarcoidosis",
+      "C": "Herpes",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles virus is",
+    "answer": "Paramyxovirus",
+    "options": {
+      "A": "Paramyxovirus",
+      "B": "Ohomyxovirus",
+      "C": "Poxvirus",
+      "D": "Picornavirus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "While calculating the incubation period for measles in a group of 25 children, deviation is 2 and the mean incubation period is 8 days. Calculate the standard error -",
+    "answer": "0.4",
+    "options": {
+      "A": "0.4",
+      "B": "1",
+      "C": "0.5",
+      "D": "2"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Frist priority age group for vaccination of german measles -",
+    "answer": "15-34 years female",
+    "options": {
+      "A": "1-14 years male children",
+      "B": "1-14 years female children",
+      "C": "15-34 years female",
+      "D": "15-34 years male"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In a village of 100 children, 60% are immunized against measles. One child travelled outside and returned with measles and infected other 26 children. What is the secondary attack rate",
+    "answer": "67%",
+    "options": {
+      "A": "67%",
+      "B": "27%",
+      "C": "50%",
+      "D": "80%"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Giant cell (Hecht's) pneumonia is due to –",
+    "answer": "Measles",
+    "options": {
+      "A": "CMV",
+      "B": "Measles",
+      "C": "Malaria",
+      "D": "P. carinii"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Animal reservoir is seen in all except -",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Yellow fever",
+      "C": "Influenza",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A line of conjunctival inflammation on lower eye lid margin is diagnostic of :",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Kawasaki disease",
+      "D": "Infectious monouncleosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Healthy carriers are found in all EXCEPT",
+    "answer": "Measles",
+    "options": {
+      "A": "Poliomyelitis",
+      "B": "Measles",
+      "C": "Diphtheria",
+      "D": "Salmonellosis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "WHO vaccination strategy of catch-up, keep-up and follow-up has been designed for",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Chickenpox",
+      "C": "Polio",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Isolation period, false is -",
+    "answer": "German measles - 7 days after onset of rash",
+    "options": {
+      "A": "Chicken pox - 6 days after onset of rash",
+      "B": "Herpes zoster - 6 days after onset of rash",
+      "C": "Measles - up to 3 days after onset of rash",
+      "D": "German measles - 7 days after onset of rash"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "True about measles is all except",
+    "answer": "Kopliks spots appear as rash disappears",
+    "options": {
+      "A": "Kopliks spots appear as rash disappears",
+      "B": "It is prevented by both active and passive immunization",
+      "C": "Otitis media and meningitis are the most common complications",
+      "D": "TB is aggravated in post measles"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Carriers are important in all the following except-",
+    "answer": "Measles",
+    "options": {
+      "A": "Polio",
+      "B": "Typhoid",
+      "C": "Measles",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Warthin- Finkeldey giant cells are seen in",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Influenza",
+      "B": "Mumps",
+      "C": "Pneumonia",
+      "D": "Rubeola"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "This virus is a single-stranded RNA paramyxovirus. The rash known as Koplik's spots is pathognomonic.",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Measles virus",
+      "B": "Influenza virus",
+      "C": "Respiratory syncytial virus",
+      "D": "Parainfluenza virus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which one of the following infections is characterized by an increased TLC with absolute lymphocytosis?",
+    "answer": "Measles",
+    "options": {
+      "A": "Diphtheria",
+      "B": "Measles",
+      "C": "MI",
+      "D": "Pneumonia"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In the UIP blindness can be prevented by the administration of-",
+    "answer": "Measles vaccines",
+    "options": {
+      "A": "Measles vaccines",
+      "B": "Rubella vaccines",
+      "C": "BCG vaccines",
+      "D": "Diphtheria vaccines"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Warthin Finkeldy cells are found in:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Molluscum contagiosum",
+      "D": "Herpes simplex infection"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Rubeola refers to",
+    "answer": "Measles",
+    "options": {
+      "A": "German measles",
+      "B": "Measles",
+      "C": "Small pox",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Vaccine with maximum efficacy is -",
+    "answer": "Measles",
+    "options": {
+      "A": "OPV",
+      "B": "Measles",
+      "C": "BCG",
+      "D": "TT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Animal to man transmission (zoonosis) is seen in -a) Rabiesb) Japanese encephalitisc) HIVd) Plaguee)  Measles",
+    "answer": "abd",
+    "options": {
+      "A": "acd",
+      "B": "bcd",
+      "C": "abc",
+      "D": "abd"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 6-year-old girl has a blotchy, reddish-brown rash on her face, trunk, and proximal extremities that developed over the course of 3 days. On physical examination, she has 0.2-cm to 0.5-cm ulcerated lesions on the oral cavity mucosa and generalized tender lymphadenopathy. A cough with minimal sputum production becomes progressively worse over the next 3 days. Which of the following viruses is most likely to produce these findings?",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Epstein-Barr",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Rubeola"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following vaccine is given subcutaneously-",
+    "answer": "Measles",
+    "options": {
+      "A": "BCG",
+      "B": "Live influenza",
+      "C": "Measles",
+      "D": "Typhoid"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 6-year-old boy develops symptoms of cough, fever, and malaise followed by a generalized maculopapular rash that has spread from the head downward. A clinical diagnosis of measles is made. A few days after the onset of the rash he is drowsy, lethargic, and complaining of headache. A lumbar puncture, electroencephalogram (EEG), and computerized tomography (CT) of the brain exclude other etiologies and confirm the diagnosis of encephalitis. Which of the following is the most likely delayed neurologic complication of measles virus encephalitis?",
+    "answer": "mental retardation or epilepsy",
+    "options": {
+      "A": "meningitis",
+      "B": "pure motor paralysis",
+      "C": "autonomic neuropathy",
+      "D": "mental retardation or epilepsy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Koplik spots are seen in: March 2013",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Influenza",
+      "C": "Rubella",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Vaccine which can be stored at-10°C temperature- a)  Poliob)  Measles c)  BCGd)  DPT",
+    "answer": "ab",
+    "options": {
+      "A": "c",
+      "B": "ab",
+      "C": "cd",
+      "D": "b"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In an area not covered by measles immunization, the attack rate of measles is -",
+    "answer": "90%",
+    "options": {
+      "A": "70%",
+      "B": "80%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most common life threatening complication of measles is:",
+    "answer": "Pneumonia",
+    "options": {
+      "A": "Croup",
+      "B": "Meningoencephalitis",
+      "C": "Otitis media",
+      "D": "Pneumonia"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "About measles true is ?",
+    "answer": "Otitis media is the most common complication",
+    "options": {
+      "A": "Incubation period is 5 days",
+      "B": "Otitis media is the most common complication",
+      "C": "Caused by ohomyxovirus",
+      "D": "Large number of carriers"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Efficacy of Measles vaccine after second dose:-",
+    "answer": "99%",
+    "options": {
+      "A": "90%",
+      "B": "95%",
+      "C": "99%",
+      "D": "100%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Subacute Sclerosing Pan Encepahalitis (SSPE) is a late complication of:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is the \"Least Common Chronic\" complication of measles?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Healthy carriers are seen in all except ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Polio",
+      "B": "Meningococci",
+      "C": "Measles",
+      "D": "Cholera"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Carriers are important source of infection in all, EXCEPT:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Diphtheria",
+      "D": "Typhoid"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Hecht's pneumonia is typically seen in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Malaria",
+      "C": "RSV",
+      "D": "Pneumococcus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Iceberg phenomenon is not seen in",
+    "answer": "Measles",
+    "options": {
+      "A": "AIDS",
+      "B": "TB",
+      "C": "Measles",
+      "D": "Poliomyelitis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Post exposure active immunity should be given together in all except",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Rabies",
+      "C": "Measles",
+      "D": "Hepatitis B"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles is infectious during -",
+    "answer": "4 days before and 5 days after rash",
+    "options": {
+      "A": "After 4 days of rash",
+      "B": "4 days before and 5 days after rash",
+      "C": "Throughout disease",
+      "D": "Only in incubation period"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Measles vaccine contains the following as a preservative:",
+    "answer": "Neomycin",
+    "options": {
+      "A": "Streptomycin",
+      "B": "Cholramphenicol",
+      "C": "Neomycin",
+      "D": "Thiomersal"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "For which of the following are live vaccines used -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Cholera",
+      "C": "Small pox",
+      "D": "Oral Polio"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The following are true about measles-",
+    "answer": "All the above",
+    "options": {
+      "A": "It is an RNA virus",
+      "B": "Causes Koplik's spots on the conjunctiva",
+      "C": "Acute catarrhal conjunctivitis is a known features",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Warthin Finkeldey giant cells",
+    "answer": "Measles",
+    "options": {
+      "A": "CMV",
+      "B": "NIHL",
+      "C": "Measles",
+      "D": "Giant cell tumour of tendon sheath"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Encephalopathy can occur as complication of which vaccine ?",
+    "answer": "Measles",
+    "options": {
+      "A": "OPV",
+      "B": "Rubella",
+      "C": "Measles",
+      "D": "BCG"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Infectivity period of measles is:",
+    "answer": "4 days before and 5 days after appearance of rash",
+    "options": {
+      "A": "2 days before and 4 days after appearance of rash",
+      "B": "4 days before and 5 days after appearance of rash",
+      "C": "4 days before and 1 days after appearance of rash",
+      "D": "Entire incubation period"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Koplik's Spots are seen in -",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Rubeola",
+      "B": "Rubella",
+      "C": "Diphtheria",
+      "D": "Polio"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Intracytoplasmic and Intranuclear inclusion body is seen in?",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rabies",
+      "D": "Yellow fever"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Koplik spots are pathognomic of ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Diphtheria",
+      "C": "Donovanosis",
+      "D": "Gonorrhoea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Disease higly transmitted during incubation period is -a)  Pertussisb)  Cholerac)  Measlesd)  Brucellosise)  Chickenpox",
+    "answer": "ace",
+    "options": {
+      "A": "cb",
+      "B": "bad",
+      "C": "ace",
+      "D": "da"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "23 years old female comes to OG, because she thinks pregnant. She missed her last two cycles and she feels different. Urine pregnancy test was positive. On USG, the pregnancy was confirmed to be 12 weeks. She is very concerned because she received Measles Mumps Rubella (MMR) vaccine 4 months ago and she was told to wait for 3 months to conceive. The pregnancy is desired. The most appropriate step is",
+    "answer": "Vaccine risk is minimal, not itself a reason to terminate the pregnancy",
+    "options": {
+      "A": "Vaccine risk is minimal, not itself a reason to terminate the pregnancy",
+      "B": "Vaccine risk is nil, termination is completely inappropriate",
+      "C": "Vaccine risk is high, termination should be strongly considered",
+      "D": "Vaccine risk is high, termination is mandated."
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A child presents with fever and maculo popular rash to OPD. Doctor diagnose it to be measles, which of the following is not be seen during clinical examination of this child?",
+    "answer": "Koplik spots",
+    "options": {
+      "A": "Pneumonia",
+      "B": "Koplik spots",
+      "C": "Otitis media",
+      "D": "Encephalitis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "SSPE (subacute sclerosing panencephalitis) is associated with –",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Chickenpox",
+      "C": "Herpes",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Out of 10 relatives exposed to a primary case, of measles, 6 developed measles. Secondary attack rate of measles ?",
+    "answer": "10-Jun",
+    "options": {
+      "A": "10-Apr",
+      "B": "10-Jun",
+      "C": "6-Apr",
+      "D": "4-Jun"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the viruses given below is NOT teratogenic?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Cytomegalovirus",
+      "C": "Herpes simplex",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which vaccine need NOT be given to boys: September 2004",
+    "answer": "German measles (Rubella)",
+    "options": {
+      "A": "Mumps",
+      "B": "German measles (Rubella)",
+      "C": "Measles (Rubeola)",
+      "D": "Small pox"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Keratomalacia is associated with which of the following infections?",
+    "answer": "Measles",
+    "options": {
+      "A": "Herpes simplex",
+      "B": "Varicella zoster",
+      "C": "Measles",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which age group is targeted in the catch up vaccination strategy of WHO for elimination of measles?",
+    "answer": "9 months to 14 years",
+    "options": {
+      "A": "6 months to 5 years",
+      "B": "9 months to 10 years",
+      "C": "9 months to 14 years",
+      "D": "6 months to 10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is the 'Least common' complication of measles ?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Koplik spots are seen in",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Incubation period of measles is: September 2011",
+    "answer": "10 days",
+    "options": {
+      "A": "5 days",
+      "B": "10 days",
+      "C": "15 days",
+      "D": "20 days"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Isolation is not needed for measles due to -",
+    "answer": "There are incubatory carriers",
+    "options": {
+      "A": "There are healthy carriers",
+      "B": "Carriers are convalascents",
+      "C": "The infectivity in diseased is low",
+      "D": "There are incubatory carriers"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Child 1 year age came for vaccination, Polio virus, BCG at birth, what vaccine to be given below -",
+    "answer": "Measles, DPT, OPV, Hib, Hep B.",
+    "options": {
+      "A": "BCG OPV, Hep-B",
+      "B": "Measles, DPT, OPV, Hib, Hep B.",
+      "C": "DPT, OPV, Hib, Hep B",
+      "D": "DPT, OPV, Hep B"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Vaccine and immunoglobulin can be given together in all except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Rabies",
+      "C": "Measles",
+      "D": "HBV"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 3 year old child is brought to the outpatient depament with upper respiratory tract infection. On asking about his previous immunization history, it is found that he has had no primary immunizations from bih. What is the most appropriate step in the management of this patient?",
+    "answer": "Give BCG, OPV, DPT, measles vaccines and vitamin A",
+    "options": {
+      "A": "Advise to come on the fixed immunization day of the week",
+      "B": "Give BCG, OPV, DPT, measles vaccines",
+      "C": "Give BCG, OPV, DPT, measles vaccines and vitamin A",
+      "D": "Give BCG, OPV, DPT and advise to come after 4 weeks for the next doses of OPV and DPT"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In a 6 membered family, there are two parents and four children all aged between 2-6 years. On eof the children is completely immunized for his age, whereas other 3 siblings are totally unimmunized. One of the unimmunized child developed measles. 6 days later 2 other children developed measles. SAR is?",
+    "answer": "100%",
+    "options": {
+      "A": "zero",
+      "B": "33%",
+      "C": "66%",
+      "D": "100%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In measles outbreak, measles vaccine can be given within:",
+    "answer": "6-9 months",
+    "options": {
+      "A": "2-3 months",
+      "B": "3-5 months",
+      "C": "2-7 months",
+      "D": "6-9 months"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A child was immunized at 6 months of age because of epidemic of measles. Now next step would be -",
+    "answer": "Administer vaccine as soon as he completes 9 months",
+    "options": {
+      "A": "Administer vaccine as soon as he completes 9 months",
+      "B": "Administer vaccine after 4 weeks",
+      "C": "Administer along with DPT",
+      "D": "Nothing to be done"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles is infectious during –",
+    "answer": "4 days before and 5 days after rash",
+    "options": {
+      "A": "After 4 days of rash",
+      "B": "4 days before and 5 days after rash",
+      "C": "Throughout disease",
+      "D": "Only in incubation period"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Moality rate in measles encephalitis is -",
+    "answer": "10-20%",
+    "options": {
+      "A": "1-2%",
+      "B": "10-20%",
+      "C": "20-30%",
+      "D": "30-40%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In one single visit, a 9 month-old, un-immunized child can be given the following vaccination -",
+    "answer": "BCG, DPT-1, OPV-1, Measles",
+    "options": {
+      "A": "Only BCG",
+      "B": "BCG, DPT-1, OPV-1",
+      "C": "DPT-1, OPV-1, Measles",
+      "D": "BCG, DPT-1, OPV-1, Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The rash in measles occurs first in occurs first in the .....region :",
+    "answer": "Post auricular",
+    "options": {
+      "A": "Forehead",
+      "B": "Post auricular",
+      "C": "Chest",
+      "D": "Neck"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Child 1 year age came for vaccination, Polio virus, BCG at bih, what vaccine to be given below ?",
+    "answer": "Measles, DPT, OPV, Hib, Hep B.",
+    "options": {
+      "A": "BCG, OPV, Hep-B",
+      "B": "Measles, DPT, OPV, Hib, Hep B.",
+      "C": "DPT, OPV, Hib, Hep B",
+      "D": "DPT, OPV, Hep B"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "An 8 year old boy is taken to a pediatrician because of behavioral changes, mild intellectual deterioration, and \"laziness.\" Over the next several months the boy develops increasing clumsiness and periodic, involuntary, jerky movements every 3 to 6 seconds. Visual deterioration is apparent upon visual field testing, and optic atrophy is evident on funduscopic examination. Cerebrospinal fluid studies do not show significant pleocytosis, but oligoclonal bands of IgG are present on CSF electrophoresis. The electroencephalogram shows periodic discharges that are synchronous with the periods of myoclonus. Computed tomography (CT) of the head shows low-density white matter lesions and cerebral atrophy. At the age of 10, the boy dies. Prior infection with which of the following agents was probably related to the patient's condition?",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Measles virus",
+      "B": "Mumps virus",
+      "C": "Papillomavirus",
+      "D": "Poliovirus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Giant cells in measles are called as:",
+    "answer": "Wahin Finkeldey cells",
+    "options": {
+      "A": "Koplik cells",
+      "B": "HP bodies",
+      "C": "Wahin Finkeldey cells",
+      "D": "Weinberger bodies"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most cases of post-infection encephalitis follow",
+    "answer": "Measles",
+    "options": {
+      "A": "Rheumatic fever",
+      "B": "Chicken pox",
+      "C": "Mumps",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is the reservoir for measles?",
+    "answer": "Man",
+    "options": {
+      "A": "Soil",
+      "B": "Man",
+      "C": "Fomites",
+      "D": "Monkey"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Post exposure, Measles vaccine must be given within",
+    "answer": "3-4 days",
+    "options": {
+      "A": "3-4 days",
+      "B": "10-Jul",
+      "C": "10-14 days",
+      "D": "1-6 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles vaccination is given at the age of:",
+    "answer": "9 months",
+    "options": {
+      "A": "Birth",
+      "B": "9 months",
+      "C": "1 1/2 yrs",
+      "D": "2 months"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Toxic shock syndrome is mostly due to which vaccine?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Salk",
+      "D": "Tetanus"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In a school within an unimmunized coho of 100 children, 1 child developed measles on January 1st. Following this, 35 children developed measles of which 3 cases occured on January 3rd and the remaining 2-3 weeks later. What is the SAR ?",
+    "answer": "33.30%",
+    "options": {
+      "A": "35%",
+      "B": "33.30%",
+      "C": "32%",
+      "D": "36.50%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Subacute sclerosing panencephalitis is associated with -",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Exanthema subitum",
+      "D": "Erythema infectiosum"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In which disease a generalized papular rash, fever, conjunctivitis & lesion on buccal mucosa shown below are seen?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Chickenpox",
+      "D": "Rubella"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Infectious disease not showing iceberg phenomenon?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Influenza",
+      "C": "Measles",
+      "D": "Polio"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Definition of measles elimination -",
+    "answer": "< 1/100000",
+    "options": {
+      "A": "< 1/1000",
+      "B": "< 1/10000",
+      "C": "< 1/100000",
+      "D": "< 1/100"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following statements is true about the epidemiological determinants of measles?",
+    "answer": "Secondary attack rate is less than that of rubella",
+    "options": {
+      "A": "Measles virus survives outside the human body for 5 days",
+      "B": "Carriers are important sources of infection",
+      "C": "Secondary attack rate is less than that of rubella",
+      "D": "Incidence of measles is more in males than females"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "SSPE (subacute sclerosing panencephalitis) is associated with -",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Chickenpox",
+      "C": "Herpes",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Subclinical infection is not seen in:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Japense encephalitis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "True about measles is all except:",
+    "answer": "Koplik spots seen on buccal mucosa opposite upper 2nd molar",
+    "options": {
+      "A": "Measles shows a Cyclical trend",
+      "B": "Koplik spots seen on buccal mucosa opposite upper 2nd molar",
+      "C": "Incubation period is 10-14 days",
+      "D": "SAR is 80%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 7-year-old child develops malaise, cough, coryza, and conjunctivitis with a high fever. Prior to this illness he was completely healthy. Further questioning reveals that he has not received any childhood vaccinations because of his parents' religious beliefs. Examination of his mouth reveals blue white spots on a red base beside his second molars. The next day he develops an erythematous, nonpruritic, maculopapular rash at his hairline and behind his ears, which spreads over his body. Which of the following is the most likely diagnosis?",
+    "answer": "measles (rubeola)",
+    "options": {
+      "A": "hand-foot-and-mouth disease (coxsackievirus)",
+      "B": "measles (rubeola)",
+      "C": "rubella (German measles)",
+      "D": "mumps"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of following are true about measles except -",
+    "answer": "Secondary attack rate is 30%",
+    "options": {
+      "A": "Maximum incidence in 6m-3 year age group",
+      "B": "Best age for immunization is 9-12 months",
+      "C": "Secondary attack rate is 30%",
+      "D": "I.P. = 7-14 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which statement regarding measles is false?",
+    "answer": "Koplik's spots cannot be seen in conjunctival or vaginal mucosa",
+    "options": {
+      "A": "Koplik's spots cannot be seen in conjunctival or vaginal mucosa",
+      "B": "Vitamin A administration is pa of management of clinical measles",
+      "C": "CD 150 and PVRL4 are receptors for measles virus",
+      "D": "Pneumonia is the common cause of death in children with measles"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Mass vaccination is ineffective in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Polio",
+      "C": "Tetanus",
+      "D": "None"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Man is the only reservoir of",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Measles",
+      "C": "Typhoid",
+      "D": "Japanese B encephalitis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Giant cell (Hecht's) pneumonia is due to -",
+    "answer": "Measles",
+    "options": {
+      "A": "CMV",
+      "B": "Measles",
+      "C": "Malaria",
+      "D": "P. Carinii"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Measles vaccine at a primary health centre should be stored at which temperature ?",
+    "answer": "+2°C to 8°C",
+    "options": {
+      "A": "-20°C",
+      "B": "0°C",
+      "C": "+2°C to 8°C",
+      "D": "Any temperature not exceeding room temperature"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Morbilliform eruptions is seen in:",
+    "answer": "Rubella",
+    "options": {
+      "A": "Scarlet fever",
+      "B": "Rubella",
+      "C": "Toxic shock syndrome",
+      "D": "All"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Most common cause of post-measles death ?",
+    "answer": "I",
+    "options": {
+      "A": "Diarrhea",
+      "B": "I",
+      "C": "SSPE",
+      "D": "Myocarditis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Strain used for production of Measles vaccine is:",
+    "answer": "Edmonston Zagreb strain",
+    "options": {
+      "A": "Jeryl Lynn strain",
+      "B": "17 - D strain",
+      "C": "Ankara strain",
+      "D": "Edmonston Zagreb strain"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following statements is true about the epidemological determinants of measles ?",
+    "answer": "Secondary attack is less than that of rubella",
+    "options": {
+      "A": "Measles virus survives outside the human body for 5 days",
+      "B": "Carriers are impoant sources of infection",
+      "C": "Secondary attack is less than that of rubella",
+      "D": "Incidence of measles is more in males than females"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Post exposure immunization is done for-a) Measlesb) Polio c) Rabiesd) Chicken pox",
+    "answer": "ac",
+    "options": {
+      "A": "a",
+      "B": "bc",
+      "C": "ad",
+      "D": "ac"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In all of the following diseases chronic carriers are found except",
+    "answer": "Measles",
+    "options": {
+      "A": "Gonorrhea",
+      "B": "Measles",
+      "C": "Typhoid",
+      "D": "Hepatitis B"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Not true about measles",
+    "answer": "Carriers are the source of infection",
+    "options": {
+      "A": "Carriers are the source of infection",
+      "B": "Koplik spots are pathognomonic",
+      "C": "Edmonston zagreb strain used for vaccine",
+      "D": "Incubation period is 2 weeks"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "To eradicate measles the percentage of population to be caccinated is at least ______% -",
+    "answer": "95",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "85",
+      "D": "95"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Koplik spots is a feature of -",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Measles",
+      "C": "Tetanus",
+      "D": "Mumps"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "True regarding measles vaccine is-",
+    "answer": "All of the above",
+    "options": {
+      "A": "Given at age of 9 months",
+      "B": "Given between age of 9 months and 5 years",
+      "C": "Can cause toxic shock syndrome",
+      "D": "All of the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Not a strategy for measles elimination ?",
+    "answer": "Mop up: Vaccinate kids left with routine vaccination",
+    "options": {
+      "A": "Mop up: Vaccinate kids left with routine vaccination",
+      "B": "Catch up: One time nation wide vaccination 9 month- 14 years old children",
+      "C": "Keep up: Vaccinate > 95% successive bih",
+      "D": "Follow up: Nationwide vaccination every 2-4 years"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Definition of measles elimination-",
+    "answer": "<1\\/100000",
+    "options": {
+      "A": "<1\\/1000",
+      "B": "<1\\/10000",
+      "C": "<1\\/100000",
+      "D": "<1\\/100"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "What is the recommended minimum immunization coverage to ensure measles eradication?",
+    "answer": "96%",
+    "options": {
+      "A": "94%",
+      "B": "95%",
+      "C": "96%",
+      "D": "97%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Wahin-Finkeldey giant cells are seen in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Influenza",
+      "D": "Rickettsial pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is the least common complication of measles?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Keratomalacia",
+      "B": "Pneumonia",
+      "C": "SSPE",
+      "D": "Otitis media"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Vaccine with highest efficacy -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "DPT",
+      "C": "Oral typhoid",
+      "D": "Tetanus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "What is the period of infectivity in measles ?",
+    "answer": "From 3 days before to 5 days after the rash",
+    "options": {
+      "A": "From 7 days before to 7 days after the rash",
+      "B": "From 3 days before to 5 days after the rash",
+      "C": "From 9 days before to 12 days after the rash",
+      "D": "From 5 days before to 9 days after the rash"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "While calculating the incubation period for measles in a group of 25 children, detion is 2 and the mean incubation period is 8 days. Calculate the standard error -",
+    "answer": "0.4",
+    "options": {
+      "A": "0.4",
+      "B": "1",
+      "C": "0.5",
+      "D": "2"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Toxix shock syndrome occures after one of the following vaccinations",
+    "answer": "Measles vaccine",
+    "options": {
+      "A": "DPT",
+      "B": "Recombinant DNA vaccine against hepatitis B",
+      "C": "Oral polio vaccine",
+      "D": "Measles vaccine"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following viruses produces both intranuclear and intracytoplasmic inclusion bodies?",
+    "answer": "Measles",
+    "options": {
+      "A": "Chicken pox",
+      "B": "Rabies",
+      "C": "Small pox",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "SSPE is a complication of -",
+    "answer": "Measles virus infection",
+    "options": {
+      "A": "Measles virus infection",
+      "B": "AIDS",
+      "C": "Syphilis",
+      "D": "Mumps"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which is not true about measles vaccine?",
+    "answer": "Egg culture",
+    "options": {
+      "A": "Egg culture",
+      "B": "Freeze dried",
+      "C": "Reconstituted vaccine should be used within one hour",
+      "D": "Given after 9 months of age"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Vaccine in the UPI which aims at preventing blindness is -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "DPT",
+      "D": "Polio"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles elimination criteria?",
+    "answer": "<1/100000",
+    "options": {
+      "A": "< 1/1000",
+      "B": "< 1/10000",
+      "C": "<1/100000",
+      "D": "<1/100"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "True about measles are all except -",
+    "answer": "Infectivity is low",
+    "options": {
+      "A": "Koplik's spots is pathognomonic",
+      "B": "Source is a case",
+      "C": "Infectivity is low",
+      "D": "Affect age group 1 to 3 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is the \"Least Common\" complication of measles?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Most common complication of measles in children",
+    "answer": "Otitis media",
+    "options": {
+      "A": "SSPE",
+      "B": "Pulmonary Hypertension",
+      "C": "Otitis media",
+      "D": "Oophoritis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Animal reservoir is seen in all except-",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Yellow fever",
+      "C": "Influenza",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 11-month-old child came for vaccination. He had received Polio vaccine & BCG at bih. What vaccines should be given to him now?",
+    "answer": "Measles, DPT, OPV, Hib, Hep B",
+    "options": {
+      "A": "BCG, OPV, Hep B",
+      "B": "Measles, DPT, OPV, Hib, Hep B",
+      "C": "DPT, OPV, Hib, Hep B",
+      "D": "DPT, OPV, Hep B"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Man is a definitive host of which parasite -a) Malariab) Filariac) Measlesd) Tapeworm",
+    "answer": "bd",
+    "options": {
+      "A": "c",
+      "B": "d",
+      "C": "bd",
+      "D": "ac"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Subacute sclerosing pan-encephalitis is associated with -",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Rubella",
+      "D": "Typhoid"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which viral infection always causes clinical disease in human beings -",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Poliomyelitis",
+      "C": "Measles",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles vaccination compagin between 9-14 years age for elimination is -",
+    "answer": "Catch up",
+    "options": {
+      "A": "Keep up",
+      "B": "Follow up",
+      "C": "Mop up",
+      "D": "Catch up"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which one of the following virus produces both intranuclear and intracytoplasmic inclusion bodies?",
+    "answer": "Measles",
+    "options": {
+      "A": "Chicken pox",
+      "B": "Rabies",
+      "C": "Small pox",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Live viral vaccine is",
+    "answer": "Measles",
+    "options": {
+      "A": "Salk",
+      "B": "Measles",
+      "C": "Hepatitis",
+      "D": "Rabies"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Active and passive immunity should be given together in all except -",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Rabies",
+      "C": "Measles",
+      "D": "Hepatitis B"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "True about measles vaccine ?",
+    "answer": "Can cause TSS",
+    "options": {
+      "A": "Killed vaccine",
+      "B": "In epidemic vaccine is given at 9 months of age",
+      "C": "Can cause TSS",
+      "D": "Duration of protection is 5-10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Subacute Sclerosing Pan Encephalitis (SSPE) is a complication of:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which vaccine is given by subcutaneous route?",
+    "answer": "Measles",
+    "options": {
+      "A": "BCG",
+      "B": "Measles",
+      "C": "Rabies",
+      "D": "DPT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Active and passive immunity should be given together in all except",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Rabies",
+      "C": "Measles",
+      "D": "Hepatitis B"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles is infective for how many days before the onset of rash -",
+    "answer": "4 days",
+    "options": {
+      "A": "10 days",
+      "B": "4 days",
+      "C": "1 days",
+      "D": "on same"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient with clustered white lesions on the buccal mucosa opposite the upper 1st and 2nd molars pathognomonic for measles. These are",
+    "answer": "Koplik spots",
+    "options": {
+      "A": "Leukoplakia",
+      "B": "Koplik spots",
+      "C": "Kaposi spots",
+      "D": "None"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Subacute sclerosing panencephalitis occur as a complication of which of the following infection?",
+    "answer": "Measles",
+    "options": {
+      "A": "Pneumonia",
+      "B": "Measles",
+      "C": "Diphtheria",
+      "D": "Peussis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which virus given below is not a teratogenic virus?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Cytomegalovirus",
+      "C": "Herpes simplex",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "What is the period of infectivity in measles?",
+    "answer": "From 4 days to 4 days after the rash",
+    "options": {
+      "A": "From 7 days to 7 days after the rash",
+      "B": "From 4 days to 4 days after the rash",
+      "C": "From 9 days to 12 days after the rash",
+      "D": "From 5 days to 9 days after the rash"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A ceain commuity has 100 children out of whom 28 are immunuzed against measles; 2 of them acquire measles simultaneously; Subsequently 14 get measles. Assuming the efficacy of vaccine to be 100%. What is the sec. Attack rate -",
+    "answer": "20%",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "20%",
+      "D": "21.50%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Broncho penumonia due to measles occurs due to",
+    "answer": "Immunomodulation",
+    "options": {
+      "A": "Sinusitis",
+      "B": "Immunomodulation",
+      "C": "Bronchial obstruction",
+      "D": "Aspiration"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following statements is true about the epidemological determinants of measles -",
+    "answer": "Secondary attack is less than that of rubella",
+    "options": {
+      "A": "Measles virus survives outside the human body for 5 days",
+      "B": "Carriers are impoant sources of infection",
+      "C": "Secondary attack is less than that of rubella",
+      "D": "Incidence of measles is more in males than females"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Giant cell (Hecht's) pneumonia is due to ?",
+    "answer": "Measles",
+    "options": {
+      "A": "CMV",
+      "B": "Measles",
+      "C": "Malaria",
+      "D": "P. carinii"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Carriers are important in all the following except",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Typhoid",
+      "C": "Polio",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Koplik spots are seen in: September 2011",
+    "answer": "Measles",
+    "options": {
+      "A": "Diphtheria",
+      "B": "TB",
+      "C": "Measles",
+      "D": "Syphilis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In the UIP, blindness can be prevented by the administration of-",
+    "answer": "Measles vaccines",
+    "options": {
+      "A": "Measles vaccines",
+      "B": "Rubella vaccines",
+      "C": "BCG vaccines",
+      "D": "Diphtheria vaccines"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Negative sense nucleic acid genome is found in -a) Poliovirusb) Rabiesc) Measlesd) Picornaviruse) Influenzae",
+    "answer": "bce",
+    "options": {
+      "A": "ab",
+      "B": "bc",
+      "C": "acd",
+      "D": "bce"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In epidemics measles vaccine is to be given within how many days of exposure ?",
+    "answer": "3 days",
+    "options": {
+      "A": "3 days",
+      "B": "7 days",
+      "C": "10 days",
+      "D": "15 days"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Koplik spots of measles seen near",
+    "answer": "Lower 2nd molar",
+    "options": {
+      "A": "Upper 2nd molar",
+      "B": "Lower 2nd molar",
+      "C": "Lower 2nd premolar",
+      "D": "Upper 2nd premolar"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "SSPE is caused by -",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Rubella",
+      "D": "Varicella"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Measles elimination criteria-",
+    "answer": "< 1/100000",
+    "options": {
+      "A": "<1/1000",
+      "B": "<1/10000",
+      "C": "< 1/100000",
+      "D": "<1/100"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "All of following are true about measles except?",
+    "answer": "Secondary attack rate is 30%",
+    "options": {
+      "A": "Maximum incidence in 6m-3 year age group",
+      "B": "Best age for immunization is 9-12 months",
+      "C": "Secondary attack rate is 30%",
+      "D": "I.P. = 7-14 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Broncho-pneumonia due to measles occurs due to",
+    "answer": "Immuno modulation",
+    "options": {
+      "A": "Sinusitis",
+      "B": "Immuno modulation",
+      "C": "Bronchial obstruction",
+      "D": "Aspiration"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All are true about measles except -",
+    "answer": "Secondary attack rate is 30-40%",
+    "options": {
+      "A": "Incubation period is 10-14 days",
+      "B": "Secondary attack rate is 30-40%",
+      "C": "Sub cutaneous vaccine is available",
+      "D": "Vaccine is live attenuated"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A ceain community has 100 children out of whom 28 are immunised against measles; 2 of them acquire measles simultaneously; Subsequently 14 get measles. Assuming the efficacy of the vaccine to be 100%; What is the Secondary Attack rate?",
+    "answer": "20%",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "20%",
+      "D": "21.50%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 3.5 year old child has not received primary immunization. Which of the following is the best vaccination advice to such a child?",
+    "answer": "BCG, DPT1, OPV1, measles, vitamin A",
+    "options": {
+      "A": "BCG, DPT1 and OPV1. DPT2 and OPV2 after 4 weeks.",
+      "B": "BCG, DT1, OPV1, measles, vitamin A",
+      "C": "BCG, DPT1, OPV1, measles, vitamin A",
+      "D": "DT1, DT2 and booster after 1 year"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "The word german measles is applied for",
+    "answer": "Rubella",
+    "options": {
+      "A": "Rubella",
+      "B": "Rubeola",
+      "C": "herpes simplex",
+      "D": "herpetic gingivostomatitis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In measles, when do the Koplik's spots appear?",
+    "answer": "1 -3 days before the rashes appear",
+    "options": {
+      "A": "On the day that fever occurs",
+      "B": "On the day that rashes appear",
+      "C": "1 -3 days before the rashes appear",
+      "D": "1-2 days before the fever occurs"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Man is the only reservoir of -a) Rabiesb) Measlesc) Typhoidd) Japanese B encephalitis",
+    "answer": "bc",
+    "options": {
+      "A": "a",
+      "B": "bc",
+      "C": "ac",
+      "D": "ad"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Post exposure active immunization can be done fora)  Rabiesb)  Measlesc)  Cholerad)  Yellow fever",
+    "answer": "ab",
+    "options": {
+      "A": "da",
+      "B": "ab",
+      "C": "da",
+      "D": "ac"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In measles vaccine can be given within-",
+    "answer": "6 months",
+    "options": {
+      "A": "3 months",
+      "B": "5 months",
+      "C": "7 months",
+      "D": "6 months"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Warthin-Finkeldey giant cells are seen in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Influenza",
+      "D": "Rickettsial pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles virus is -",
+    "answer": "Paramyxovirus",
+    "options": {
+      "A": "Paramyxovirus",
+      "B": "Ohomyxovirus",
+      "C": "Poxvirus",
+      "D": "Picornavirus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In one single visit, a 9 month old, unimmunized child can be given the following vaccination",
+    "answer": "BCG, DPT-1, OPV - 1, Measles",
+    "options": {
+      "A": "Only BCG",
+      "B": "BCG, DPT - 1, OPV - 1",
+      "C": "DPT - 1, OPV - 1, Measles",
+      "D": "BCG, DPT-1, OPV - 1, Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles vaccination is given at age of",
+    "answer": "9 months",
+    "options": {
+      "A": "10 weeks",
+      "B": "9 months",
+      "C": "14 weeks",
+      "D": "6 months"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following vaccine is associated with Toxic Shock Syndrome?",
+    "answer": "Infected Measles vaccine",
+    "options": {
+      "A": "Infected BCG vaccine",
+      "B": "Infected DPT vaccine",
+      "C": "Infected Polio vaccine",
+      "D": "Infected Measles vaccine"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Due to a measles outbreak within a community, a 7 month old male child was vaccinated for measles. what should be done next when the child comes for routine immunization?",
+    "answer": "Give a second dose as soon as he reaches 9 months of age.",
+    "options": {
+      "A": "Give a second dose after 6 weeks.",
+      "B": "Give a second dose as soon as he reaches 9 months of age.",
+      "C": "Give the second dose of measles at 16 months of age",
+      "D": "Give the second dose of measles at 12 months of age."
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "If a mother has had measles, her newborn baby is immune to this disease for -",
+    "answer": "4 to 6 month",
+    "options": {
+      "A": "4 to 6 month",
+      "B": "6 to 12 months",
+      "C": "1 to 3 years",
+      "D": "3 to 6 years"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 2 old boy with fever and rhinorrhea developed a maculopapular rash, to the face, the neck, chest, arms in that order. Diagnosis includes",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Meningococcal septicaemia",
+      "C": "Haemophilia",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Toxic shock syndrome is due to which vaccine",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Salk",
+      "D": "Tetanus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The function of the nucleocapsid proteins of measles virus is to?",
+    "answer": "Protect the genome RNA from nuclease digestion and recognize the location in the cell membrane for budding",
+    "options": {
+      "A": "Allow the virion to assemble in the icosahedral shell",
+      "B": "Protect the DNA from nuclear digestion",
+      "C": "Give the virion paicle a geometric symmetry",
+      "D": "Protect the genome RNA from nuclease digestion and recognize the location in the cell membrane for budding"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "True about measles are all except ?",
+    "answer": "Infectivity is low",
+    "options": {
+      "A": "Koplik's spots is pathognomonic",
+      "B": "Source is a case",
+      "C": "Infectivity is low",
+      "D": "Affect age group 1 to 3 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A pediatric patient with progressively developing degenerative neurologic disease/disorder has an elevated CSF antibody titer to measles virus. You should suspect which of the following?",
+    "answer": "Possible subacute sclerosing panencephalitis (SSPE)",
+    "options": {
+      "A": "Acute Lyme disease",
+      "B": "Fifth disease",
+      "C": "Possible hepatitis B infection",
+      "D": "Possible subacute sclerosing panencephalitis (SSPE)"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Rare complication of measles -",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 20 year old female was diagnosed with acute myeloid leukaemia & underwent allogenic stem cell transplantation a year ago. In her follow up visit, she has manifestations of chronic graft-versus-host disease but otherwise is doing well & has no evidence of recurrence. Which of the following vaccines should not be administered to this patient at this point of time?",
+    "answer": "Measles, mumps, and rubella",
+    "options": {
+      "A": "Diphtheria-tetanus",
+      "B": "23-Valent pneumococcal polysaccharide",
+      "C": "Measles, mumps, and rubella",
+      "D": "Poliomyelitis injection"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Vaccine with maximum efficacy is",
+    "answer": "Measles",
+    "options": {
+      "A": "OPV",
+      "B": "Measles",
+      "C": "BCG",
+      "D": "TT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Both active and passive immunization is given in all, EXCEPT:",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Rabies",
+      "C": "Measles",
+      "D": "HBV"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Candidates (s) for global eradication by WHO\na. Malariab. Dracunculosis c. Polio d. Measles e. Chicken pox",
+    "answer": "bcd",
+    "options": {
+      "A": "ab",
+      "B": "abd",
+      "C": "abc",
+      "D": "bcd"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Incubation period of measles is:",
+    "answer": "10-14 days",
+    "options": {
+      "A": "1-4 days",
+      "B": "5-7 days",
+      "C": "10-14 days",
+      "D": "15-20 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles vaccine given to contact of measles case exces protective effect within-",
+    "answer": "7 days",
+    "options": {
+      "A": "1 day",
+      "B": "3 days",
+      "C": "7 days",
+      "D": "10 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "The time gap between appearance of koplik's spot and cutaneous rash in measles is:",
+    "answer": "3-4 days",
+    "options": {
+      "A": "24 Hrs",
+      "B": "3-4 days",
+      "C": "2 weeks",
+      "D": "10 days"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Measles vaccination is given at",
+    "answer": "9 months",
+    "options": {
+      "A": "9 months",
+      "B": "At bih",
+      "C": "4 weeks",
+      "D": "8 weeks"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles is infective for: March 2009",
+    "answer": "Four days before and five days after rash",
+    "options": {
+      "A": "One day before and 4 days after rash",
+      "B": "Four days before and five days after rash",
+      "C": "Entire incubation period",
+      "D": "Only during scabs falling"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Carrier state is not important in transmission of",
+    "answer": "Measles",
+    "options": {
+      "A": "Typhoid",
+      "B": "Poliomyelitis",
+      "C": "Measles",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "The patient presented with fever, coughing, headache. He developed a rash on the 4th day, what is the probable diagnosis?",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Small pox",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is characteristic of the rash of measles:",
+    "answer": "Maculopapular eruption staing on upper trunk and spreading downward",
+    "options": {
+      "A": "Begins as a maculopapular rash, then becomes vesicular",
+      "B": "\"Slapped cheek\" appearance and lacy reticular pattern",
+      "C": "Pustules on an erythematous base",
+      "D": "Maculopapular eruption staing on upper trunk and spreading downward"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 9 years old Raju develops sudden loss of vision in both eyes. following an attack of measles. The probate cause is -",
+    "answer": "B/L optic neuritis",
+    "options": {
+      "A": "B/L optic neuritis",
+      "B": "Encephalitis",
+      "C": "Keratonealacia",
+      "D": "Raised intraocdura pressure"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the viruses given below is not Teratogenic virus:",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Cytomegalovirus",
+      "C": "Herpes",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Syncytium formation is the typical CPE produced by:-",
+    "answer": "Measles virus",
+    "options": {
+      "A": "BK virus",
+      "B": "JC virus",
+      "C": "SV 40 virus",
+      "D": "Measles virus"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Typical cell in lymphoid tissue of a case of measles shown in the illustration is:",
+    "answer": "Warthin Finkeldey cells",
+    "options": {
+      "A": "Guarnieri bodies",
+      "B": "Cowdry bodies",
+      "C": "Warthin Finkeldey cells",
+      "D": "Councilman bodies"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Keratomalacia ;s associated with:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles epidemic can be anticipated when proportion of suceptible children in a community",
+    "answer": "40%",
+    "options": {
+      "A": "20%",
+      "B": "40%",
+      "C": "60%",
+      "D": "80%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "9th month immunization given is",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "DPT",
+      "C": "BCG",
+      "D": "All"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": ". A village has a total of 100 under-five children. The coverage with measles vaccine in this age group is 60%. Following the occurrence of a measles case in a child after a visit outside, twenty six children developed Of measles is - measles. The secondary attack rate",
+    "answer": "0.65",
+    "options": {
+      "A": "0.25",
+      "B": "0.4",
+      "C": "0.5",
+      "D": "0.65"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Rash with Retro-auricular origin is typically seen in,",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Rubella",
+      "B": "Rubeola",
+      "C": "Chicken pox",
+      "D": "Mumps"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "To eradicate measles the percentage of population to be vaccinated is at least_____%:",
+    "answer": "95",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "85",
+      "D": "95"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Koplik spot is pathognomic of which infection -",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Influenza",
+      "C": "Mumps",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles vaccine at a primary health care centre should be stored at which temperature?",
+    "answer": ".+2 o C to 8 oC",
+    "options": {
+      "A": ".-20 oC",
+      "B": "0 oC",
+      "C": ".+2 o C to 8 oC",
+      "D": "Any temperature not exceeding room temperature"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "SSPE is a rare complication of",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Rubella",
+      "D": "Influenza"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In a village of 100 children, 60% are immunized against measles. One child travelled and returned with measles and infected other 26 children. What is the secondary attack rate -",
+    "answer": "67%",
+    "options": {
+      "A": "67%",
+      "B": "27%",
+      "C": "50%",
+      "D": "80%"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles vaccination is given at -",
+    "answer": "9 months",
+    "options": {
+      "A": "9 months",
+      "B": "At birth",
+      "C": "4 weeks",
+      "D": "8 weeks"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "cutaneous maculopapulary rash of the head and neck preceded by small ulcers in the buccal mucosa would suggest which of the following?",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Primary herpes simplex infection",
+      "B": "Rubeola",
+      "C": "Varicella",
+      "D": "Primary syphilis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Giant cell (Hecht's) pneumonia is due to",
+    "answer": "Measles",
+    "options": {
+      "A": "CMV",
+      "B": "Measles",
+      "C": "Malaria",
+      "D": "P. carinii"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Wahin Finkeldey giant cells are seen in:",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Rubella",
+      "C": "Measles",
+      "D": "Polio"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Both intranuclear and intracytoplasmic inclusions are present in which of the following viruses",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Pox Virus",
+      "B": "Measles virus",
+      "C": "Hepatitis B virus",
+      "D": "HIV"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Cyclic trends are seen in which of the following",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Measles",
+      "C": "Cholera",
+      "D": "Hepatitis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A family consists of 2 parents & 6 children susceptible to measles. There occurs a primary case of measles and 3 secondary cases within a short period of time. Secondary attack rate is",
+    "answer": "50%",
+    "options": {
+      "A": "60%",
+      "B": "38%",
+      "C": "67%",
+      "D": "50%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Hetch Giant cell pneumonia is caused by",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Mumps virus",
+      "B": "Rubella",
+      "C": "Rubeola",
+      "D": "Varicella"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Koplik spots are characteristic of:-",
+    "answer": "Measles",
+    "options": {
+      "A": "Chicken pox",
+      "B": "Mumps",
+      "C": "HIV",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Period of infectivity for Measles is:-",
+    "answer": "4 days before to 5 days after appearance of rash",
+    "options": {
+      "A": "2 days before to 5 days after appearance of rash",
+      "B": "1 day before to 1 day after appearance of rash",
+      "C": "4 days before to 5 days after appearance of rash",
+      "D": "Lifelong"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Keratomalacia is seen in which of the following infections-",
+    "answer": "Measles",
+    "options": {
+      "A": "Chicken pox",
+      "B": "Mumps",
+      "C": "Diarrhoea",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 2 year old unimmunized child present to a primary health center with fever since 5 days. Mother also give a history of rash staing behind ear- pinna a day before coming to OPD. On examination, child is having running nose and congested eyes. Most probable diagnosis is:-",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Subclinical cases are seen in all except-",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Polio",
+      "D": "Influenza"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Subacute sclerosing panencephalitis is a complication of:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Varicella"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Post exposure measles vaccine must be given within ----- days of exposure",
+    "answer": "3",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "7",
+      "D": "10"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of the following vaccine are recommended for elderly travelers, except-",
+    "answer": "Measles",
+    "options": {
+      "A": "Influenza",
+      "B": "Pneumococcal",
+      "C": "Tetanus",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Subacute Sclerosing Panencephalitis is a rare and dangerous complication of;",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Varicella"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most common complication of measles is:",
+    "answer": "Otitis media",
+    "options": {
+      "A": "Orchitis",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "Seizures"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles vaccination is given at-",
+    "answer": "9 months",
+    "options": {
+      "A": "9 months",
+      "B": "At birth",
+      "C": "4 weeks",
+      "D": "8 weeks"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 2 year old child is admitted to ICU due to complications which is thought to be secondary to measles infection. Which of the following is the LEAST common complication of measles?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The following are true about measles",
+    "answer": "All the above",
+    "options": {
+      "A": "It is an RNA virus",
+      "B": "Causes Koplik's spots on the conjunctiva",
+      "C": "Acute catarrhal conjunctivitis is a known features",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 23-year-old woman comes to the physician because she thinks that she may be pregnant. She missed her last two periods and feels \"different.\" A urine pregnancy test is positive and an ltrasound reveals a 12-week fetus. The patient is very concerned because she received the measles-mumps-rubella (MMR) vaccine four months ago and was told to wait 3 months before attempting conception. The pregnancy is desired. The patient asks if she should have a termination of pregnancy because she was vaccinated sholy before becoming pregnant. Which of the following is the most appropriate response?",
+    "answer": "The vaccine risk is low and is not in itself a reason to terminate",
+    "options": {
+      "A": "There is no vaccine risk and termination is completely inappropriate",
+      "B": "The vaccine risk is low and is not in itself a reason to terminate",
+      "C": "The vaccine risk is moderate and termination should be considered",
+      "D": "The vaccine risk is high and termination should be strongly considered"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following vaccine should not be given during pregnancy?",
+    "answer": "Measles, mumps, rubella",
+    "options": {
+      "A": "HBV",
+      "B": "Measles, mumps, rubella",
+      "C": "Typhoid",
+      "D": "Cholera"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 6-year-old boy develops symptoms of cough, fever, and malaise followed by a generalized maculopapular rash that has spread from the head downwards. A clinical diagnosis of measles is made. A few days after the onset of the rash he is drowsy, lethargic, and complaining of headache. A lumbar puncture, electroencephalogram (EEG), and computerized tomography (CT) of the brain exclude other etiologies and confirm the diagnosis of encephalitis. Which of the following is the most likely delayed neurologic complication of measles virus encephalitis?",
+    "answer": "mental retardation or epilepsy",
+    "options": {
+      "A": "meningitis",
+      "B": "pure motor paralysis",
+      "C": "autonomic neuropathy",
+      "D": "mental retardation or epilepsy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In one single visit, a 9 month-old, un-immunized child can be given the following vaccination ?",
+    "answer": "BCG, DPT-1, OPV-1, Measles",
+    "options": {
+      "A": "Only BCG",
+      "B": "BC DPT-1, OPV-1",
+      "C": "DPT-1, OPV-1, Measles",
+      "D": "BCG, DPT-1, OPV-1, Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Intranuclear and intracytoplasmic inclusion bodies are seen in: September 2012",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Pox virus",
+      "B": "Rabies virus",
+      "C": "Measles virus",
+      "D": "Herpes virus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A patient with neurological problems has an elevated cerebrospinal fluid (CSF) antibody titer to measles virus. You would most likely suspect",
+    "answer": "Possible subacute sclerosing panencephalitis (SSPE)",
+    "options": {
+      "A": "Fifth disease",
+      "B": "Susceptibility to chickenpox",
+      "C": "Possible subacute sclerosing panencephalitis (SSPE)",
+      "D": "Possible hepatitis B infection"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles is caused by a",
+    "answer": "Single stranded RNA enveloped virus",
+    "options": {
+      "A": "Single stranded RNA enveloped virus",
+      "B": "Single stranded RNA non-enveloped virus",
+      "C": "Double stranded RNA enveloped virus",
+      "D": "Double stranded RNA non-enveloped virus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A two year old unimmunized child presents to a primary health center with fever since 5 days Mother also gives a history of rash staing behind ear-pinna a day before coming OPD. On examination, child is having running nose and congested eyes. Most probable diagnosis is:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles vaccine given to contact of measles case exes protective effect within -",
+    "answer": "7 days",
+    "options": {
+      "A": "1 day",
+      "B": "3 days",
+      "C": "7 days",
+      "D": "10 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Warthin-Finkeldey cells are seen in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Chromblastomycosis",
+      "D": "Sporotrichosis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 9-month-old un-immunized child was brought to the dispensary, which vaccination should be given to this baby at first visit?",
+    "answer": "OPV + BCG + DPT + Measles",
+    "options": {
+      "A": "OPV + BCG",
+      "B": "OPV + DPT + Measles",
+      "C": "OPV + BCG + DPT + Measles",
+      "D": "OPV + DPT + BCG"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 3 yr old completely unimmunised child comes to an immunization clinic at PHC for the first time. He should receive -",
+    "answer": "DPT-1, OPV-1, Measles, Vitamin-A",
+    "options": {
+      "A": "BCG, Measles, Vitamin-A",
+      "B": "DT-1, OPV-1, Measles, Vitamin-A",
+      "C": "BCG, DPT-1, OPV-1, Measles, Vitamin-A",
+      "D": "DPT-1, OPV-1, Measles, Vitamin-A"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Sub acute - Sclerosing pan - encephalitis (SSPE) is caused by",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Small pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A couple has 4 children, all unvaccinated for Measles. A child got Measles on 5 August 2015. Two other children developed Measles by 15 August 2015. Secondary attack rate is:",
+    "answer": "66%",
+    "options": {
+      "A": "0%",
+      "B": "33%",
+      "C": "66%",
+      "D": "75%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Rare complication of measles ?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Post exposure vaccination for measles should be done in: September 2009",
+    "answer": "3 day of exposure",
+    "options": {
+      "A": "1 day of exposure",
+      "B": "2 day of exposure",
+      "C": "3 day of exposure",
+      "D": "7 day of exposure"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which virus is not a teratogenic Virus?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Cytomegalovirus",
+      "C": "Herpes simplex",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "True about measles are all EXCEPT?",
+    "answer": "It is not infective before the rash appears",
+    "options": {
+      "A": "Koplik spots appear in prodromal stage",
+      "B": "Fever stops after the onset of rash",
+      "C": "Vaccine given at 9 months",
+      "D": "It is not infective before the rash appears"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following vaccine should not be given during pregnancy ?",
+    "answer": "Measles, mumps, rubella",
+    "options": {
+      "A": "HBV",
+      "B": "Measles, mumps, rubella",
+      "C": "Typhoid",
+      "D": "Cholera"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "True about measles",
+    "answer": "Long term complication follows in form of SSPE",
+    "options": {
+      "A": "Rash appear first on leg",
+      "B": "Koplik spots are seen in retina",
+      "C": "Long term complication follows in form of SSPE",
+      "D": "Caused by DNA virus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A patient with clustered, white lesions on the buccal mucosa (opposite the upper 1st & 2nd molars) pathognomonic for measles. These are:-",
+    "answer": "Koplik spots",
+    "options": {
+      "A": "Leukoplakia",
+      "B": "Koplik spots",
+      "C": "Kaposi spots",
+      "D": "None"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Vaccine which must be stored in the freezer compartment of a fridge is/are -a)  BCGb)  OPVc)  Measlesd)  Smallpoxe)  All of the above",
+    "answer": "bc",
+    "options": {
+      "A": "ce",
+      "B": "bc",
+      "C": "cde",
+      "D": "eb"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of the following infections have carrier states, EXCEPT:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Diptheria",
+      "C": "Typhoid",
+      "D": "Gonorrhea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most serious complication of measles is-",
+    "answer": "Meningoencephalitis",
+    "options": {
+      "A": "Koplik spots",
+      "B": "Parotitis",
+      "C": "Meningoencephalitis",
+      "D": "Nephritis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Period of isolation for Measles is from",
+    "answer": "Onset of catarrhal symptoms to 3 days after",
+    "options": {
+      "A": "Onset of catarrhal symptoms to 3 days after",
+      "B": "Onset of catarrhal symptoms to 7 days after",
+      "C": "Onset of catarrhal symptoms to 6 days after",
+      "D": "Onset of catarrhal symptoms to 8 days after"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 10 month old unimmunized child develops fever and a diffuse maculopapular rash on day 4 of fever starting from the face and spreading downwards. There is postauricular lymphadenopathy. What is the most likely diagnosis?",
+    "answer": "Measles",
+    "options": {
+      "A": "German measles",
+      "B": "Measles",
+      "C": "Varicella",
+      "D": "Exanthem subitum"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following is a reservoir for measles",
+    "answer": "Man",
+    "options": {
+      "A": "Man",
+      "B": "Soil",
+      "C": "Fomites",
+      "D": "Monkey"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A3 year old non-vaccinated child presented with fever and fast breathing. His mother told that he has recently developed measles rash. CXR shown below is indicative of which infection?",
+    "answer": "Staphylococcus aureus",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Staphylococcus Albus",
+      "C": "Streptococcal pneumoniae",
+      "D": "Streptococcal viridans"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 2 year old un immunised child from a hilly tribal area developed Keratomalacia after a viral infection. Which of the following could have lead to the development of Keratomalacia?",
+    "answer": "Rubeola",
+    "options": {
+      "A": "Rubella",
+      "B": "Rubeola",
+      "C": "Mumps",
+      "D": "Varicella"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of the statement regarding measles are true except-",
+    "answer": "Rash appears first on leg",
+    "options": {
+      "A": "Rash appears first on leg",
+      "B": "Koplik spot are seen on the buccal mucosa",
+      "C": "Long term complication may be seen in form of SSPE",
+      "D": "Caused by RNA virus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most fatal complication of measles is",
+    "answer": "SSPE",
+    "options": {
+      "A": "Pneumonia",
+      "B": "Polyps",
+      "C": "SSPE",
+      "D": "Otitis media"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "SSPE is a rare complication of ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Rubella",
+      "D": "Influenza"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 1-year-old girl has not received any recommended vaccines since birth. She remains healthy despite her daily association with several other children for the past 3 months at a play school. Which of the following phenomenon explains why she has not contracted any vaccine-preventable diseases such as measles, diphtheria, or pertussis?",
+    "answer": "Herd immunity",
+    "options": {
+      "A": "Herd immunity",
+      "B": "Tolerance",
+      "C": "Immune evasion",
+      "D": "Genetic shift"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Carries are impoant in all the following except ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Polio",
+      "B": "Typhoid",
+      "C": "Measles",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following vaccines has maximum efficacy after a single dose -",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus toxoid",
+      "B": "DPT",
+      "C": "Measles",
+      "D": "Typhoid"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Incubation period of measles -",
+    "answer": "14 days",
+    "options": {
+      "A": "14 days",
+      "B": "1 Month",
+      "C": "3 Month",
+      "D": "5 Month"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles is said to be infectious",
+    "answer": "4 days before and 5 days after rash appearance",
+    "options": {
+      "A": "4 days before appearance of rash",
+      "B": "After 4 days of rash",
+      "C": "4 days before and 5 days after rash appearance",
+      "D": "Only during the incubation period"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Wahin-Finkeldey giant cells are seen in",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Influenza",
+      "D": "Rickettsial pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Human is the only reservoir for",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Tetanus",
+      "C": "Measles",
+      "D": "JE virus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Measles elimination criteria are all except ?",
+    "answer": "Transmission at low level",
+    "options": {
+      "A": "Absence of endemic measles",
+      "B": "For more than 12 months",
+      "C": "Incidence < 1 per 1 lac population",
+      "D": "Transmission at low level"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Moality rate of measles in developing countries?",
+    "answer": "10%",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "40%"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Carries are impoant in all the following except-",
+    "answer": "Measles",
+    "options": {
+      "A": "Polio",
+      "B": "Typhoid",
+      "C": "Measles",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Chemoprophylaxis is not indicated in which of the following -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Cholera",
+      "C": "Meningococcemia",
+      "D": "Plague"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Vision 2020 \"The right to sight\" includes all except-",
+    "answer": "Measles induced blindness",
+    "options": {
+      "A": "Trachoma",
+      "B": "Measles induced blindness",
+      "C": "Cataract",
+      "D": "Onchocerciasis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Most common cause of death in measles?",
+    "answer": "Pneumonia",
+    "options": {
+      "A": "Encephalitis",
+      "B": "Meningitis",
+      "C": "Dehydration",
+      "D": "Pneumonia"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Koplik's spots are seen in: September 2008",
+    "answer": "Measles",
+    "options": {
+      "A": "Typhoid",
+      "B": "Measles",
+      "C": "Mumps",
+      "D": "Polio"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "To eradicate measles the percentage of population to be caccinated is at least -----------%-",
+    "answer": "95",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "85",
+      "D": "95"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Iceberg phenomena is not seen in -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "AIDS",
+      "C": "Polio",
+      "D": "Rubella"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Wahin Finkeldy cells are found in:-",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Molluscum contagiosum",
+      "D": "Herpes simplex infection"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A most serious complication of measles is-",
+    "answer": "Meningoencephalitis",
+    "options": {
+      "A": "Koplik spots",
+      "B": "Parotitis",
+      "C": "Meningoencephalitis",
+      "D": "Nephritis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Other than koplik spots, pathognomonic of measles is:",
+    "answer": "Warthin ﬁnkeldey giant cells",
+    "options": {
+      "A": "Warthin ﬁnkeldey giant cells",
+      "B": "Torres bodies",
+      "C": "Negri bodies",
+      "D": "All of the above"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Koplik's spots occur in which phase of measles -",
+    "answer": "End of prodromal phase",
+    "options": {
+      "A": "End of prodromal phase",
+      "B": "Examthematous phase",
+      "C": "Post examthematous phase",
+      "D": "Recrudescence phase"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All the following are true about measles vaccine except -",
+    "answer": "Diluent not required",
+    "options": {
+      "A": "Given subcutaneously",
+      "B": "High efficacy",
+      "C": "Given below 1 year of age",
+      "D": "Diluent not required"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Pneumonia is a complication of:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Chickenpox",
+      "C": "Infectious mononucleosis",
+      "D": "Mastoiditis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All of the following vaccines are recommended for elderly travelers, Except -",
+    "answer": "Measles",
+    "options": {
+      "A": "Influenza",
+      "B": "Pneumococcal",
+      "C": "Tetanus",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Chronic carrier state is seen in all, EXCEPT:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Diphtheria",
+      "C": "Typhoid",
+      "D": "Gonorrhoea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "For which of the following disease, vaccine is contraindicated in pregnancy, even following maternal exposure?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Measles",
+      "C": "Typhoid",
+      "D": "Hepatitis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Routine Second dose of Measles vaccine is given to?",
+    "answer": "16-24 months if coverage > 80%",
+    "options": {
+      "A": "16-24 months if coverage > 80%",
+      "B": "16-24 months if coverage < 80%",
+      "C": "9 months-10 years if coverage > 80%",
+      "D": "9 months-10 years if coverage < 80%"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles epidemic can be anticipated when propoion of susceptible children in a community reaches -",
+    "answer": "40%",
+    "options": {
+      "A": "20%",
+      "B": "40%",
+      "C": "60%",
+      "D": "80%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A two year old unimmunized child presents to a primary health centre with fever since 5 days. Mother also gives a history of rash staing behind ear-pinna a day before coming to OPD. On examination, child is having running nose and congested eyes. Most probable diagnosis is:-",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Mumps",
+      "C": "Measles",
+      "D": "Chickenpox"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "To eradicate measles the percentage of population to be vaccinated is at least............%",
+    "answer": "95",
+    "options": {
+      "A": "70",
+      "B": "80",
+      "C": "85",
+      "D": "95"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles vaccination to all 9 months - 14 years children is a pa of which WHO strategy?",
+    "answer": "Catch up",
+    "options": {
+      "A": "Mop up",
+      "B": "Catch up",
+      "C": "Keep up",
+      "D": "Follow up"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Active and passive immunity should be given together in all except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Rabies",
+      "C": "Measles",
+      "D": "Hepatitis B"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Live attenuated vaccine:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rabies",
+      "C": "Hepatitis B",
+      "D": "Typhoid"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is false regarding measles?",
+    "answer": "Nikolsky's sign",
+    "options": {
+      "A": "Koplik's spots",
+      "B": "Macula papuLar skin rash",
+      "C": "Fever and malaise",
+      "D": "Nikolsky's sign"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is the 'Least common' complication of measles?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Susceptible cultured cells infected with which of the following viruses would exhibit hemadsorption with the appropriate erythocyte -a) Sindbis virusb) Rabies virusc) Measles virusd) Respiratory syncytial virus",
+    "answer": "bc",
+    "options": {
+      "A": "a",
+      "B": "c",
+      "C": "bc",
+      "D": "ad"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "SSPE is seen in?",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Mumps,",
+      "C": "Measles",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Malnourished children are at risk for complications of measles, leading to greater morbidity and mortality. Which of the following should be given to children to reduce these risks?",
+    "answer": "Vitamin A",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin B",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "9th month immunization given is -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "DPT",
+      "C": "BOG",
+      "D": "All"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following disease have incubation period > 10 days",
+    "answer": "Measles",
+    "options": {
+      "A": "Cholera",
+      "B": "Influenza",
+      "C": "Plague",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles vaccine given to contact of measles case exerts protective effect within -",
+    "answer": "7 days",
+    "options": {
+      "A": "1 day",
+      "B": "3 days",
+      "C": "7 days",
+      "D": "10 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following vaccine should not be given during pregnancy ?-",
+    "answer": "Measles, mumps, rubella",
+    "options": {
+      "A": "HBV",
+      "B": "Measles, mumps, rubella",
+      "C": "Typhoid",
+      "D": "Cholera"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Koplik spots are pathognomic of -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Diphtheria",
+      "C": "Donovanosis",
+      "D": "Gonorrhoea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Edmonston strain is -",
+    "answer": "Measles",
+    "options": {
+      "A": "Hepatitis-B",
+      "B": "Measles",
+      "C": "Mumps",
+      "D": "Rubella"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Warthin-Finkeldey giant cells are seen in?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Rubella",
+      "C": "Measles",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Subclinical cases are seen in all except -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Polio",
+      "D": "Influenza"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Supplementary immunisation services for measles immunisation?",
+    "answer": "All the above",
+    "options": {
+      "A": "Keep up with > 95% immunised",
+      "B": "Catch up",
+      "C": "Follow up",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 11-month-old child came for vaccination. He had received Polio vaccine & BCG at birth. What vaccines should be given to him now?",
+    "answer": "Measles, DPT, OPV, Hib, Hep B",
+    "options": {
+      "A": "BCG, OPV, Hep B",
+      "B": "Measles, DPT, OPV, Hib, Hep B",
+      "C": "DPT, OPV, Hib, Hep B",
+      "D": "DPT, OPV, Hep B"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The disease diagnosed from the following CT follows an attack of:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Varicella",
+      "C": "Mumps",
+      "D": "Rubella"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A couple has 4 children, all unvaccinated for measles. A child got measles on 5th August 2015. Two other children developed measles by 15th August 2015. The secondary attack rate here is",
+    "answer": "66%",
+    "options": {
+      "A": "75%",
+      "B": "66%",
+      "C": "33%",
+      "D": "0%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 3 yr old completely unimmunised child comes to an immunization clinic at PHC for the firsr time, He should receive",
+    "answer": "DT-1, OPV-1, Measles, Vitamin - A",
+    "options": {
+      "A": "BCG, Measles, Vitamin - A",
+      "B": "DT-1, OPV-1, Measles, Vitamin - A",
+      "C": "BCG, DPT, DPT-1, OPV-1, Measles, Vitamin - A",
+      "D": "DPT-1, OPV, Measles, Vitamin - A"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Disease which shows cyclical trend:-",
+    "answer": "Measles",
+    "options": {
+      "A": "Malaria",
+      "B": "Diarrhea",
+      "C": "Measles",
+      "D": "Tuberculosis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 9 month old child has been brought to the emergency measles. He should be administered with vitamin A in a dose of:",
+    "answer": "1,00,000 IU",
+    "options": {
+      "A": "50,000 IU",
+      "B": "1,00,000 IU",
+      "C": "1.50,000 IU",
+      "D": "2,00,000 IU"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The following vaccine, if contaminated can cause Toxic shock syndrome (TSS)-",
+    "answer": "Measles vaccine",
+    "options": {
+      "A": "Measles vaccine",
+      "B": "DPT",
+      "C": "Hepatitis B",
+      "D": "Typhoral"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Measles belongs to,",
+    "answer": "Paramyxovirus",
+    "options": {
+      "A": "Togavirus",
+      "B": "Paramyxovirus",
+      "C": "Arbovirus",
+      "D": "none of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Epstien Barr virus causes all the following except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Infectious mononucleosis",
+      "B": "Measles",
+      "C": "Nasopharyngeal carcinoma",
+      "D": "Non-Hodgkins lymphoma"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Keratomalacia is associated with",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Chicken pox",
+      "D": "Rubella"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The most effective vaccine is -",
+    "answer": "Measles",
+    "options": {
+      "A": "TT",
+      "B": "OPV",
+      "C": "B.C.G",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Pathognomic clinical feature of measles are -",
+    "answer": "Kolpik spots",
+    "options": {
+      "A": "Erythematous macular rash",
+      "B": "Kolpik spots",
+      "C": "Brushfield spots",
+      "D": "Bitots spots"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "True about measles -",
+    "answer": "Koplik spot appears in prodromal stage",
+    "options": {
+      "A": "Koplik spot appears in prodromal stage",
+      "B": "Fever stops after onset of rash",
+      "C": "Vaccine given at 9 months",
+      "D": "It is not diagnosed when coryza and rhinitis is absent"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Chemoprophylaxis is indicated for all of the following except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Cholera",
+      "B": "Measles",
+      "C": "Meningococcal meningitis",
+      "D": "Conjunctivitis87. Under the school vision screening"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Cyclic trends are seen in which of the following -",
+    "answer": "Measles",
+    "options": {
+      "A": "Rabies",
+      "B": "Measles",
+      "C": "Cholera",
+      "D": "Hepatitis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Broncho-pneumonia due to measles occurs due",
+    "answer": "Immunomodulation",
+    "options": {
+      "A": "Sinusitis",
+      "B": "Immunomodulation",
+      "C": "Bronchial obstruction",
+      "D": "Aspiration"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Incubation period of Measles",
+    "answer": "14 days",
+    "options": {
+      "A": "14 days",
+      "B": "1 month",
+      "C": "3 month",
+      "D": "5 month"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A mother brought her six years old child to Eye OPD with history of night blindness. She told that the baby suffered from measles 6 months ago. Examination revealed corneal scarring. The doctor should suspect deficiency of",
+    "answer": "Vitamin A",
+    "options": {
+      "A": "Vitamin A",
+      "B": "Vitamin D",
+      "C": "Vitamin C",
+      "D": "Vitamin B"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "SSPE is a complication of ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Diphtheria",
+      "C": "Measles",
+      "D": "Peussis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "SSPE (Subacute sclerosing panencephalitis) is associated with: March 2010 September 2012, March 2013 (h)",
+    "answer": "Measles",
+    "options": {
+      "A": "Tetanus",
+      "B": "Meningitis",
+      "C": "Cholera",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is not a neurological Complications of Rubeola",
+    "answer": "Peripheral neuropathy",
+    "options": {
+      "A": "SSPE",
+      "B": "Encephalitis",
+      "C": "Transverse myelitis",
+      "D": "Peripheral neuropathy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A line of conjunctival inflammation on lower eye lid margin is diagnostic of -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Kawasaki disease",
+      "D": "Infectious monouncleosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Communicable period of measles-",
+    "answer": "4 days before and 5 days after rash",
+    "options": {
+      "A": "After 4 days of rash",
+      "B": "4 days before and 5 days after rash",
+      "C": "Throughout disease",
+      "D": "Only in incubation period"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Vaccine not given between 0-6 months is-",
+    "answer": "Measles",
+    "options": {
+      "A": "HIV",
+      "B": "Measles",
+      "C": "BCG",
+      "D": "Tetanus"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Warthin Finkeldey giant cells are seen in?",
+    "answer": "Measles",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Sarcoidosis",
+      "C": "Herpes",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Subacute sclerosing panencephalitis is late neurological complication associated with infection due to",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Mumps virus",
+      "B": "Measles virus",
+      "C": "Rubella virus",
+      "D": "Para influenza virus"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Carriers are not seen in:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Meningitis",
+      "C": "Diphtheria",
+      "D": "Typhoid"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "6th month immunization given is -",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "DPT",
+      "C": "BCG",
+      "D": "All"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Carrier state is seen in following, except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Diphtheria",
+      "B": "Measles",
+      "C": "Typhoid",
+      "D": "Polio"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Wahin-Finkelday giant cells in lymphoid tissue are characteristic of which of the following infections?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Congenital cytomegalovirus infection",
+      "D": "HIV infection"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Virus causing acute onset sensorineural deafness -a) Corona virusb) Rubella, measlesc) Mumpsd) Adeno viruse) Rota virus",
+    "answer": "bc",
+    "options": {
+      "A": "a",
+      "B": "bc",
+      "C": "ac",
+      "D": "ad"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Iceberg phenomena is not seen in",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "AIDS",
+      "C": "Polio",
+      "D": "Rubella"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Complication of measles are all except -",
+    "answer": "Pancreatitis",
+    "options": {
+      "A": "Myocarditis",
+      "B": "Appendicitis",
+      "C": "SSPE",
+      "D": "Pancreatitis"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Bronchopneumonia complication in measles is due to -",
+    "answer": "Immuno-modualtion",
+    "options": {
+      "A": "Aspiration",
+      "B": "Sinusitis",
+      "C": "Bronchiolar obsturction",
+      "D": "Immuno-modualtion"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Incubation period of measles is -",
+    "answer": "10-14 days",
+    "options": {
+      "A": "1-2 months",
+      "B": "10-14 days",
+      "C": "20-22 days",
+      "D": "1-2 days"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Healthy carrier is seen in all except",
+    "answer": "Measles",
+    "options": {
+      "A": "Polio",
+      "B": "Measles",
+      "C": "Cholera",
+      "D": "Diphtheria"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which viral infection always causes clinical disease in human beings-",
+    "answer": "Measles",
+    "options": {
+      "A": "Rubella",
+      "B": "Poliomyelitis",
+      "C": "Measles",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A village has a total of 100 under-five children. The coverage with measles vaccine in this age group is 60%. Following the occurrence of a measles case in a child after a visit outside, twenty six children developed measles. The secondary attack rate ofmeasles is -",
+    "answer": "65%",
+    "options": {
+      "A": "25%",
+      "B": "40%",
+      "C": "50%",
+      "D": "65%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Koplik spots are seen in?",
+    "answer": "Measles",
+    "options": {
+      "A": "Mumps",
+      "B": "Measles",
+      "C": "Rubella",
+      "D": "Varicella"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "SSPE is a complication of:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "Rabies"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Morbilliform eruptions is seen in",
+    "answer": "Toxic shock syndrome",
+    "options": {
+      "A": "Rubella",
+      "B": "Scarlet fever",
+      "C": "Mumps",
+      "D": "Toxic shock syndrome"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following diseases have incubation period < 10 days -a)  Cholerab)  Influenzac)  Plagued)  Measlese) Rubella",
+    "answer": "abc",
+    "options": {
+      "A": "ab",
+      "B": "bc",
+      "C": "abc",
+      "D": "bcd"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which among the following diseases can prove fatal in combination with malnutrition among under 5 Children?",
+    "answer": "Measles",
+    "options": {
+      "A": "Anemia",
+      "B": "Tetanus",
+      "C": "Measles",
+      "D": "Diarrhoea"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Syncytium formation is a property of -",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Herpes virus",
+      "B": "Adenovirus",
+      "C": "Measles virus",
+      "D": "Rabies virus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "All are true about measles except-",
+    "answer": "Secondary attack rate is 30-40%",
+    "options": {
+      "A": "Incubation period is 10-14 days",
+      "B": "Secondary attack rate is 30-40%",
+      "C": "Sub cutaneous vaccine is available",
+      "D": "Vaccine is live attenuated"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Wahin-Finkeldey giant cells are seen in ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Rubella",
+      "C": "Influenza",
+      "D": "Rickettsial pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Subacute sclerosing panencephalitis is a late neurological complication associated with infection due to:",
+    "answer": "Measles virus",
+    "options": {
+      "A": "Measles virus",
+      "B": "Mumps virus",
+      "C": "Rubella virus",
+      "D": "Parainfluenza virus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All of the following diseases are caused by Epstein Barr virus except:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Hodgkins lymphoma",
+      "C": "Infectious mononucleosis",
+      "D": "Nasopharyngeal carcinoma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "True about Measles rash appearance:",
+    "answer": "1-2 days after Koplik spots",
+    "options": {
+      "A": "Along with Koplik spots",
+      "B": "1-2 days before Koplik spots",
+      "C": "1-2 days after Koplik spots",
+      "D": "Post measles stage"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Giant cells seen in Measles are called?",
+    "answer": "Wahin-Finkeldey cells",
+    "options": {
+      "A": "Hp bodies",
+      "B": "Inclusion containing polykaryon",
+      "C": "Koplik cells",
+      "D": "Wahin-Finkeldey cells"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Myxoviruses include -a) Orthomyxovirusb) Influenzac) Measlesd) Polioe) HSV",
+    "answer": "abc",
+    "options": {
+      "A": "ab",
+      "B": "bc",
+      "C": "acd",
+      "D": "abc"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is the \"Least Common\" complication of measles ?",
+    "answer": "SSPE",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Pneumonia",
+      "C": "Otitis media",
+      "D": "SSPE"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Measles shows age distribution. It is found most commonly in which age group?",
+    "answer": "6 months to 3 years",
+    "options": {
+      "A": "9 months to 3 years",
+      "B": "6 months to 2 years",
+      "C": "9 months to 2 years",
+      "D": "6 months to 3 years"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Warthin Finkleday giant cells are seen in:",
+    "answer": "Measles",
+    "options": {
+      "A": "LGV",
+      "B": "Measles",
+      "C": "Mumps",
+      "D": "Rubella"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The virus causing which of the following disease produces both intranuclear and intracytoplasmic inclusion bodies ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Chickenpox",
+      "B": "Rabies",
+      "C": "Small pox",
+      "D": "Measles"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Keratomalacia is associated with:",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Rubella",
+      "D": "All"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Patient presented with fever, coughing, headache. He developed rash on 3rd day, what is probable diagnosis ?",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Mumps",
+      "C": "Small pox",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Post-exposure immunization is done for",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Polio",
+      "C": "Rabies",
+      "D": "Chicken pox"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The disease most likely to result In presents of emotional contact is",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Typhoid",
+      "C": "SSPE",
+      "D": "All of above"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "True about measles –",
+    "answer": "All the above",
+    "options": {
+      "A": "Koplik spot appears in prodromal stage",
+      "B": "Fever stops after onset of rash",
+      "C": "Vaccine given at 9 month",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Isolation period of measles:-",
+    "answer": "Onset of prodromal phase until 3rd day of rash",
+    "options": {
+      "A": "Onset of prodromal stage until 7th day of rash",
+      "B": "Eruptive stage until 2 days of rash",
+      "C": "Onset of prodromal phase until 3rd day of rash",
+      "D": "Eruptive stage until 7th day of rash"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Chronic carrier state is seen in all except",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Diptheria",
+      "C": "Typhoid",
+      "D": "Gonorrhea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "After the appearance of rash, prophylactic isolation of measles case is necessary for a minimum of:September 2007",
+    "answer": "5 days",
+    "options": {
+      "A": "2 days",
+      "B": "5 days",
+      "C": "7 days",
+      "D": "9 days"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which vaccine is effective for Mass vaccination post-disaster?",
+    "answer": "Measles",
+    "options": {
+      "A": "Cholera",
+      "B": "Typhoid",
+      "C": "Measles",
+      "D": "Scrub typhus"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Immunization that could help post-disaster includes",
+    "answer": "Measles",
+    "options": {
+      "A": "Measles",
+      "B": "Cholera",
+      "C": "Typhoid",
+      "D": "All"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 17-year-old boy comes to the physician because of fever, fatigue, and a sore throat for 12 days. He was prescribed amoxicillin at another clinic and now has a diffuse rash all over his body. He was treated for gonorrhea one year ago. He has multiple sexual partners and uses condoms inconsistently. He appears lethargic and thin. His BMI is 19.0 kg/m2. His temperature is 38.4°C (101.1°F), pulse 94/min, blood pressure 106/72 mm Hg. Examination shows a morbilliform rash over his extremities. Oropharyngeal examination shows tonsillar enlargement and erythema with exudates. Tender cervical and inguinal lymphadenopathy is present. Abdominal examination shows mild splenomegaly. Laboratory studies show:\nHemoglobin 14 g/dL\nLeukocyte count 13,200/mm3\nPlatelet count 160,000/mm3\nWhich of the following is the next best step in management?\"",
+    "answer": "Heterophile agglutination test",
+    "options": {
+      "A": "Throat swab culture",
+      "B": "Anti-CMV IgM",
+      "C": "ELISA for HIV",
+      "D": "Heterophile agglutination test",
+      "E": "Flow cytometry"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 34-year-old man comes to the physician for a routine health maintenance examination. He was diagnosed with HIV 8 years ago. He is currently receiving triple antiretroviral therapy. He is sexually active and uses condoms consistently. He is planning a trip to Thailand with his partner to celebrate his 35th birthday in 6 weeks. His last tetanus and diphtheria booster was given 4 years ago. He received three vaccinations against hepatitis B 5 years ago. He had chickenpox as a child. Other immunization records are unknown. Vital signs are within normal limits. Cardiopulmonary examination shows no abnormalities. Leukocyte count shows 8,700/mm3, and CD4+ T-lymphocyte count is 480 cells/mm3 (Normal ≥ 500); anti-HBs is 150 mIU/mL. Which of the following recommendations is most appropriate at this time?",
+    "answer": "Measles, mumps, rubella vaccine",
+    "options": {
+      "A": "Hepatitis B vaccine",
+      "B": "Bacillus Calmette Guerin vaccine",
+      "C": "Measles, mumps, rubella vaccine",
+      "D": "Yellow fever vaccine",
+      "E": "No vaccination"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 1-year-old immigrant girl presents to her pediatrician for a routine well-child check. She has not received any recommended vaccines since birth. She attends daycare and remains healthy despite her daily association with several other children for the past 3 months at a home daycare facility. Which of the following phenomena explains why she has not contracted any vaccine-preventable diseases such as measles, diphtheria, or pertussis?",
+    "answer": "Herd immunity",
+    "options": {
+      "A": "Herd immunity",
+      "B": "Genetic drift",
+      "C": "Genetic shift",
+      "D": "Tolerance",
+      "E": "Immune evasion"
+    },
+    "meta_info": "step1",
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 27-year-old G0P0 female presents to her OB/GYN for a preconception visit to seek advice before becoming pregnant. A detailed history reveals no prior medical or surgical history, and she appears to be in good health currently. Her vaccination history is up-to-date. She denies tobacco or recreational drug use and admits to drinking 2 glasses of wine per week. She states that she is looking to start trying to become pregnant within the next month, hopefully by the end of January. Which of the following is NOT recommended as a next step for this patient's preconception care?",
+    "answer": "Administer measles, mumps, rubella (MMR) vaccination",
+    "options": {
+      "A": "Begin 400 mcg folic acid supplementation",
+      "B": "Recommend inactivated influenza vaccination",
+      "C": "Obtain rubella titer",
+      "D": "Administer measles, mumps, rubella (MMR) vaccination",
+      "E": "Obtain varicella zoster titer"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 13-year-old girl is brought to the physician by her father because of a worsening pruritic rash for 2 days. Five weeks ago, she was diagnosed with juvenile myoclonic epilepsy and treatment with lamotrigine was begun. Her immunizations are up-to-date. Her temperature is 38.8°C (101.8°F). Physical examination shows facial edema and a partially confluent morbilliform rash over the face, trunk, and extremities. There is swelling of the cervical and inguinal lymph nodes and hepatomegaly. Further evaluation is most likely to show which of the following?",
+    "answer": "Increased absolute eosinophil count",
+    "options": {
+      "A": "Fragmented red blood cells",
+      "B": "Increased absolute eosinophil count",
+      "C": "Positive heterophile antibody test",
+      "D": "Anti-measles IgM antibodies",
+      "E": "Elevated antistreptolysin-O titer"
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 17-year-old girl presents to the emergency department with a severe headache. The patient has had headaches in the past, but she describes this as the worst headache of her life. Her symptoms started yesterday and have been getting progressively worse. The patient states that the pain is mostly on one side of her head. There has been a recent outbreak of measles at the patient’s school, and the patient’s mother has been trying to give her daughter medicine to prevent her from getting sick, but the mother fears that her daughter may have caught the measles. On physical exam, you note an obese young girl who is clutching her head with the light in the room turned off. Her neurological exam is within normal limits. Fundoscopic exam reveals mild bilateral papilledema. A MRI of the head is obtained and reveals cerebral edema. A lumbar puncture reveals an increased opening pressure with a normal glucose level. Which of the following is the most likely diagnosis?",
+    "answer": "Fat-soluble vitamin overuse",
+    "options": {
+      "A": "Viral meningitis",
+      "B": "Bacterial meningitis",
+      "C": "Subarachnoid hemorrhage",
+      "D": "Migraine headache",
+      "E": "Fat-soluble vitamin overuse"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  },
+  {
+    "question": "A 1-year-old immigrant girl has not received any recommended vaccines since birth. She attends daycare and remains healthy despite her daily association with several other children for the past 3 months at a home day-care facility. Which of the following phenomena explains why she has not contracted any vaccine-preventable diseases such as measles, diphtheria, or pertussis?",
+    "answer": "Herd immunity",
+    "options": {
+      "A": "Genetic drift",
+      "B": "Genetic shift",
+      "C": "Tolerance",
+      "D": "Immune evasion",
+      "E": "Herd immunity"
+    },
+    "meta_info": "step1",
+    "answer_idx": "E"
+  },
+  {
+    "question": "A 5-year-old girl is brought to the emergency department by her father due to a 6-day history of fevers and irritability. His father reports that the fevers have ranged from 101-104°F (38.3-40°C). He tried to give her ibuprofen, but the fevers have been unresponsive. Additionally, she developed a rash 3 days ago and has refused to wear shoes because they feel “tight.” Her father reports that other than 2 ear infections she had when she was younger, the patient has been healthy. She is up-to-date on her vaccinations except for the vaccine boosters scheduled for ages 4-6. The patient’s temperature is 103.5°F (39.7°C), blood pressure is 110/67 mmHg, pulse is 115/min, and respirations are 19/min with an oxygen saturation of 98% O2 on room air. Physical examination shows bilateral conjunctivitis, palpable cervical lymph nodes, a diffuse morbilliform rash, and desquamation of the palms and soles with swollen hands and feet. Which of the following the next step in management?",
+    "answer": "High dose aspirin",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "High dose aspirin",
+      "C": "Nafcillin",
+      "D": "Penicillin V",
+      "E": "Vitamin A"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "B"
+  },
+  {
+    "question": "An 11-year-old boy is brought to the physician by his mother because of a pruritic generalized rash for 2 days. He returned from a 3-day outdoor summer camp 1 week ago. During his time there, one child was sent home after being diagnosed with measles. The patient was diagnosed with a seizure disorder 6 weeks ago and he has asthma. Current medications include carbamazepine and an albuterol inhaler. His immunization records are unavailable. His temperature is 38.4°C (101.1°F), pulse is 88/min, and blood pressure is 102/60 mm Hg. Examination shows facial edema and a diffuse rash over the face, trunk, and extremities. There is cervical and inguinal lymphadenopathy. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "answer": "Discontinue carbamazepine",
+    "options": {
+      "A": "Discontinue carbamazepine",
+      "B": "Perform measles serology",
+      "C": "Heterophile antibody test",
+      "D": "Administer penicillin therapy",
+      "E": "Perform rapid plasma reagin test"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 21-year-old gravida 1, para 0 woman presents to the family medicine clinic for her first prenatal appointment. She states that she has been taking folic acid supplements daily as directed by her mother. She smokes a few cigarettes a day and has done so for the last 5 years. Pediatric records indicate the patient is measles, mumps, and rubella non-immune. Her heart rate is 78/min, respiratory rate is 14/min, temperature is 36.5°C (97.7°F), and blood pressure is 112/70 mm Hg. Her calculated BMI is approximately 26 kg/m2.  Her heart is without murmurs and lung sounds are clear bilaterally. Standard prenatal testing is ordered. Which of the following is the next best step for this patient’s prenatal care?",
+    "answer": "MMR vaccine postpartum",
+    "options": {
+      "A": "MMR vaccine postpartum",
+      "B": "MMR vaccine during pregnancy",
+      "C": "Serology, then vaccine postpartum",
+      "D": "Serology, then vaccine during pregnancy",
+      "E": "MMR vaccine and immune globulin postpartum"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 4-year-old boy is brought to the emergency department by his mother with an itchy rash on his trunk, malaise, and fever with spikes up to 38.5°C (101.3°F) for the past 2 weeks. The patient’s mother says she tried giving him Tylenol with little improvement. Past medical history includes a spontaneous vaginal delivery at full term. The patient’s vaccines are up-to-date and he has met all developmental milestones. On physical examination, his lips are cracking, and he has painful cervical lymphadenopathy. The rash is morbilliform and involves his trunk, palms, and the soles of his feet. There is fine desquamation of the skin of the perianal region. Which of the following anatomical structures is most important to screen for possible complications in this patient?",
+    "answer": "Coronary artery",
+    "options": {
+      "A": "Gallbladder",
+      "B": "Mitral valve",
+      "C": "Coronary artery",
+      "D": "Kidneys",
+      "E": "Pylorus"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 2-year-old boy presents to the pediatrician for evaluation of an elevated temperature, sore throat, runny nose, and lacrimation for the past week, and a rash which he developed yesterday. The rash began on the patient’s face and spread down to the trunk, hands, and feet. The patient’s mother gave him ibuprofen to control the fever. The child has not received mumps, measles, and rubella vaccinations because he was ill when the vaccine was scheduled and was later lost to follow-up. The vital signs include blood pressure 90/50 mm Hg, heart rate 110/min, respiratory rate 22/min, and temperature 37.8°C (100.0℉). On physical examination, the child was drowsy. His face, trunk, and extremities were covered with a maculopapular erythematous rash. Two irregularly-shaped red dots were also noted on the mucosa of the lower lip. The remainder of the physical examination was within normal limits. What is the probable causative agent for this child’s condition?",
+    "answer": "Morbillivirus",
+    "options": {
+      "A": "Rubulavirus",
+      "B": "Morbillivirus",
+      "C": "Herpesvirus",
+      "D": "Influenzavirus",
+      "E": "Group A Streptococcus"
+    },
+    "meta_info": "step1",
+    "answer_idx": "B"
+  },
+  {
+    "question": "A previously healthy 6-year-old boy is brought to the physician because of a 3-day history of progressive rash. The rash started on his face and now involves the entire body. For the past week, he has had a cough and a runny nose. He is visiting from the Philippines with his family. He is in first grade and spends his afternoons at an after-school child care program. Immunization records are not available. His temperature is 39.5°C (103°F), pulse is 115/min, and blood pressure is 105/66 mm Hg. Examination shows generalized lymphadenopathy. There is an erythematous maculopapular, blanching, and partially confluent exanthem on his entire body. The remainder of the examination shows no abnormalities. Which of the following is most likely to confirm the diagnosis?",
+    "answer": "Measles-specific IgM antibodies",
+    "options": {
+      "A": "Rapid plasma reagin",
+      "B": "Tzanck smear",
+      "C": "Measles-specific IgM antibodies",
+      "D": "Rapid antigen detection testing",
+      "E": "Monospot test"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "C"
+  },
+  {
+    "question": "A previously healthy 16-year-old girl comes to the physician because of fever, fatigue, and a sore throat for 8 days. She also has a diffuse rash that started yesterday. Three days ago, she took amoxicillin that she had at home. She is sexually active with two male partners and uses condoms inconsistently. Her temperature is 38.4°C (101.1°F), pulse 99/min, blood pressure 106/70 mm Hg. Examination shows a morbilliform rash over her trunk and extremities. Oropharyngeal examination shows tonsillar enlargement and erythema with exudates. Tender cervical and inguinal lymphadenopathy are present. Abdominal examination shows mild splenomegaly. A peripheral blood smear shows lymphocytosis with > 10% atypical lymphocytes. Which of the following is most likely to be positive in this patient?",
+    "answer": "Heterophile antibody test",
+    "options": {
+      "A": "ELISA for HIV",
+      "B": "Flow cytometry",
+      "C": "Anti-CMV IgM",
+      "D": "Throat swab culture",
+      "E": "Heterophile antibody test"
+    },
+    "meta_info": "step1",
+    "answer_idx": "E"
+  },
+  {
+    "question": "A 12-year-old boy presents to the pediatrician for a routine checkup. He and his family immigrated from Pakistan to the United States when he was 9 years of age. Per his mother, he had measles when he was 4 years of age and a high fever following a sore throat at the age 7. He received all appropriate vaccinations when he arrived in the United States. He takes no medications. He does well academically and plays soccer in a recreational league. He was born at 38 weeks gestation. His temperature is 98.4°F (36.9°C), blood pressure is 115/65 mmHg, pulse is 80/min, and respirations are 18/min. On exam, he is a healthy boy in no apparent distress. Breath sounds are equal bilaterally with good aeration. Fixed splitting of the second heart sound is noted on auscultation. Without adequate treatment, this patient will be at increased risk for developing which of the following?",
+    "answer": "Reversal of left-to-right shunting",
+    "options": {
+      "A": "Acute endocarditis",
+      "B": "Extra-cardiac left-to-right shunting",
+      "C": "Mitral regurgitation",
+      "D": "Mitral stenosis",
+      "E": "Reversal of left-to-right shunting"
+    },
+    "meta_info": "step1",
+    "answer_idx": "E"
+  },
+  {
+    "question": "A 4-year-old boy is brought to the physician by his parents because of fever and mild abdominal pain for 7 days. His parents report that he developed a rash 2 days ago. He has had no diarrhea or vomiting. Four weeks ago, he returned from a camping trip to Colorado with his family. His immunization records are unavailable. His temperature is 39.4°C (102.9°F), pulse is 111/min, respirations are 27/min, and blood pressure is 96/65 mm Hg. Examination shows bilateral conjunctival injections and fissures on his lower lips. The pharynx is erythematous. There is tender cervical lymphadenopathy. The hands and feet appear edematous. A macular morbilliform rash is present over the trunk. Bilateral knee joints are swollen and tender; range of motion is limited by pain. Which of the following is the most appropriate treatment for this patient's condition?",
+    "answer": "Intravenous immunoglobulin",
+    "options": {
+      "A": "Oral doxycycline",
+      "B": "Oral ibuprofen",
+      "C": "Supportive treatment only",
+      "D": "Oral penicillin",
+      "E": "Intravenous immunoglobulin"
+    },
+    "meta_info": "step2&3",
+    "answer_idx": "E"
+  }
+]

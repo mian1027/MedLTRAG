@@ -1,0 +1,4789 @@
+[
+  {
+    "question": "A 16 year old student reported for the evaluation of multiple hypopigmented macules on the trunk and limbs.All of the following tests are useful in making a diagnosis of leprosy, except –",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Sensation testing",
+      "B": "Lepromin test",
+      "C": "Slit smears",
+      "D": "Skin biopsy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Best method of treatment of ulner never abscess in case of leprosy is -",
+    "answer": "incision and drainage",
+    "options": {
+      "A": "High does of steroid",
+      "B": "incision and drainage",
+      "C": "Thalidomide",
+      "D": "High does of clofazamine"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A boy comes from Bihar with non-anesthetic hypopigmented atropic patch over face, diagonosis is",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "P. alba",
+      "B": "P. versicolour",
+      "C": "Indeterminate leprosy",
+      "D": "Borderline leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Immunoprophylaxis of leprosy is best done by which of the following given choices?",
+    "answer": "Killed ICRC bacillus",
+    "options": {
+      "A": "MMR",
+      "B": "Killed ICRC bacillus",
+      "C": "Plague bacillus",
+      "D": "Anthrax bacillus"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In multibacillary leprosy, the follow-up examination after adequate treatment should be done yearly for –",
+    "answer": "5 years",
+    "options": {
+      "A": "3 years",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In multibacillary leprosy, the follow-up examination after adquate Rx should be done early for -",
+    "answer": "5 years",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Skin biopsy in leprosy is characterized by –",
+    "answer": "All of the above",
+    "options": {
+      "A": "Periappendgeal bacilli",
+      "B": "Periappendgeal lymphocytosis",
+      "C": "Perivascular lymphocytosis",
+      "D": "All of the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In leprosy which of the following is not seen – a) Abnormal EMGb) Voluntary muscle wastingc) Decreased proprioceptiond) Decreased response to tactile sensatione) Increased response to tactile sensation",
+    "answer": "ce",
+    "options": {
+      "A": "a",
+      "B": "ce",
+      "C": "ac",
+      "D": "ae"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following can lead to infiltration of ear lobules, loss of nails and resorption of distal phalanges?",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Any of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 7 years old child from Bihar is having hypo pigmented anaesthetic patch on his face. What is the most probable diagnosis?",
+    "answer": "Intermediate leprosy",
+    "options": {
+      "A": "Intermediate leprosy",
+      "B": "Pityriasis alba",
+      "C": "Nevus anemicus",
+      "D": "Nevus achromicus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In lepromatous leprosy the single drug dapsone is continue for -",
+    "answer": "1 years",
+    "options": {
+      "A": "9 days",
+      "B": "90 days",
+      "C": "1 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Multidrug therapy is given for",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Syphilis",
+      "B": "Leprosy",
+      "C": "Herpetiformis",
+      "D": "Icthyosis Vulgaris"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In leprosy neural involvement occurs in what percentage of patients",
+    "answer": "100%",
+    "options": {
+      "A": "30%",
+      "B": "60%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "An 8 years old boy from Bihar presents with a 6 months history of an ill defined, hypopigmented slightly atrophic macule on the face. The most likely diagnosis is:",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Pityriasis alba",
+      "B": "Indeterminate leprosy",
+      "C": "Vitiligo",
+      "D": "Calcium deficiency"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 45 year old male had multiple hypoaesthetic mildly erythematous large plaques with elevated margins on trunk and extremities. His ulnar and lateral popliteal nerves on both sides were enlarged. The most probable diagnosis is –",
+    "answer": "Borderline lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Borderline leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Borderline lepromatous leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Multiple Hypoaestetic, hypopigmented macules on right lateral forearm without acid fast bacilli is indicative of -",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Borderline leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Duration of treatment is multibacillary leprosy according to WHO is -",
+    "answer": "1 year",
+    "options": {
+      "A": "6 months",
+      "B": "1 year",
+      "C": "2 years",
+      "D": "5 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Immunoprophylaxis of leprosy includes -",
+    "answer": "BCG",
+    "options": {
+      "A": "BCG",
+      "B": "MMR",
+      "C": "ICRC bacillus",
+      "D": "Anthrax vaccine"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Nerves are not involved in ?",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Borderline tuberculoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Anti leprosy drug causing ichthyoses is -",
+    "answer": "Clofazimine",
+    "options": {
+      "A": "Dapsone",
+      "B": "Clofazimine",
+      "C": "Rifampicin",
+      "D": "Clarithromycin"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Following is are the clinical feature's of lepromatous leprosy",
+    "answer": "All the above",
+    "options": {
+      "A": "Leonine facies",
+      "B": "Loss of libido and impotence",
+      "C": "Saddle nose",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Following is/ are the clinical feature/ s of lepromatous leprosy -",
+    "answer": "All the above",
+    "options": {
+      "A": "Leonine facies",
+      "B": "Loss of libido and impotence",
+      "C": "Saddle nose",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A child presents with a lesion on the face as depicted on the PLATE. The biopsy from the lesion is also shown. What is the most probable diagnosis?",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "R Alba",
+      "B": "Lepromatous Leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Pityriasis Rosea"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "The Ridley -Jopling classification for leprosy is based on which of the following parameters?",
+    "answer": "Clinical, bacteriological, immunological",
+    "options": {
+      "A": "Clinical, bacteriological, immunological",
+      "B": "Histopathological, clinical, therapeutic",
+      "C": "Histopathological, epidemiological, therapeutics",
+      "D": "Histopathological, clinical, epidemiological"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Under the National Leprosy Elimination Programme, mass survey for leprosy is done if prevalence of leprosy is more than:",
+    "answer": "10/1000",
+    "options": {
+      "A": "1/1000",
+      "B": "5/1000",
+      "C": "10/1000",
+      "D": "20/1000"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In patients of leprosy, Lepromin test is used for:",
+    "answer": "Prognosis",
+    "options": {
+      "A": "Treatment",
+      "B": "Prognosis",
+      "C": "Diagnosis",
+      "D": "Epidemiological investigations"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All except one are deformities associated with Leprosy",
+    "answer": "Clutton's joint",
+    "options": {
+      "A": "Claw hand",
+      "B": "Lag ophthalmos",
+      "C": "Clutton's joint",
+      "D": "Foot drop"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Type-I lepra reaction is commonly seen in:",
+    "answer": "Borderline tuberculoid leprosy",
+    "options": {
+      "A": "Histoid Leprosy",
+      "B": "Lepromatous Leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Polyneuritic leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Bacterial Index deals with",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Leprosy",
+      "C": "Syphilis",
+      "D": "Gonorrhea"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Satellite lesions are seen in",
+    "answer": "Tubeculoid leprosy",
+    "options": {
+      "A": "Indeterminate leprosy",
+      "B": "Borderline leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Tubeculoid leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Skin biopsy in leprosy is characterizedby:",
+    "answer": "All of above",
+    "options": {
+      "A": "Pariappendegial bacilli",
+      "B": "Pariappendegeal lymphocytosis",
+      "C": "Perivascular lymphocytosis",
+      "D": "All of above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Optic atrophy may occur in all, except:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Glaucoma",
+      "B": "Leprosy",
+      "C": "Pituitary tumor",
+      "D": "Methanol intake"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "About tuberculoid leprosy, false is –",
+    "answer": "CMI is increased",
+    "options": {
+      "A": "CMI is depressed",
+      "B": "CMI is increased",
+      "C": "A single anesthetic patch",
+      "D": "None"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In multibacillary leprosy the follow up examination after adequate treatment should'be done yearly for -",
+    "answer": "5 years",
+    "options": {
+      "A": "3 years",
+      "B": "2 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "True regarding Leprosy",
+    "answer": "MBL recommended treatment for 12 months duration",
+    "options": {
+      "A": "Any positive smear 1+ is MBL",
+      "B": "MBL recommended treatment for 12 months duration",
+      "C": "Grenz zone in Lepromatous spectrum",
+      "D": "All deformity cases are MBL"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which feature would most likely be found in a patient with lepromatous leprosy?",
+    "answer": "Macrophages with a foamy appearance in the dermis",
+    "options": {
+      "A": "No bacteremia",
+      "B": "Macrophages with a foamy appearance in the dermis",
+      "C": "A positive lepromin reaction",
+      "D": "A high cell-mediated response against Mycobacterium leprae"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of the following statements about leprosy are true except -",
+    "answer": "A defaulter is defined as a patient who has not taken treatment for 6 months or more",
+    "options": {
+      "A": "Multibacillary leprosy is diagnosed when there are more than 5 skin patches",
+      "B": "New case detection rate is an indicator for incidence of leprosy",
+      "C": "A defaulter is defined as a patient who has not taken treatment for 6 months or more",
+      "D": "The target for elimination of leprosy is to reduce the prevalence to less than 1 per 10,000 population"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following presents as a cutaneous vasculitis in patients with lepromatous leprosy?",
+    "answer": "Lucio phenomenon",
+    "options": {
+      "A": "Lepra type I reaction",
+      "B": "Lepra type II reaction",
+      "C": "Lucio phenomenon",
+      "D": "Reversal phenomenon"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A leprosy person is presented with involvements of sural and radial nerve . Which type of regimen you will give:",
+    "answer": "Multibacillary treatment X 12 month",
+    "options": {
+      "A": "Multibacillary treatment X 9 month",
+      "B": "Multibacillary treatment X 12 month",
+      "C": "Multibacillary treatment X 15 month",
+      "D": "Paucibacillary treatment X 6 month"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "One of the following diseases has more than one route of transmission -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Influenza",
+      "B": "Leprosy",
+      "C": "Cholera",
+      "D": "Typhoid fever"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "\"Multibacillarv\" is a spectrum of disease, seen in-",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "TB",
+      "C": "Tetanus",
+      "D": "Trachoma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Drug causing icthyosis and hyperpigmentation, when used in leprosy is -",
+    "answer": "Clofazimine",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Dapsone",
+      "C": "Clofazimine",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "ENL is seen in -",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Tuberculoid leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Pure neuritic leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Effective leprosy control programme may be indicated by all of the following except –",
+    "answer": "Increasing number of children affected",
+    "options": {
+      "A": "Increasing number of children affected",
+      "B": "Decreased grade 2 disability",
+      "C": "Low MDR resistant, multibacillary cases",
+      "D": "High new case detection rate"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All of the following are STD except:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Herpes",
+      "B": "Scabies",
+      "C": "Candida",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Lagophthalmos is seen in:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Syphilis",
+      "C": "Peripheral neuritis",
+      "D": "HZV infection"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "According to WHO leprosy is a public health problem if prevalence is more than:",
+    "answer": "0.01%",
+    "options": {
+      "A": "0.10%",
+      "B": "0.01%",
+      "C": "0.50%",
+      "D": "1%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Leprosy affects all the following except :",
+    "answer": "Ovaries",
+    "options": {
+      "A": "Testes",
+      "B": "Ovaries",
+      "C": "Eyes",
+      "D": "Nerves"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The treatment of single lesion paucibacillary leprosy is",
+    "answer": "Rifampicin, ofloxacin and minocycline",
+    "options": {
+      "A": "Dapsone and rifampicin",
+      "B": "Dapsone and clofazamine and ofloxacin",
+      "C": "Rifampicin, ofloxacin and dapsone",
+      "D": "Rifampicin, ofloxacin and minocycline"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following infectious disease is treated using multidrug therapy?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Syphilis",
+      "B": "Leprosy",
+      "C": "Typhoid",
+      "D": "None of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Leprosy affects all the following except:",
+    "answer": "Ovaries",
+    "options": {
+      "A": "Testes",
+      "B": "Ovaries",
+      "C": "Eyes",
+      "D": "Nerves"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The following test is not used for diagnosis of leprosy :",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Lepromin test",
+      "B": "Slit skin smear",
+      "C": "Fine needle aspiration cytology",
+      "D": "Skin biopsy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is unaffected in leprosy",
+    "answer": "Ovary",
+    "options": {
+      "A": "Cooler part of the body",
+      "B": "Surface of the body",
+      "C": "Ovary",
+      "D": "All of the above are affected in leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "All are features of lepromatous leprosy except",
+    "answer": "Ulcus serpens",
+    "options": {
+      "A": "Saddle nose",
+      "B": "Ulcus serpens",
+      "C": "Gynecomastia",
+      "D": "Madarosis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Lepromin test is used for all of the following except-",
+    "answer": "Diagnosis of leprosy",
+    "options": {
+      "A": "Classify the lesions of leprosy patients",
+      "B": "Determine the prognosis of disease",
+      "C": "Assess the resistance of individuals to leprosy",
+      "D": "Diagnosis of leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In Leprosy, most common renal lesion seen is -",
+    "answer": "MGN",
+    "options": {
+      "A": "MGN",
+      "B": "MPGN",
+      "C": "Focal glomerulosclerosis",
+      "D": "Diffuse glomerulosclerosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The disease which permanently alters the finger prints is:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Tuberculosis",
+      "C": "Diabetes",
+      "D": "Dermatitis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "As per WHO recommendation, duration of treatment of multibacillary leprosy is: September 2009",
+    "answer": "12 months",
+    "options": {
+      "A": "3 months",
+      "B": "6 months",
+      "C": "9 months",
+      "D": "12 months"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Fastest acting drug in leprosy is :",
+    "answer": "Rifampicin",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Dapsone",
+      "C": "Clofazimine",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 7 year old child is has a hypo pigmented anesthetic patch on his face. What is the most probable diagnosis?",
+    "answer": "Intermediate leprosy",
+    "options": {
+      "A": "Intermediate leprosy",
+      "B": "Pityriasis alba",
+      "C": "Nevus anemicus",
+      "D": "Nevus achromicus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Mass chemoprophylaxis in endemic area is recommended for all of the following, except -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Yaws",
+      "B": "Leprosy",
+      "C": "Trachoma",
+      "D": "Filaria"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient of borderline tuberculoid leprosy on treatment develops reaction. What will be the best next line of management -",
+    "answer": "Continue dapsone and give steroids",
+    "options": {
+      "A": "Stop dapsone immediately'",
+      "B": "Stop dapsone now and restart after some time",
+      "C": "Continue dapsone and give steroids",
+      "D": "Stop dapsone forever"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Lepromin test is positive in: March 2004",
+    "answer": "Tuberculoid Leprosy",
+    "options": {
+      "A": "Syphilis",
+      "B": "TB",
+      "C": "Lepromatous leprosy",
+      "D": "Tuberculoid Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Most infective stage of leprosy is?",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Lepromatous",
+      "C": "Borderline tuberculoid",
+      "D": "Borderline lepromatous"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "WHO recommended modern single drug therapy in paucibacillary leprosy is -",
+    "answer": "Rifampicin, Dapsone",
+    "options": {
+      "A": "Rifampicin, clofazimine, Dapsone",
+      "B": "Rifampicin, Dapsone",
+      "C": "Rifampicin, clofazimine",
+      "D": "Clofazimine, Dapsone"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In leprosy, the best bacteriocidal agent is?",
+    "answer": "Rifampicin",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Dapsone",
+      "C": "Rifampicin",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy is made non infectious by Rifampicin in:",
+    "answer": "3 weeks",
+    "options": {
+      "A": "1 week",
+      "B": "2 weeks",
+      "C": "3 weeks",
+      "D": "4 weeks"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy spreads by -a) Skin to skin contactb) Blood transfusionc) Droplet spreadd) Ingestion",
+    "answer": "ac",
+    "options": {
+      "A": "a",
+      "B": "bc",
+      "C": "ad",
+      "D": "ac"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "All are true about treatment of leprosy except -",
+    "answer": "2 years treatment for multibacterial leprosy",
+    "options": {
+      "A": "2 years treatment for multibacterial leprosy",
+      "B": "6 months treatment for paucibacillary leprosy",
+      "C": "Rifampicin is given supervised",
+      "D": "2 years surveillance post-treatment for paucibacillary leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "If a claw hand develops in a patient with Leprosy, the deformity is -",
+    "answer": "Grade II",
+    "options": {
+      "A": "Grade 0",
+      "B": "Grade I",
+      "C": "Grade II",
+      "D": "Grade III"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "ENL is seen in which form of leprosy – a) Indeterminateb) BTc) LLd) BLe) TT",
+    "answer": "cd",
+    "options": {
+      "A": "ab",
+      "B": "bc",
+      "C": "cd",
+      "D": "ac"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Arrange the duration of treatment of the following conditions in the increasing order 1. Treatment of P. vivax malaria 2. Treatment of multibacillary leprosy 3. Treatment of catergory 1 tuberculosis 4. Treatment of Hypeension",
+    "answer": "1-3-2-4",
+    "options": {
+      "A": "1-3-4-2",
+      "B": "3-2-4-1",
+      "C": "1-3-2-4",
+      "D": "4-3-1-2"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which one of the following diseases CANNOT be eradicated",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Tuberculosis",
+      "C": "Measles",
+      "D": "Pertussis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most common renal manifestation of leprosy -",
+    "answer": "Mesangioproliferative G.N.",
+    "options": {
+      "A": "Minimal change G.N.",
+      "B": "Crescentric GN.",
+      "C": "Mesangioproliferative G.N.",
+      "D": "FSGS"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In Leprosy which of the following is not seen:",
+    "answer": "Decreased Proprioception",
+    "options": {
+      "A": "Abnormal EMG",
+      "B": "Voluntary muscle wasting",
+      "C": "Decreased Proprioception",
+      "D": "Decreased response to tactile sensation"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Treatment of severe ulnar neuritis in borderline tuberculoid leprosy is -",
+    "answer": "MDT + Steroids",
+    "options": {
+      "A": "MDT only",
+      "B": "MDT + Steroids",
+      "C": "Wait and Watch",
+      "D": "MDT+ thalidomide"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Single lesion in skin is seen in which type of leprosy:",
+    "answer": "TT",
+    "options": {
+      "A": "TT",
+      "B": "BT",
+      "C": "BL",
+      "D": "LL"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Lepromin test is positive in which leprosy –",
+    "answer": "Tuberculoid",
+    "options": {
+      "A": "Lepromatous",
+      "B": "Indeterminate",
+      "C": "Histoid",
+      "D": "Tuberculoid"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The fingerprint pattern may be impaired permanently in cases of -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Eczema",
+      "B": "Scalds",
+      "C": "Scabies",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "All lesions are seen in leprosy except",
+    "answer": "Vesicles",
+    "options": {
+      "A": "Erythematous Macule",
+      "B": "Hypo pigmented patch",
+      "C": "Vesicles",
+      "D": "Flat & raised patches"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most impoant in the diagnosis of leprosy is",
+    "answer": "Hypopigmented patch",
+    "options": {
+      "A": "Evidence of neural involvement",
+      "B": "Hypopigmented patch",
+      "C": "Slit skin smears",
+      "D": "Positive lepromin test"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following oral structures are not effected in Leprosy",
+    "answer": "Gingiva",
+    "options": {
+      "A": "Gingiva",
+      "B": "Tongue",
+      "C": "Hard Palate",
+      "D": "Soft Palate"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Single lesion leprosy treatment",
+    "answer": "Rifampicin , olfoxacin and minocycline",
+    "options": {
+      "A": "Dapsone and rifampicin",
+      "B": "Dapsone and clofazamine and ofloxacin",
+      "C": "Rifampicin ,ofloxacin and dapsone",
+      "D": "Rifampicin , olfoxacin and minocycline"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Iris pearl is seen in –",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Sarcoidosis",
+      "C": "Tuberculosis",
+      "D": "Chloasma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Duration of treatment in multibacillary leprosy according to WHO is -",
+    "answer": "1 year",
+    "options": {
+      "A": "6 months",
+      "B": "1 year",
+      "C": "2 years",
+      "D": "5 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Thin zone of Grentz is seen in",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Sarcoidosis",
+      "C": "Lymphoma",
+      "D": "Syphilis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All of the following are indicative of effective leprosy control programme, EXCEPT:",
+    "answer": "Increasing number of children affected",
+    "options": {
+      "A": "High new case detection rate",
+      "B": "Increasing number of children affected",
+      "C": "Decreased type 2 disability",
+      "D": "None of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Ulceronecrotic nodule is seen in -",
+    "answer": "Lucio leprosy",
+    "options": {
+      "A": "Lucio leprosy",
+      "B": "Tuberculoid leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Histoid leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Strategies in National Leprosy Control programme?",
+    "answer": "All",
+    "options": {
+      "A": "Early detection of cases",
+      "B": "Sho course multi drug therapy",
+      "C": "Rehabilitation",
+      "D": "All"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "SET centres are established if prevalence % leprosy is –",
+    "answer": "1–5",
+    "options": {
+      "A": "0.5–1/ 1000",
+      "B": "1–5",
+      "C": "5–10",
+      "D": "10"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Immune mediated destruction of tissue bearing high concentration of m. leprae bacilli occurs, usually several months after initiation of effective therapy. This result in cutaneous ulcers in patients with lepromatous leprosy related to?",
+    "answer": "Lucio's phenomenon",
+    "options": {
+      "A": "Raynaud's phenomenon",
+      "B": "Placebo phenomenon",
+      "C": "Lucio's phenomenon",
+      "D": "Cutaneous anthrax"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "“Multibacillarv\" is a spectrum of disease, seen in",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "TB",
+      "C": "Tetanus",
+      "D": "Trachoma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Histoid leprosy is",
+    "answer": "Dapsone resistant Lepromatous Leprosy",
+    "options": {
+      "A": "Lepromatous Leprosy seen in HIV patient",
+      "B": "Relapse of leprosy cases even after treatment",
+      "C": "Dapsone resistant Lepromatous Leprosy",
+      "D": "Leprosy seen in old age people"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Mass chemoprophylaxis in endemic area is recommended for all of the following, except ?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Yaws",
+      "B": "Leprosy",
+      "C": "Trachoma",
+      "D": "Filaria"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "&;Iris-pearls&; are seen in",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Syphilis",
+      "B": "Tuberculosis",
+      "C": "Leprosy",
+      "D": "Sarcoidosis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In multibacillary leprosy, the follow-up examination after adequate Rx should be done early for -",
+    "answer": "5 years",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "There are millions of cases of leprosy (Hansen's disease) worldwide, but predominately in Asia and Africa. The clinical spectrum of Hansen's disease is best characterized by",
+    "answer": "Peripheral neuritis",
+    "options": {
+      "A": "Immunologic anergy",
+      "B": "Chronic pneumonitis",
+      "C": "Peripheral neuritis",
+      "D": "Bacilli in lesions that digest tissues"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Disease which permanently alters the finger prints is:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Tuberculosis",
+      "C": "Diabetes",
+      "D": "Dermatitis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Finger pattern may be impaired permanently in case of",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Acanthosis nigricans",
+      "B": "Leprosy",
+      "C": "Scleroderma",
+      "D": "Snow exposure"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Cell mediated immunity is markedly depressed in",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Polyneuritic form of leprosy",
+      "D": "Indeterminate leprosy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Earliest sensation lost in leprosy is",
+    "answer": "Thermal",
+    "options": {
+      "A": "Thermal",
+      "B": "Tactile",
+      "C": "Pain",
+      "D": "Vibration"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leprosy is not yet eradicated because -",
+    "answer": "Long incubation period",
+    "options": {
+      "A": "No effective vaccine",
+      "B": "Highly Infectious but low pathogenicity",
+      "C": "Only humans are reservoir",
+      "D": "Long incubation period"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Ocular lesions of leprosy includes all except",
+    "answer": "Fasicular keratitis",
+    "options": {
+      "A": "Iritis",
+      "B": "Cataract",
+      "C": "Secondary glaucoma",
+      "D": "Fasicular keratitis"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Satellite papules are characteristic of following type of leprosy:",
+    "answer": "Borderline Tuberculoid (BT)",
+    "options": {
+      "A": "Borderline Tuberculoid (BT)",
+      "B": "Polar Tuberculoid (TT)",
+      "C": "Borderline Lepromatous (BL)",
+      "D": "Polar Lepromatous (LL)"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Mass immunization is indicated in the following, except -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Cholera",
+      "C": "Influenza",
+      "D": "Tuberculosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Control of TB and leprosy is by:(1994)",
+    "answer": "Early diagnosis and treatment",
+    "options": {
+      "A": "Isolation of cases",
+      "B": "Specific protection",
+      "C": "Early diagnosis and treatment",
+      "D": "Elimination of reservoirs"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 15 year old boy presented with multiple hypoaesthetic macules with sloping edge, seen on the face, trunk and arms. Histopathologic examination of lesion shows numerous bacilli and granulomatous infiltration. What is your diagnosis?",
+    "answer": "Borderline leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Borderline leprosy",
+      "D": "Indeterminate leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Causes of Carpal tunnel syndrome are all except?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "DM",
+      "B": "RA",
+      "C": "Leprosy",
+      "D": "Gout"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most common drug used in Leprosy is :",
+    "answer": "Dapsone",
+    "options": {
+      "A": "Dapsone",
+      "B": "Clofazimine",
+      "C": "Ethionamide",
+      "D": "Ofloxacin"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Best mode to control leprosy eradication-programme is -",
+    "answer": "Early diagnosis and treatment",
+    "options": {
+      "A": "Mass chemotherapy",
+      "B": "Early diagnosis and treatment",
+      "C": "High risk chemotherapy",
+      "D": "Health education"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Satellite lesion are seen in –",
+    "answer": "Borderline tuberculoid leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Histoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "All of the following are the mode of transmission of leprosy except?",
+    "answer": "Transplacental spread",
+    "options": {
+      "A": "Breast milk",
+      "B": "Insect bite",
+      "C": "Transplacental spread",
+      "D": "Droplet infection"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy affects all organs except",
+    "answer": "Uterus",
+    "options": {
+      "A": "Eyes",
+      "B": "Nerves",
+      "C": "Uterus",
+      "D": "Ovary"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Caseous necrosis in granuloma not found in ?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Leprosy",
+      "C": "Histoplasmosis",
+      "D": "All"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Very numerous, symmetrically distributed, erythematous or copper coloured shiny macules/papule are feature of : March 2013",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Borderline borderline leprosy",
+      "C": "Lepromatous leprosy",
+      "D": "Borderline tuberculoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Adequate treatment for multibacillary leprosy is for -",
+    "answer": "2 years",
+    "options": {
+      "A": "2 years",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "7 years"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Lucio's phenomenon is seen in?",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Borderline leprosy",
+      "D": "Borderline Tuberculoid leprosy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A HIV infected patient develops multibacillary leprosy. What is the recommended treatment?",
+    "answer": "Rifampicin, dapsone and clofazimine",
+    "options": {
+      "A": "No anti leprosy drug should be given",
+      "B": "Rifampicin, dapsone and clofazimine",
+      "C": "Rifampicin and dapsone",
+      "D": "Rifampicin only"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the follwing statements regarding drugs used in leprosy is FALSE?",
+    "answer": "Clofazimine should not be given to patients who are intolerant to dapsone or who fail to improve during treatment with dapsone",
+    "options": {
+      "A": "Single intramuscular injections of acedapsone maintain inhibitory levels of dapsone in tissues for upto 3 months",
+      "B": "Monthly doses of rifampicin delay the emergence of resistance to dapsone",
+      "C": "Clofazimine should not be given to patients who are intolerant to dapsone or who fail to improve during treatment with dapsone",
+      "D": "Clofazimine may cause changes in the skin colour"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following condition is associated with Iris pearls?",
+    "answer": "Hansen's disease",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Hansen's disease",
+      "C": "Tuberculosis",
+      "D": "Sympathetic ophthalmitis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In leprosy nerves commonly involved are:",
+    "answer": "High ulnar, low median",
+    "options": {
+      "A": "High ulnar, low median",
+      "B": "High median, low ulnar",
+      "C": "Triple nerve palsy",
+      "D": "High radial, low median"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All are true lepromatous leprosy except-",
+    "answer": "Presence of granulomas subdermally",
+    "options": {
+      "A": "Presence of globi",
+      "B": "Subepidermal free zone",
+      "C": "Decreased cell mediated immunity",
+      "D": "Presence of granulomas subdermally"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "2 yrs duration in terms of leprosy is with regard to -",
+    "answer": "Post Rx surveillance of paucibacillary leprosy",
+    "options": {
+      "A": "Rx of paucibacillary leprosy",
+      "B": "Rx of multibacillary leprosy",
+      "C": "Post Rx surveillance of paucibacillary leprosy",
+      "D": "Post Rx surveillance of multibacillary leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which among the following is false about leprosy?",
+    "answer": "A defaulter is defined as a patient who has not collected treatment for 6 months",
+    "options": {
+      "A": "Multibacillary leprosy is defined as a patient having more than 5 skin lesions",
+      "B": "A defaulter is defined as a patient who has not collected treatment for 6 months",
+      "C": "Target for elimination of leprosy is a prevalence rate below 1 per 10,000 population",
+      "D": "Annual New Case Detection Rate (ANCDR) is a measure of the incidence of leprosy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In leprosy neural involvement occurs in what percentage of patients –",
+    "answer": "100%",
+    "options": {
+      "A": "30%",
+      "B": "60%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In leprosy, the best bactericidal agent is",
+    "answer": "Rifamipicin",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Dapsone",
+      "C": "Rifamipicin",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Effective leprosy control programme may beindicated by all of the following except :",
+    "answer": "Increasing number of children affected",
+    "options": {
+      "A": "Increasing number of children affected",
+      "B": "Decreased grade 2 disability",
+      "C": "Low MDR resistant, multifacillary cases",
+      "D": "High new case detection rate"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Best mode to control leprosy eradication–programme is",
+    "answer": "Early diagnosis and treatment",
+    "options": {
+      "A": "Mass chemotherapy",
+      "B": "Early diagnosis and treatment",
+      "C": "High risk chemotherapy",
+      "D": "Health education"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which one of the following statements about leprosy is true?",
+    "answer": "Minimum duration of treatment for multibacillary case is for 12 months",
+    "options": {
+      "A": "Group surves for case detection are carried out when prevalence of leprosy is less than 1 per 1000",
+      "B": "For determining the bacteriological index, ++ in a smear indicates 2 bacilli in every field",
+      "C": "Minimum duration of treatment for paucibacillary cases is for 9 months",
+      "D": "Minimum duration of treatment for multibacillary case is for 12 months"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The Ridley-Jopling classification for leprosy is based on which of the following parameters?",
+    "answer": "Clinical, bacteriological, immunological",
+    "options": {
+      "A": "Clinical, bacteriological, immunological",
+      "B": "Histopathological, clinical, therapeutic",
+      "C": "Histopathological, epidemiological, therapeutics",
+      "D": "Histopathological. clinical, epidemiological"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Globi is seen in ................. leprosy ?",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Lepromatous",
+      "C": "Border line",
+      "D": "Borderline tuberculoid"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Elimination of leprosy is defined as prevalance -",
+    "answer": "< 1 per 10000",
+    "options": {
+      "A": "< 1 per 1000",
+      "B": "< 1 per 10000",
+      "C": "< I per 1 lakh",
+      "D": "< I per 100"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In Leprosy most common renal lesion seen is:",
+    "answer": "MGN",
+    "options": {
+      "A": "MGN",
+      "B": "MPGN",
+      "C": "Focal glomeruloselerosis",
+      "D": "Diffuse glomerulosclerosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following disease cause modification of finger prints?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "HIV",
+      "C": "Hypeension",
+      "D": "Acromegaly"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Ocular lesions of leprosy include all of the following except",
+    "answer": "Fascicular keratitis",
+    "options": {
+      "A": "Avascular keratitis",
+      "B": "Interstitial keratitis",
+      "C": "Fascicular keratitis",
+      "D": "Neuroparalytic keratitis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "As per WHO, leprosy is a public health problem if prevalence is -",
+    "answer": "0.01%",
+    "options": {
+      "A": "0.10%",
+      "B": "0.01%",
+      "C": "0.50%",
+      "D": "1%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Secondary level of prevention include all of the following except:-",
+    "answer": "Reconstructive surgery in leprosy",
+    "options": {
+      "A": "Health screening for diabetes mellitus",
+      "B": "Case finding for falciparum malaria",
+      "C": "Contact tracing for STIs",
+      "D": "Reconstructive surgery in leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The duration of treatment with rifampicin by which a leprosy patient becomes non-infective is:",
+    "answer": "3 weeks",
+    "options": {
+      "A": "1 week",
+      "B": "2 weeks",
+      "C": "3 weeks",
+      "D": "4 weeks"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following parts of the body is not affected by leprosy -",
+    "answer": "Ovary",
+    "options": {
+      "A": "Testes",
+      "B": "Ovary",
+      "C": "Nasal mucosa",
+      "D": "Axilla"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Skin smear is negative in which leprosy",
+    "answer": "Neuritic",
+    "options": {
+      "A": "Indeterminate",
+      "B": "Neuritic",
+      "C": "Lepromatous",
+      "D": "Borderline"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Duration of treatment in multibacillary leprosy according to WHO is –",
+    "answer": "1 year",
+    "options": {
+      "A": "6 months",
+      "B": "1 year",
+      "C": "2 years",
+      "D": "5 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Lepromin test is positive in",
+    "answer": "Tuberculoid leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Indeterminate leprosy",
+      "C": "Tuberculoid leprosy",
+      "D": "Histoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Multiple hypoaesthetic, hypopigmented macules on right lateral forearm with numerous acid fast bacilli is indicative of –",
+    "answer": "Borderline leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Borderline leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is not approved for treatment of leprosy",
+    "answer": "Azathioprine",
+    "options": {
+      "A": "Ofloxacin",
+      "B": "Minocycline",
+      "C": "Azathioprine",
+      "D": "Clarithromycin"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In the management of leprosy, Lepromin test is most useful for:-",
+    "answer": "Prognosis",
+    "options": {
+      "A": "Herd immunity",
+      "B": "Prognosis",
+      "C": "Treatment",
+      "D": "Epidemiological investigations"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "If a claw hand develops in a patient with Leprosy, the deformity is –",
+    "answer": "Grade II",
+    "options": {
+      "A": "Grade 0",
+      "B": "Grade I",
+      "C": "Grade II",
+      "D": "Grade III"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Mass chemoprophylaxis in endemic area is recommeded for all of the following, except",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Yaws",
+      "B": "Leprosy",
+      "C": "Trachoma",
+      "D": "Filaria"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which feature would most likely be found in a patient with lepromatous leprosy? <img src=\" />",
+    "answer": "Macrophages with a foamy appearance in the dermis",
+    "options": {
+      "A": "No bacteremia",
+      "B": "Macrophages with a foamy appearance in the dermis",
+      "C": "A positive lepromin reaction",
+      "D": "A high cell-mediated response against Mycobacterium leprae"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "An 8 year old boy from Bihar presents with a 6 month 11/o an ill defined hypopigmented slightly atrophic macule on the face. The most likely diagnosis is –",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Ptyriasis alba",
+      "B": "Indeterminate leprosy",
+      "C": "Morphacea",
+      "D": "Calcium deficiency"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Slit smear negative leprosy is-a)  Neuritic typeb)  Tuberculoid typec)  Indeterminate typed)  Leprometous type",
+    "answer": "abc",
+    "options": {
+      "A": "ab",
+      "B": "abc",
+      "C": "acd",
+      "D": "bcd"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The screening method of choice in area where the prevalence of leprosy is 1/1000 is -",
+    "answer": "Group survey",
+    "options": {
+      "A": "Contact survey",
+      "B": "Group survey",
+      "C": "Mass survey",
+      "D": "Any of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Symmetrical multiple lesions are seen in which type of leprosy –",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Borderline",
+      "B": "Neuritic",
+      "C": "Lepromatous",
+      "D": "Tubercular"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In multibicillary leprosy, the follow up examination after adequate Rx should be done yearly for",
+    "answer": "5 yrs",
+    "options": {
+      "A": "3 years",
+      "B": "5 yrs",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Leprosy is not yet eradicated because",
+    "answer": "No effective vaccine",
+    "options": {
+      "A": "No effective vaccine",
+      "B": "Highly Infectious but low pathogenicity",
+      "C": "Only humans are reservoir",
+      "D": "Long incubation period"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In which of the following form of leprosy, lepromin test is highly positive in",
+    "answer": "Typical tuberculoid",
+    "options": {
+      "A": "Borderline type",
+      "B": "Typical tuberculoid",
+      "C": "Lepromatous",
+      "D": "Intermediate"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Most common type of leprosy",
+    "answer": "BT",
+    "options": {
+      "A": "TT",
+      "B": "BT",
+      "C": "BB",
+      "D": "LL"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Globi is seen in ___________ leprosy",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "leprosy",
+      "B": "Tuberculoid",
+      "C": "Lepromatous",
+      "D": "Border line"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most unstable leprosy is ?",
+    "answer": "BB",
+    "options": {
+      "A": "BB",
+      "B": "BL",
+      "C": "BT",
+      "D": "TT"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Regarding leprosy true is",
+    "answer": "Sensitive to INH and Rifampicin",
+    "options": {
+      "A": "Lives in parts of body where temperature is <37 degrees",
+      "B": "Can grow in cell free culture media",
+      "C": "Can be seen in biopsies in tuberculoid leprosy",
+      "D": "Sensitive to INH and Rifampicin"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In multibacillary leprosy the follow up examination after adequate treatment should be done yearly for -",
+    "answer": "5 years",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Permethrin is used in treatment of – a) Scabiesb) Leprosyc) Body Loused) Leishmaniasis",
+    "answer": "ac",
+    "options": {
+      "A": "a",
+      "B": "bc",
+      "C": "ac",
+      "D": "b"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "An old man with a systemic disease is found to have 'iris pearls' during ophthalmologic evaluation. This man is likely to suffer:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Eales disease",
+      "C": "Sympathetic ophthalmia",
+      "D": "High myopia"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following pas of the body is not affected by leprosy -",
+    "answer": "Ovary",
+    "options": {
+      "A": "Testes",
+      "B": "Ovary",
+      "C": "Nasal mucosa",
+      "D": "Axilla"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Type–1 lepra reaction is commonly seen in :",
+    "answer": "Borderline tuberculoid leprosy",
+    "options": {
+      "A": "Histoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Polyneuritic leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy is considered a public health problem if the prevalence of leprosy is more than",
+    "answer": "1 per 10,000",
+    "options": {
+      "A": "2 per 10,000",
+      "B": "1 per 10,000",
+      "C": "5 per 10,000",
+      "D": "10 per 10,000"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Paucibacillary leprosy treatment includes",
+    "answer": "Rifampicin 600 mg once a month for 6 months + Dapsone 100 mg daily for 6 months",
+    "options": {
+      "A": "Rifampicin 600 mg once a month for 6 months + Dapsone 100 mg daily for 6 months",
+      "B": "Rifampicin 600 mg + Dapsone 100 mg daily for 6 months",
+      "C": "Rifampicin 600 mg + Dapsone 100 mg + Clofazimine",
+      "D": "Dapsone 100 mg + Clofazimine 300 mg daily for 6 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following anti leprosy drugs is used in treatment of type 2 lepra reaction:",
+    "answer": "Clofazimine",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Dapsone",
+      "C": "Rifampicin",
+      "D": "None of the above"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Symmetrical multiple lesions are seen in which type of leprosy?",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Border line",
+      "B": "Neuritic",
+      "C": "Lepromatous",
+      "D": "Tubercular"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Elimination of leprosy is defined as prevalence -",
+    "answer": "<1 per 10000",
+    "options": {
+      "A": "<1 per 1000",
+      "B": "<1 per 10000",
+      "C": "<1 per 1 lakh",
+      "D": "<1 per 100"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Lepromin test is positive in which leprosy",
+    "answer": "Tuberculoid",
+    "options": {
+      "A": "Lepromatous",
+      "B": "Indeterminate",
+      "C": "Histoid",
+      "D": "Tuberculoid"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Pelvic inflammatory disease is caused by all except :",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Schistosomiasis",
+      "B": "Crohn's disease",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Loss of lateral 1/3rd' of eyebrow is seen in -",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Taenia capitis",
+      "C": "Tuberculosis",
+      "D": "Tetanus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Ridley's scale is used in classification of which disease?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Malaria",
+      "C": "Leprosy",
+      "D": "Measles"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following range shows the generation time for leprosy bacillus?",
+    "answer": "12-15 days",
+    "options": {
+      "A": "8-10 days",
+      "B": "10-12 days",
+      "C": "12-15 days",
+      "D": "15-20 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Asmmetrical several nerves thickening with several hypoesthetic macules on skin indicates which stage of leprosy: March 2009",
+    "answer": "Borderline borderline",
+    "options": {
+      "A": "Borderline lepromatous",
+      "B": "Tuberculoid leprosy",
+      "C": "Borderline borderline",
+      "D": "Borderline tubeculoid"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A known case of Lepromatous Leprosy was initiated on treatment.He developed new painful,erythematous papules over the body along with fever and lymphadenopathy. What is the likely diagnosis?",
+    "answer": "Type II lepra reaction",
+    "options": {
+      "A": "Type I lepra reaction",
+      "B": "Type II lepra reaction",
+      "C": "Fernandez reaction",
+      "D": "Mitsuda response"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "An 8-year old boy from Bihar presents with a 6 month h/o an ill defined hypopigmented slightly atrophic macule on the face. The most likely diagnosis is:",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Ptyriasis alba",
+      "B": "Indeterminate leprosy",
+      "C": "Morphacea",
+      "D": "Calcium deficiency"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Satellite lesion are seen in -",
+    "answer": "Borderline tuberculoid leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Histoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "According to WHO leprosy is a public health problem if prevalence is more than",
+    "answer": "0.01%",
+    "options": {
+      "A": "0.10%",
+      "B": "0.01%",
+      "C": "0.50%",
+      "D": "1%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Diseases under surveillance by WHO under International Health Regulations are all, EXCEPT:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Louse borne typhus fever",
+      "B": "Malaria",
+      "C": "Small pox",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is a characteristic feature of borderline leprosy",
+    "answer": "Inveed saucer shaped lesions",
+    "options": {
+      "A": "Extensive glove and stocking anesthesia",
+      "B": "Inveed saucer shaped lesions",
+      "C": "Erythema nodosum leprosum",
+      "D": "Facial lesions"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 65 year old women has developed thick, erythematous nodules on her ears and nose with significant associated sensory loss. The nodules have grown slowly over the course of many years. Biopsy of the lesions shows dermal granulomas with giant cells but no acid-fast bacteria. Culture on blood agar and Lowenstein-Jensen medium shows no growth. These findings are most consistent with which of the following diagnoses?",
+    "answer": "Tuberculoid leprosy",
+    "options": {
+      "A": "Cutaneous leishmaniasis",
+      "B": "Onchocerciasis",
+      "C": "Rhinoscleroma",
+      "D": "Tuberculoid leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "All are true about leprosy except -",
+    "answer": ".+2 mean 2 bacilli in 2 smear",
+    "options": {
+      "A": ".+2 mean 2 bacilli in 2 smear",
+      "B": "At least 7 smear examined",
+      "C": "Paucibacillary bacterial index < 2",
+      "D": "Multi bacillary bacterial index grater than or equal to 2"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Treatment of leprosy a/c to WHO is done by all drugs, except",
+    "answer": "Ciprofloxacin",
+    "options": {
+      "A": "Dapsone",
+      "B": "Clofazimine",
+      "C": "Ciprofloxacin",
+      "D": "Rifampicin"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Strategies in National Leprosy Control programme – a) Early detection of casesb) Short course multi drug therapyc) Rehabilitationd) Chemoprophylaxis with dapsonee) All of the above",
+    "answer": "abc",
+    "options": {
+      "A": "ab",
+      "B": "abc",
+      "C": "acd",
+      "D": "bcd"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In the management of leprosy, Lepromin test is most useful for",
+    "answer": "Prognosis",
+    "options": {
+      "A": "Herd Immunity",
+      "B": "Epidemiological investigations",
+      "C": "Prognosis",
+      "D": "Treatment"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "As per WHO, leprosy is a public health problem if prevalence is",
+    "answer": "0.01%",
+    "options": {
+      "A": "0.10%",
+      "B": "0.01%",
+      "C": "0.50%",
+      "D": "1%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Best in primary prevention of tuberculosis and leprosy",
+    "answer": "Health education",
+    "options": {
+      "A": "Health education",
+      "B": "Early diagnosis and treatment",
+      "C": "Isolation",
+      "D": "Chemotherapy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The multidrug regimen under the National Leprosy Eradication Programme for the treatment of all multibacillary leprosy would include -",
+    "answer": "Clofazimine, rifampicin and dapsone",
+    "options": {
+      "A": "Clofazimine, thiacetazone and dapsone",
+      "B": "Clofazimine, rifampicin and dapsone",
+      "C": "Ethionamide, rifampicin and dapsone",
+      "D": "Propionamide, rifampicin and dapsone"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following is true leprosy statement about",
+    "answer": "Paucibacillary leprosy bacterial index is less than 2",
+    "options": {
+      "A": "Two plus (2+) indicates 2 different site",
+      "B": "Paucibacillary leprosy bacterial index is less than 2",
+      "C": "7 sites are needed",
+      "D": "Various sites needed"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Ulceronecrotic nodule is seen in ?",
+    "answer": "Lucio leprosy",
+    "options": {
+      "A": "Lucio leprosy",
+      "B": "Lucio leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Histoid leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Slit smear negative leprosy is -",
+    "answer": "Neuritic type",
+    "options": {
+      "A": "Neuritic type",
+      "B": "Tuberculoid type",
+      "C": "Indeterminate type",
+      "D": "Leprometous type"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Multibacillary leprosy follow up for -",
+    "answer": "5 years",
+    "options": {
+      "A": "12-18 months",
+      "B": "2 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Lepra cells are seen in abundance in:",
+    "answer": "Lepromatous Leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous Leprosy",
+      "C": "Histoid leprosy",
+      "D": "Intermediate leprosy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Inveed saucer appearance is seen in which type of leprosy?",
+    "answer": "LL",
+    "options": {
+      "A": "BT",
+      "B": "LL",
+      "C": "BB",
+      "D": "TT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All are features of lepromatous leprosy except:",
+    "answer": "Perforating Ulcer",
+    "options": {
+      "A": "Gynaecomastia",
+      "B": "Madarosis",
+      "C": "Saddle nose",
+      "D": "Perforating Ulcer"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Basic laboratory service is not available at PHC for which disease ?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Malaria",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The standard regimen for satisfactory treatment of paucibacillary leprosy consists of",
+    "answer": "Dapsone and rifampicin for 6 months",
+    "options": {
+      "A": "Dapsone alone for 12 months",
+      "B": "Dapsone and rifampicin for 6 months",
+      "C": "Dapsone and clofazimine for 6 months",
+      "D": "Dapsone and ethionamide for 12 months"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following is TRUE regarding globi in a patient with lepromatous leprosy?",
+    "answer": "Consists of macrophages filled with AFB",
+    "options": {
+      "A": "Consists of lipid laden macrophages",
+      "B": "Consists of activated lymphocytes",
+      "C": "Consists of macrophages filled with AFB",
+      "D": "Consists of neutrophils filled with bacteria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Most sensitive index of transmission in leprosy is?",
+    "answer": "Incidence",
+    "options": {
+      "A": "Incidence",
+      "B": "Detection rate",
+      "C": "Disability rate",
+      "D": "Prevalence"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Innumerable, small, normoesthetic and symmetrical skin lesions are present in which type of leprosy: March 2009",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Borderline lepromatous",
+      "B": "Lepromatous",
+      "C": "Borderline tubeculoid",
+      "D": "Tuberculoid"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Hansen's disease is another name of:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Tuberculosis",
+      "C": "Diabetes",
+      "D": "Lichen planus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Treatment of sever ulnar neuritis in borderline tuberculoid leprosy is -",
+    "answer": "MDT + steroid",
+    "options": {
+      "A": "MDT only",
+      "B": "MDT + steroid",
+      "C": "Wait and watch",
+      "D": "MDT + thalidomide"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Multiple hypoaesthetic, hypopigmented macules on right lateral forearm with numerous acid fast bacilli is indicative of",
+    "answer": "Borderline leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Borderline leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following statements regarding drugs used in Leprosy is false",
+    "answer": "Clofazimine should not be given to patients who are intolerant to dapsone or who fail to improve during treatment with dapsone",
+    "options": {
+      "A": "Single intramuscular injections of acedapsone maintain inhibitory levels of dapsone in tissues for up to 3 months",
+      "B": "Monthly doses of rifampicin delay the emergency of resistance to dapsone",
+      "C": "Clofazimine should not be given to patients who are intolerant to dapsone or who fail to improve during treatment with dapsone",
+      "D": "Clofazimine may cause changes in skin colour"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Erythroderma is related with all of the following except: September 2008",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Psoriasis",
+      "C": "Air-borne dermatitis",
+      "D": "Sulfonamides"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Patient with leprosy, smear sample taken show 10- 100 bacilli in one field. Bacterial index is:",
+    "answer": "4+",
+    "options": {
+      "A": "1+",
+      "B": "2+",
+      "C": "3+",
+      "D": "4+"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "In the management of leprosy, Lepromin test is most useful for:",
+    "answer": "Prognosis",
+    "options": {
+      "A": "Herd immunity",
+      "B": "Prognosis",
+      "C": "Treatment",
+      "D": "Epidemiological investigations"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All the features of peripheral neuritis in a patient with Hansen's disease EXCEPT -",
+    "answer": "Decreased tendon reflexes",
+    "options": {
+      "A": "Predominant sensory involvement",
+      "B": "Decreased tendon reflexes",
+      "C": "Mutilations",
+      "D": "Peripheral nerve thickening"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following may not be used as candidate vaccine(s) in Leprosy",
+    "answer": "BCG Vaccine + M.vaccae",
+    "options": {
+      "A": "BCG Vaccine",
+      "B": "Killer M.leprae + BCG Vaccine",
+      "C": "M.indicus pranii",
+      "D": "BCG Vaccine + M.vaccae"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Characteristic of Borderline Leprosy is",
+    "answer": "Inveed Saucer appearance",
+    "options": {
+      "A": "Inveed Saucer appearance",
+      "B": "Erythema Nodosum Leprosum",
+      "C": "1-lypopigmented macules/plaques all over the body",
+      "D": "Glove and Stocking Anesthesia"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "One of the following is a side effect of clofazimine used in leprosy therapy – a) Hyperpigmentationb) Erythemac) Discoloration of body secretionsd) Macular rash",
+    "answer": "ac",
+    "options": {
+      "A": "a",
+      "B": "ac",
+      "C": "ad",
+      "D": "b"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A 7 years old child from Bihar is having hypo pigmented anesthetic patch on his face. What is the most probable diagnosis?",
+    "answer": "Intermediate leprosy",
+    "options": {
+      "A": "Intermediate leprosy",
+      "B": "Pityriasis alba",
+      "C": "Nevus anemicus",
+      "D": "Nevus achromicus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A 45 year old male had multiple hypoaesthetic mildly erythematous large plaques with elevated margins on trunk and extremities. His ulnar and lateral popliteal nerves on both sides were enlarged . The most probable diagnosis is:",
+    "answer": "Borderline lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Borderline leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Borderline lepromatous leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The multidrug regimen under the National Leprosy Eradication Programme for the treatment of all multibacillary leprosy would include-",
+    "answer": "Clofazimine, rifampicin and dapsone",
+    "options": {
+      "A": "Clofazimine, thiacetazone and dapsone",
+      "B": "Clofazimine, rifampicin and dapsone",
+      "C": "Ethionamide, rifampicin and dapsone",
+      "D": "Propionamide, rifampicin and dapsone"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Leprosy does NOT affect axilla, groin and scalp because",
+    "answer": "They are warmer regions of the body",
+    "options": {
+      "A": "They are warmer regions of the body",
+      "B": "They are colder regions of the body",
+      "C": "Less blood supply in the body",
+      "D": "Less sensory nerve supply in the body"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leprosy causes?",
+    "answer": "Focal glomerulosclerosis",
+    "options": {
+      "A": "Rapidly progressive GN",
+      "B": "Focal glomerulosclerosis",
+      "C": "Membranoproliferative GN",
+      "D": "Acute glomerulonephritis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "'Iris-pearls' are seen in:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Syphilis",
+      "B": "Leprosy",
+      "C": "Sarcoidosis",
+      "D": "Tuberculosis"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Multibacillary leprosy is treated by",
+    "answer": "Rifampicin +dapsone+cIofazimie",
+    "options": {
+      "A": "Dapsone alone",
+      "B": "Dapsone and rifampicin",
+      "C": "Rifampicin +dapsone+cIofazimie",
+      "D": "Rifampicin +clofazimine"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 16 year old student repoed for the evaluation of multiple hypopigmented macules on the trunk and limbs. All of the following tests are useful in making a diagnosis of leprosy, except:",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Sensation testing",
+      "B": "Lepromin test",
+      "C": "Slit smears",
+      "D": "Skin biopsy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient diagnosed to have leprosy with ulnar nerve involvement, presents with clumsiness of hand. Clumsiness is due to palsy of which of the following muscle?",
+    "answer": "Interosseous muscle",
+    "options": {
+      "A": "Extensor carpi ulnaris",
+      "B": "Abductor pollicis brevis",
+      "C": "Opponens pollicis",
+      "D": "Interosseous muscle"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Decreased corneal sensations can be seen in -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Bacterial corneal ulcer",
+      "B": "Mycotic corneal ulcer",
+      "C": "Leprosy",
+      "D": "Interstial keratitis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is true regarding globi in a patient with lepromatous leprosy -",
+    "answer": "Consists of macrophages filled with AFB",
+    "options": {
+      "A": "Consists of lipid laden macrophages",
+      "B": "Consists of macrophages filled with AFB",
+      "C": "Consists of neutrophils filled with bacteria",
+      "D": "Consists of activated lymphocytes"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient with leprosy had slightly erythematous, anesthetic plagues on the trunk and upper limbs. He was treated with paucibacillary multidrug therapy (PB-MDT) for 6 months. At the end of 6 months, he had persistent erythema and induration in the plaque. The next step of action recommended by the WOrld Health Organization (WHO) in such a patient is -",
+    "answer": "Stop antileprosy treatment",
+    "options": {
+      "A": "Stop antileprosy treatment",
+      "B": "Continue PB-MDT till erythema subsides",
+      "C": "Biopsy the lesion to document activity",
+      "D": "Continue dapsoen alone for another 6 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Trophic ulcers are seen in a/e -a) Poliob) Syringomyeliac) Leprosyd) TB. Meningitis",
+    "answer": "ad",
+    "options": {
+      "A": "b",
+      "B": "c",
+      "C": "ad",
+      "D": "ab"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Type 2 lepra reaction occurs in:",
+    "answer": "Multi bacillary leprosy",
+    "options": {
+      "A": "Pauci bacillary leprosy",
+      "B": "Multi bacillary leprosy",
+      "C": "Both of the above",
+      "D": "None of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Most commonly affected peripheral nerve in leprosy is ?",
+    "answer": "Ulnar",
+    "options": {
+      "A": "Ulnar",
+      "B": "Radial",
+      "C": "Medial",
+      "D": "Lateral Popliteal"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Single skin lesion is seen in which type of leprosy",
+    "answer": "TT",
+    "options": {
+      "A": "LL",
+      "B": "TT",
+      "C": "BL",
+      "D": "BL"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Inverted saucer shaped lesion is found in –",
+    "answer": "Borderline leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Tuberculoid leprosy",
+      "C": "Borderline leprosy",
+      "D": "Indeterminate leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "True about epidemiology of leprosy -",
+    "answer": "Insect can transmit the disease",
+    "options": {
+      "A": "If high prevalence of cases seen in childhood, it means disease is under control",
+      "B": "Lepra bacilli cannot survive outside human body",
+      "C": "Bacterial load is high in tuberculoid variety",
+      "D": "Insect can transmit the disease"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Average duration of treatment in multibacillary leprosy is",
+    "answer": "1 year",
+    "options": {
+      "A": "1 year",
+      "B": "2 years",
+      "C": "3 years",
+      "D": "Life long"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The following test is not used for diagnosis of leprosy -",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Lepromin test",
+      "B": "Slit skin smear",
+      "C": "Fine needle aspiration cytology",
+      "D": "Skin biopsy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is not affected in leprosy: September 2011",
+    "answer": "Uterus",
+    "options": {
+      "A": "Uterus",
+      "B": "Testes",
+      "C": "Nerve",
+      "D": "Eye"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Loss of lateral 1/3rd of eyebrow is seen in -",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Taenia capitis",
+      "C": "Tuberculosis",
+      "D": "Tetanus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Best meathod of treatment of ulner never abscess in case of leprosy is:",
+    "answer": "Incision and drainage",
+    "options": {
+      "A": "High does of steroid",
+      "B": "Incision and drainage",
+      "C": "Thalidomide",
+      "D": "High does of clofazamine"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In a diagnosed lepromatous leprosy patient, the treatment was staed. After intake to drug skin lesions and fever develop within few days. Which type of hypersensitivity reaction leads to this manifestation?",
+    "answer": "Type 3",
+    "options": {
+      "A": "Type 4",
+      "B": "Type 3",
+      "C": "Type 2",
+      "D": "Type 1"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The fingerprint pattern may be impaired permanently in case of: AIIMS 06; Al 09",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Eczema",
+      "B": "Scalds",
+      "C": "Scabies",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Characteristic feature of borderline leprosy",
+    "answer": "Inveed saucer lesion",
+    "options": {
+      "A": "Inveed saucer lesion",
+      "B": "ENL",
+      "C": "Hypopigmented macule & plaques all over body",
+      "D": "Glove & stocking anesthesia"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Caseous necrosis in granuloma are not found in",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Leprosy",
+      "C": "Histoplasmosis",
+      "D": "CMV"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Globi in leprosy consist of -",
+    "answer": "AFB + macrophages",
+    "options": {
+      "A": "AFB + macrophages",
+      "B": "neutrophils + AFB",
+      "C": "Platelet plug",
+      "D": "None of the above"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Trophic ulcers are caused by -a) Leprosyb) Buerger's diseasec) Syringomyeliad) DVTe) Varicose veins",
+    "answer": "ac",
+    "options": {
+      "A": "ac",
+      "B": "bc",
+      "C": "ad",
+      "D": "b"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "What is the duration of multibacillary leprosy treatment?",
+    "answer": "12 months",
+    "options": {
+      "A": "24 months",
+      "B": "18 months",
+      "C": "12 months",
+      "D": "6 months"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Treatment duration of Multi-bacillary leprosy is:",
+    "answer": "12 months",
+    "options": {
+      "A": "6 months",
+      "B": "12 months",
+      "C": "2 years",
+      "D": "5 years"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All are monitoring indices of leprosy control project except -",
+    "answer": "Lepromin test positivee population",
+    "options": {
+      "A": "New case detected per year",
+      "B": "Rate of new cases with disability",
+      "C": "Lepromin test positivee population",
+      "D": "Treatment completion rate"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Ridley jopling leprosy classification is a type of-",
+    "answer": "Clinical, bacteriological, immunological, histological classification",
+    "options": {
+      "A": "Clinical, bacteriological, immunological, epidemiological classification",
+      "B": "Clinical, bacteriological, immunological, therapeutic classification",
+      "C": "Clinical, bacteriological, immunological, histological classification",
+      "D": "Operational classification"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy treatment includes following drugs except :",
+    "answer": "Penicillin",
+    "options": {
+      "A": "Dapsone",
+      "B": "Rifampicin",
+      "C": "Penicillin",
+      "D": "Clofazimine"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In multibacillaryleprosy the follow-up examination after adequate treatment should be done yearly for-",
+    "answer": "5 years",
+    "options": {
+      "A": "3 years",
+      "B": "3 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A patient presents with single hypopigmented anaesthetic patch with satellite lesion on forearm. The most likely diagnosis is",
+    "answer": "Tuberculoid leprosy",
+    "options": {
+      "A": "Indeterminate leprosy",
+      "B": "Neuritic leprosy",
+      "C": "Lepromatous leprosy",
+      "D": "Tuberculoid leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Leprosy commonly spreads by -",
+    "answer": "Droplet",
+    "options": {
+      "A": "Milk",
+      "B": "Droplet",
+      "C": "Water",
+      "D": "Mosquitoes"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient with leprosy had slightly erythematous, anesthetic plaques on the trunk and upper limbs. He was treated with paucibacillary multidrug therapy (PB-MDT) for 6 moths. At the end of 6 months, he had persistent erythema and induration in the plaque. The next step of action recommended by the World Health Organization (WHO) in such a patient is",
+    "answer": "Stop antileprosy treatment",
+    "options": {
+      "A": "Stop antileprosy treatment",
+      "B": "Continue PB-MDT till erythema subsides",
+      "C": "Biopsy the lesion to document activity",
+      "D": "Continue Dapsone alone for another 6 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leprosy do not involve:",
+    "answer": "CNS",
+    "options": {
+      "A": "CNS",
+      "B": "Testis",
+      "C": "Skin",
+      "D": "Cornea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A patient with leprosy had slightly erythematous, anesthetic plaques on the trunk and upper limbs. He was treated with paucibacillary multidrug therapy (PB -MDT) for 6 months. At the end of 6 months, he had persistent erythema and induration in the plaque. The next step of action recommended by the World Health Organization (WHO) in such a patient is -",
+    "answer": "Stop antileprosy treatment",
+    "options": {
+      "A": "Stop antileprosy treatment",
+      "B": "Continue PB-MDT till erythema subsides",
+      "C": "Biopsy the lesion to document acitivity",
+      "D": "Continue dapsoen alone for another 6 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Most sensitive index of transmission in leprosy is -",
+    "answer": "Incidence",
+    "options": {
+      "A": "Incidence",
+      "B": "Detection rate",
+      "C": "Disability rate",
+      "D": "Prevalence"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "\"Multibacillary\" is a spectrum of disease, seen in-",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "TB",
+      "C": "Tetanus",
+      "D": "Trachoma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Duration of treatment for multibacillary and paucibacillary leprosy is",
+    "answer": "12 months and 6 months",
+    "options": {
+      "A": "24 months and 12 months",
+      "B": "6 months and 12 months",
+      "C": "12 months and 6 months",
+      "D": "12 months and 24 months"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In patients with leprosy, lepromin test is performed after injecting intradermally 0.1 ml of lepromin. This test is used for:",
+    "answer": "Prognosis",
+    "options": {
+      "A": "Treatment",
+      "B": "Prognosis",
+      "C": "Diagnosis",
+      "D": "Epidemiological investigations"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The screening method of choice in an area where the prevalence of leprosy is 1/1000 is -",
+    "answer": "Group survey",
+    "options": {
+      "A": "Contact survey",
+      "B": "Group survey",
+      "C": "Mass survey",
+      "D": "Any of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "False about leprosy is:",
+    "answer": "MDT is contraindicated during pregnancy",
+    "options": {
+      "A": "It has been eliminated from India",
+      "B": "It can be transmitted through breast milk",
+      "C": "Lepromin test is not a diagnostic test",
+      "D": "MDT is contraindicated during pregnancy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Most commonly affected peripheral nerve in leprosy is",
+    "answer": "Ulnar",
+    "options": {
+      "A": "Ulnar",
+      "B": "Radial",
+      "C": "Median",
+      "D": "Popliteal"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "How many bacilli should be there in the tissue for slit skin smear to be positive for Hansen's disease?",
+    "answer": "104 baccili / gram of tissue",
+    "options": {
+      "A": "10 baccili / gram of tissue",
+      "B": "102 baccili / gram of tissue",
+      "C": "103 baccili i gram of tissue",
+      "D": "104 baccili / gram of tissue"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Inveed saucer shaped lesion is found in",
+    "answer": "Borderline leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Tuberculoid leprosy",
+      "C": "Borderline leprosy",
+      "D": "Indeterminate leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Punched out lesion or inveed saucer appearance are characteristic of which stage of leprosy?",
+    "answer": "Borderline lepromatous",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Borderline tuberculoid",
+      "C": "Borderline lepromatous",
+      "D": "Lepromatous"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy commonly spreads by:",
+    "answer": "Droplet",
+    "options": {
+      "A": "Milk",
+      "B": "Droplet",
+      "C": "Water",
+      "D": "Mosquitoes"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following is associated with leprosy: September 2005",
+    "answer": "All of the above",
+    "options": {
+      "A": "Foamy histocytes",
+      "B": "Epitheliod cells",
+      "C": "Noncaseating granulomas",
+      "D": "All of the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A patient with leprosy had slightly erythematous, anesthetic plaques on the trunk and upper limbs. He was treated with paucibacillary multidrug therapy (PB-MDT) for 6 months. At the end of 6 months, he had persistent erythema and induration in the plaque. The next step of action recommended by the World Health Organization (WHO) in such a patient is –",
+    "answer": "Stop antileprosy treatment",
+    "options": {
+      "A": "Stop antileprosy treatment",
+      "B": "Continue PB-MDT till erythema subsides",
+      "C": "Biopsy the lesion to document activity",
+      "D": "Continue dapsone"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Secondary level of prevention includes all of the following except:",
+    "answer": "Reconstructive Surgery in Leprosy",
+    "options": {
+      "A": "Health screening for Diabetes Mellitus",
+      "B": "Case finding for Falciparum Malaria",
+      "C": "Contact tracing for STIs",
+      "D": "Reconstructive Surgery in Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "According to WHO latest treatment of leprosy is?",
+    "answer": "Six months treatment for paucibacillary",
+    "options": {
+      "A": "2 yrs. or negative slit smear negative (PGI 96) which ever is longer for multibacillar",
+      "B": "Life long treatment",
+      "C": "Six months treatment for paucibacillary",
+      "D": "Not specified"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "If a leprosy patient on multi drug therapy develops type II lepra reaction, what is the next course of action?",
+    "answer": "Sta steroids and clofazimine",
+    "options": {
+      "A": "Stop multi drug therapy",
+      "B": "Sta steroids",
+      "C": "Sta steroids and clofazimine",
+      "D": "None of the above"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Virchow Lepra cells are seen in:",
+    "answer": "Lepromatous Leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Indeterminate leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Lepromatous Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Treatment of lepra type II reaction are all except",
+    "answer": "Cessation of anti leprosy treatment",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Thalidomide",
+      "C": "Coicosteroids",
+      "D": "Cessation of anti leprosy treatment"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "National Leprosy Eradication Programme was started in –",
+    "answer": "1983",
+    "options": {
+      "A": "1949",
+      "B": "1955",
+      "C": "1973",
+      "D": "1983"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "If a claw hand develops in a patient with Leprosy, th deformity is ?",
+    "answer": "Grade II",
+    "options": {
+      "A": "Grade 0",
+      "B": "Grade I",
+      "C": "Grade II",
+      "D": "Grade III"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "National health policy which started before 1960 is/are – a) National Filaria Control Programmeb) National Malaria Control Programmec) National Leprosy Control Programmed) National Tuberculosis Programmee) Goitre Control Programme",
+    "answer": "abc",
+    "options": {
+      "A": "ab",
+      "B": "abc",
+      "C": "acd",
+      "D": "bcd"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The fingerprint pattern may be impaired permanently in cases of",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Eczema",
+      "B": "Scalds",
+      "C": "Scabies",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Rare exclusive infection of diabetes mellitus are all except:",
+    "answer": "Hansen's disease",
+    "options": {
+      "A": "Mucormycosis",
+      "B": "Atypical mycobacterial infection",
+      "C": "Emphysematous appendicitis",
+      "D": "Hansen's disease"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The fingerprint pattern may be impaired permanently in cases of:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Eczema",
+      "B": "Scalds",
+      "C": "Scabies",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Target for cure rate for multibacillary leprosy under programme Implementation plan for 12th plan period-",
+    "answer": "> 95%",
+    "options": {
+      "A": "> 85%",
+      "B": "> 80%",
+      "C": ">75%",
+      "D": "> 95%"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "These  lesion  are  seen in:",
+    "answer": "Borderline tuberculoid leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Histoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following drugs is not used in the treatment of leprosy ?",
+    "answer": "Kanamycin",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Dapsone",
+      "C": "Kanamycin",
+      "D": "Clofazimine"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A patient of leprosy presents with lesions as shown.The likely diagnosis is:",
+    "answer": "Borderline - Lepromatous",
+    "options": {
+      "A": "Borderline - Borderline",
+      "B": "Borderline - Lepromatous",
+      "C": "Borderline - Tuberculoid",
+      "D": "Tuberculoid"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Satellite Lesion are seen in:",
+    "answer": "Borderline Tuberculoid Leprosy",
+    "options": {
+      "A": "Tuberculoid Leprosy",
+      "B": "Lepromatous Leprosy",
+      "C": "Borderline Tuberculoid Leprosy",
+      "D": "Histoid Leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Exacerbation of lesions in patients of borderline leprosy is seen in -",
+    "answer": "Lepra reaction type I",
+    "options": {
+      "A": "ENL (erythema nodosum leprosum)",
+      "B": "Lepra reaction type I",
+      "C": "Jarisch-Herheimer reaction",
+      "D": "Resolving leprosy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In a case of Paucibacillary leprosy, treatment is considered adequate if the patient has received the six monthly doses of combined therapy within:-",
+    "answer": "9 months",
+    "options": {
+      "A": "6 months",
+      "B": "9 months",
+      "C": "12 months",
+      "D": "15 months"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The given technique is useful in diagnosis of:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Unreadable image",
+      "B": "Lichen planus",
+      "C": "Basal cell carcinoma",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 12-year-old child presents with 4 lesions of leprosy on back and four lesions on left arm. What should be the treatment of this child?",
+    "answer": "once monthly + Dapsone 50 mg daily + Clofazimine 50 mg alternate day",
+    "options": {
+      "A": "once monthly and daily",
+      "B": "Rifampicin 600 mg once monthly + Dapsone 100 mg daily",
+      "C": "once monthly + Dapsone 50 mg daily + Clofazimine 50 mg alternate day",
+      "D": "Rifampicin 450 mg once monthly + Dapsone 50 mg daily"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Lucio reaction is seen in-",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Leprosy",
+      "C": "Syphillis",
+      "D": "LGV"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Ghon's focus with hilar Lymphadenopathy is equivalent to -",
+    "answer": "Tuberculoid Leprosy (TL)",
+    "options": {
+      "A": "Boderline Tuberculoid Leprosy",
+      "B": "Tuberculoid Leprosy (TL)",
+      "C": "Lepromatous Leprosy (LL)",
+      "D": "Indeterminate Leprosy"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A young male presented with Hypo anesthetic patch on right forearm. On examination a thickened nerve was palpable. Histopathology shows the following:",
+    "answer": "TT Leprosy",
+    "options": {
+      "A": "TT Leprosy",
+      "B": "LL Leprosy",
+      "C": "Lymphoma",
+      "D": "Histiocytosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Iris pearl are seen in -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Tuberculosis",
+      "C": "Sarcoidosis",
+      "D": "Cat Scratch disease"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Treatment of severe ulnar neuritis in borderline tuberculoid leprosy is which of the following?",
+    "answer": "MDT +steroid",
+    "options": {
+      "A": "MDT only",
+      "B": "MDT +steroid",
+      "C": "Wait and watch",
+      "D": "MDT + thalidomide"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Globi in leprosy consist of ?",
+    "answer": "AFB + macrophages",
+    "options": {
+      "A": "AFB + macrophages",
+      "B": "neutrophils + AFB",
+      "C": "Platelet plug",
+      "D": "None of the above"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Nerve abscess in tuberculoid leprosy treatment of choice -",
+    "answer": "Incision and drainage",
+    "options": {
+      "A": "Incision and drainage",
+      "B": "High dose clofazimine",
+      "C": "Steroids",
+      "D": "Thalidomide"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Treatment of lepromatous leprosy:",
+    "answer": "Rifampicin + Dapsone + Clofazamine",
+    "options": {
+      "A": "Rifampicin + Dapsone",
+      "B": "Rifampicin + Clofazamine",
+      "C": "Rifampicin + Dapsone + Clofazamine",
+      "D": "Rifampicin + Ofloxacin + Minocycline"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Iris pearls are pathognomonic for",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Syphilis",
+      "B": "Sarcoidosis",
+      "C": "Herpes simplex virus",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Dharmendra&;s index and Jopling&;s classification deals with -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Leprosy",
+      "C": "Syphilis",
+      "D": "Polio"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In leprosy, the best bactericidal agent is:",
+    "answer": "Rifampicin",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Dapsone",
+      "C": "Rifampicin",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is a characteristic feature of Borderline leprosy?",
+    "answer": "Inveed saucer appearance",
+    "options": {
+      "A": "Inveed saucer appearance",
+      "B": "Erythema Nodosum Leprosum",
+      "C": "Presence of hypopigmented plaques all over the body",
+      "D": "Glove and Stocking sensory symptoms"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Necrotizing epitheloid cell granulomas are seen in all, except",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Wegener's granulomatosis",
+      "C": "Cat's Scratch disease",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "The blister pack used in MDT of leprosy Is shown in PLATE. Which drug is not supplied in it?",
+    "answer": "Minocycline",
+    "options": {
+      "A": "Rifampacin",
+      "B": "Clofazamine",
+      "C": "Dapsone",
+      "D": "Minocycline"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Inflammation of nerve is seen in -a) Leprosyb) Diabetes c) Guillain Barre Syndrome d) Diphtheria",
+    "answer": "acd",
+    "options": {
+      "A": "abc",
+      "B": "acd",
+      "C": "bc",
+      "D": "bde"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Iris pearls are seen in uveiitis due to -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Syphilis",
+      "C": "Toxoplasma",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is bactericidal drug used for leprosy?",
+    "answer": "Ofloxacin",
+    "options": {
+      "A": "Ciprofloxacin",
+      "B": "Ofloxacin",
+      "C": "Erythromycin",
+      "D": "Gentamicin"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Disease causing modification of finger prints is:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "HIV",
+      "C": "Hypeension",
+      "D": "Acromegaly"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Immunoprophylaxis of leprosy includes-a)  BCGb)  MMRc)  ICRC bacillusd) Anthrax vaccinee) Mw",
+    "answer": "ac",
+    "options": {
+      "A": "a",
+      "B": "ac",
+      "C": "ad",
+      "D": "b"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Dharmendra's index and Jopling's classification deals with:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Leprosy",
+      "C": "Syphilis",
+      "D": "Polio"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Best method of treatment of ulner never abscess in case of leprosy is –",
+    "answer": "Incision and drainage",
+    "options": {
+      "A": "High does of steroid",
+      "B": "Incision and drainage",
+      "C": "Thalidomide",
+      "D": "High does of clofazamine"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "In the management of leprosy, Lepromin test is most useful for -",
+    "answer": "Prognosis",
+    "options": {
+      "A": "Herd immunity",
+      "B": "Prognosis",
+      "C": "Treatment",
+      "D": "Epidemiological investigations"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Mass immunization is indicated in the following, except-",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Cholera",
+      "C": "Influenza",
+      "D": "Tuberculosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leprosy is not targeted for global eradication because",
+    "answer": "Long incubation period",
+    "options": {
+      "A": "No effective vaccine",
+      "B": "Highly infectious but low pathogenicity",
+      "C": "Only humans are reservoir",
+      "D": "Long incubation period"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Mass chemoprophylaxis in an endemic area is given for all except?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Yaws",
+      "C": "Trachoma",
+      "D": "Filariasis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Duration of treatment in pauci bacillary leprosy is",
+    "answer": "6 months",
+    "options": {
+      "A": "6 months",
+      "B": "9 months",
+      "C": "2 years",
+      "D": "Till sumptoms subside"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A patient with leprosy presents with clumsiness of hand. His ulnar nerve is affected. Clumsiness is due to palsy of which muscle -",
+    "answer": "Interosseous muscle",
+    "options": {
+      "A": "Extensor carpi ulnaris",
+      "B": "Abductor pollicis brevis",
+      "C": "Oppenens pollicis",
+      "D": "Interosseous muscle"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Fastest acting drug in leprosy is -",
+    "answer": "Rifampicin",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Dapsone",
+      "C": "Clofazimine",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "For treatment of paucibacillary leprosy drugs used are -",
+    "answer": "Rifampicin & dapsone",
+    "options": {
+      "A": "Rifampicin & dapsone",
+      "B": "Rifampicin, dapsone, steroids",
+      "C": "Rifampicin, clofazimine, dapsone",
+      "D": "None"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Following is/ are the clinical feature/ s of lepromatous leprosy ?",
+    "answer": "All the above",
+    "options": {
+      "A": "Leonine facies",
+      "B": "Loss of libido and impotence",
+      "C": "Saddle nose",
+      "D": "All the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Generation time for leprosy bacillus is?",
+    "answer": "12-15 days",
+    "options": {
+      "A": "8-10 days",
+      "B": "10-12 days",
+      "C": "12-15 days",
+      "D": "15-20 days"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In Hansen's disease, the nerve commonly affected at elbow is: September 2005",
+    "answer": "Ulnar nerve",
+    "options": {
+      "A": "Ulnar nerve",
+      "B": "Median nerve",
+      "C": "Radial nerve",
+      "D": "Musculocutaneous nerve"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "SAPEL initiative is associated with:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Small pox",
+      "B": "Plague",
+      "C": "Leprosy",
+      "D": "Malaria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Dose of Rifampicin per month for adult multibacillary leprosy",
+    "answer": "600 mg",
+    "options": {
+      "A": "600 mg",
+      "B": "150 mg",
+      "C": "450 mg",
+      "D": "300 mg"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following drugs is not used in treatment of multibacillary leprosy as per recommendation of WHO?",
+    "answer": "Minocycline",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Clofazimine",
+      "C": "Dapsone",
+      "D": "Minocycline"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 27-year-old patient was diagnosed to have borderline leprosy and staed on multibacillary multi-drug therapy. Six weeks later, he developed pain in the nerves and redness and swelling of the skin lesions. The management of his illness should include all of the following, except:",
+    "answer": "Stop anti-leprosy drugs",
+    "options": {
+      "A": "Stop anti-leprosy drugs",
+      "B": "Systemic coicosteroids",
+      "C": "Rest to the limbs affected",
+      "D": "Analgesics"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Lepra cells found in lepromatous leprosy are ?",
+    "answer": "Macrophages",
+    "options": {
+      "A": "Neutrophils",
+      "B": "Lymphocytes",
+      "C": "Macrophages",
+      "D": "Plasma cells"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy bacillus is cultured by using:-",
+    "answer": "None of the above",
+    "options": {
+      "A": "Bordet Gengou medium",
+      "B": "LJ medium",
+      "C": "Loeffler's serum slope",
+      "D": "None of the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Elimination of leprosy is defined as prevalance –",
+    "answer": "< 1 per 10000",
+    "options": {
+      "A": "< 1 per 1000",
+      "B": "< 1 per 10000",
+      "C": "< 1 per 1 lakh",
+      "D": "< 1 per 100"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Grenz zone is more prominent in",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Borderline lepromatous",
+      "C": "Mid - Borderline leprosy",
+      "D": "Lepromatous leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "VIRCHOW's cells are seen in:",
+    "answer": "Lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Tuberculoid leprosy",
+      "C": "Borderline lepromatous leprosy",
+      "D": "Intermediate leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Permanent erasure of fingerprint is seen following",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Eczema",
+      "B": "Scalds",
+      "C": "Diabetic neuropathy",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Under leprosy eradication programme the managment of single lesion is -",
+    "answer": "Rifamcipin and Dapsone for 6 months",
+    "options": {
+      "A": "single dose of Rifampicin and Dapsone",
+      "B": "Rifamcipin and Dapsone for 6 months",
+      "C": "Rifampicin, ofloxacin and minocycline single dose",
+      "D": "Rifampicin and minocycline for 6 months"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "FALSE about Leprosy eradication programme is –",
+    "answer": "Long term multi drug therapy",
+    "options": {
+      "A": "Early detection of cases",
+      "B": "Disability limitation",
+      "C": "Long term multi drug therapy",
+      "D": "Health education"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "National Leprosy Eradication Programme was staed in -",
+    "answer": "1983",
+    "options": {
+      "A": "1949",
+      "B": "1955",
+      "C": "1973",
+      "D": "1983"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "FALSE about Leprosy eradication programme is -",
+    "answer": "Long term multi drug therapy",
+    "options": {
+      "A": "Early detection of cases",
+      "B": "Disability limitation",
+      "C": "Long term multi drug therapy",
+      "D": "Health education"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Treatment of severe ulnar neuritis in borderline tuberculoid leprosy is –",
+    "answer": "MDT + steroid",
+    "options": {
+      "A": "MDT only",
+      "B": "MDT + steroid",
+      "C": "Wait and watch",
+      "D": "MDT + thalidomide"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Multibacillary leprosy has -",
+    "answer": "Bacteriological index >=2",
+    "options": {
+      "A": "5 lesions",
+      "B": "Bacteriological index >=2",
+      "C": "Indeterminate leprosy",
+      "D": "All of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A single hypopigmented anesthetic patch with satellite lesion on forearm, likely diagnosis is :",
+    "answer": "Tuberculoid leprosy",
+    "options": {
+      "A": "Indeerminate leprosy",
+      "B": "Tuberculoid leprosy",
+      "C": "Neuritic leprosy",
+      "D": "Luptis Vulgaris"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "According to WHO latest treatment of leprosy is -",
+    "answer": "Six months treatment for paucibacillary",
+    "options": {
+      "A": "2 yrs. Or negative slit smear negative which ever is longer for multibacillary",
+      "B": "Life long treatment",
+      "C": "Six months treatment for paucibacillary",
+      "D": "Not specified"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Treatment of lepromatous leprosy is :",
+    "answer": "Rifampicin + Dapsone + Clofazimine",
+    "options": {
+      "A": "Rifampicin + Dapsone",
+      "B": "Rifampicin + Clofazimine",
+      "C": "Rifampicin + Dapsone + Clofazimine",
+      "D": "Rifampicin + Ofloxacin + Minocycline"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "The Multidrug (MDT) regimen under the National Leprosy Eradication Program for the treatment of all Multibacillary Leprosy would include:-",
+    "answer": "Clofazimine, Rifampicin and Dapsone",
+    "options": {
+      "A": "Clofazimine, Thiacetazone and Dapsone",
+      "B": "Clofazimine, Rifampicin and Dapsone",
+      "C": "Ethionamide, Rifampicin and Dapsone",
+      "D": "Propionamide, Rifampicin and Dapsone"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Slit smear negative leprosy is-",
+    "answer": "All",
+    "options": {
+      "A": "Neuritic type",
+      "B": "Tuberculoid type",
+      "C": "Indeterminate type",
+      "D": "All"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 45 year old male had multiple hypoaesthetic mildly erythematous large plaques with elevated margins on trunk and extremities. His ulnar and lateral popliteal nerves on both sides were enlarged. The most probable diagnosis is:",
+    "answer": "Borderline lepromatous leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Borderline leprosy",
+      "C": "Borderline tuberculoid leprosy",
+      "D": "Borderline lepromatous leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which one of the following is/are used as operational indicators in antileprosy activity -",
+    "answer": "Relapse rate and case detection ratio",
+    "options": {
+      "A": "Incidence",
+      "B": "Incidence and prevalence",
+      "C": "Relapse rate and case detection ratio",
+      "D": "Incidence case detection ratio"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Sensory motor neuropathy is caused by -a) DMb) Lead poisoning c) Arsenicd) Leprosye) AIDS",
+    "answer": "acde",
+    "options": {
+      "A": "abcd",
+      "B": "bde",
+      "C": "acde",
+      "D": "bcde"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A patient was diagnosed to have single skin lesion of Leprosy without any AFB positive bacteria from the scrapings. What should be the treatment of this patient according to latests guidelines?",
+    "answer": "(Rifampicin + Dapsone + Clofazamine) for 6 months",
+    "options": {
+      "A": "(Rifampicin + Dapsone + Clofazamine) for 12 months",
+      "B": "(Rifampicin + Dapsone + Clofazamine) for 6 months",
+      "C": "(Rifampicin + Dapsone) for 12 months",
+      "D": "(Rifampicin + Dapsone) for 6 months"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "According to WHO, the prevalence of leprosy is a major public health problem when the incidence is more than:",
+    "answer": "0.01%",
+    "options": {
+      "A": "0.10%",
+      "B": "0.50%",
+      "C": "0.01%",
+      "D": "1%"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Erythema nodosum leprosum is seen in a 16 year old boy from Bihar. They are features of which of the following types of leprosy?",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Lepromatous",
+      "B": "Borderline",
+      "C": "Tuberculoid",
+      "D": "Borderline tuberculoids"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In Leprosy most common renal lesion seen is ?",
+    "answer": "MGN",
+    "options": {
+      "A": "MGN",
+      "B": "MPGN",
+      "C": "Focal glomeruloselerosis",
+      "D": "Diffuse glomerulosclerosis"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Nerves are not involved in -",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate leprosy",
+      "D": "Borderline tuberculoid leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Strategies in National Leprosy Control programme include-",
+    "answer": "Early detection of cases",
+    "options": {
+      "A": "Early detection of cases",
+      "B": "Sho course multi drug therapy",
+      "C": "Rehabilitation",
+      "D": "Chemoprophylaxis with dapsone"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The first line antileprosy drugs include all except?",
+    "answer": "Thiacetazone",
+    "options": {
+      "A": "Dapsone",
+      "B": "Thiacetazone",
+      "C": "Clofazimine",
+      "D": "Rifampicin"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Inveed saucer shaped lesion is found in -",
+    "answer": "Borderline Leprosy",
+    "options": {
+      "A": "Lepromatous Leprosy",
+      "B": "Tuberculoid Leprosy",
+      "C": "Borderline Leprosy",
+      "D": "Indeterminate leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Multibacillary leprosy follow up for-",
+    "answer": "5 years",
+    "options": {
+      "A": "12-18 months",
+      "B": "2 years",
+      "C": "5 years",
+      "D": "10 years"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "True about epidemiology of leprosy -a) If high prevalence of cases seen in childhood, it means disease is under controlb) Lepra bacilli cannot survive outside hman bodyc) Bacterial load is high in tuberculoid varietyd) Insect can transmit the diseasee) Relapse rate is indicator of efficacy of the drug regimen",
+    "answer": "de",
+    "options": {
+      "A": "de",
+      "B": "bc",
+      "C": "cd",
+      "D": "bd"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "As per WHO, leprosy is a public health problem if prevalence is –",
+    "answer": "0.01%",
+    "options": {
+      "A": "0.10%",
+      "B": "0.01%",
+      "C": "0.50%",
+      "D": "1%"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "An 8-year-old boy presents with a 6 months history of an ill defined, hypopigmented slightly atrophic macule on the face. The most likely diagnosis is:",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Pityriasis alba",
+      "B": "Indeterminate leprosy",
+      "C": "Morphoca",
+      "D": "Calcium deficiency"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Effective leprosy control programme may be indicated bn all of the following except ?",
+    "answer": "Increasing number of children affected",
+    "options": {
+      "A": "Increasing number of children affected",
+      "B": "Decreased grade 2 disability",
+      "C": "Low MDR resistant, multibacillary cases",
+      "D": "High new case detection rate"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leonine facies is seen in................ leprosy -",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Borderline",
+      "C": "Lepromatous",
+      "D": "Borderline tuberculoid"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Tuberculoid leprosy is characterised by?",
+    "answer": "Non caseating granuloma in nerve",
+    "options": {
+      "A": "Non caseating granuloma in nerve",
+      "B": "Sub epidermall free zone",
+      "C": "Bacilli in skin",
+      "D": "Skin caseation"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Multidrug (MDT) regimen under the National Leprosy Eradication Program for treatment of all Multibacillary Leprosy would include:-",
+    "answer": "Clofazimine, Rifampicin and Dapsone",
+    "options": {
+      "A": "Clofazimine, Thiacetazone and Dapsone",
+      "B": "Clofazimine, Rifampicin and Dapsone",
+      "C": "Ethionamide, Rifampicin and Dapsone",
+      "D": "Propionamide, Rifampicin and Dapsone"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Most common drug used in Leprosy is:",
+    "answer": "Dapsone",
+    "options": {
+      "A": "Dapsone",
+      "B": "Clofazimine",
+      "C": "Ethionamide",
+      "D": "Ofloxacin"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The following test is not used for diagnosis of leprosy:",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Lepromin test",
+      "B": "Split skin smear",
+      "C": "Fine needle aspiration cytology",
+      "D": "Skin biopsy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Elimination ofleprosy is defined as prevalance",
+    "answer": "< 1 per 10000",
+    "options": {
+      "A": "< 1 per 1000",
+      "B": "< 1 per 10000",
+      "C": "< 1 per I lakh",
+      "D": "< 1 per 100"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Recommended duration of surveillance after completion of treatment of multibacillary leprosy?",
+    "answer": "5 years",
+    "options": {
+      "A": "6 months",
+      "B": "1 year",
+      "C": "2 years",
+      "D": "5 years"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "SET centres are established if prevalence leprosy Is -",
+    "answer": "5-Jan",
+    "options": {
+      "A": "0.5- 1/1000",
+      "B": "5-Jan",
+      "C": "10-May",
+      "D": "10"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All of the following are indicative of effective leprosy control programme except:",
+    "answer": "Increasing number of children affected",
+    "options": {
+      "A": "High new case detection rate",
+      "B": "Increasing number of children affected",
+      "C": "Decreased type 2 disability",
+      "D": "None of the above"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Leonine facies is seen in _____________ leprosy-",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Borderline",
+      "C": "Lepromatous",
+      "D": "Borderline tuberculoid"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Erythema nodosum leprosum or Type 2 reaction in Hansen's disease is an example of which hypersensitivity reaction?",
+    "answer": "Type III",
+    "options": {
+      "A": "Type I",
+      "B": "Type II",
+      "C": "Type III",
+      "D": "Type IV"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Control of TB and leprosy is by:",
+    "answer": "Early diagnosis and treatment",
+    "options": {
+      "A": "Isolation of case",
+      "B": "Specific protection",
+      "C": "Early diagnosis and treatment",
+      "D": "Elimination of reservoirs"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Leprosy does not involve –",
+    "answer": "CNS",
+    "options": {
+      "A": "CNS",
+      "B": "Testis",
+      "C": "Skin",
+      "D": "Cornea"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Optic atrophy may occur in all of the following conditions, EXCEPT:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Glaucoma",
+      "B": "Leprosy",
+      "C": "Pituitary tumor",
+      "D": "Methanol intake"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following is true for multibacillary leprosy: September 2006",
+    "answer": "All of the above",
+    "options": {
+      "A": "More than 5 lesions on skin smears",
+      "B": "Clofazimine is an impoant drug to be given",
+      "C": "Treatment is to given for 12 months",
+      "D": "All of the above"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "A 12 year old boy from Uttar Pradesh has a white lesion on his face which has grown noticeably large. On examination there is hypoesthesia on the lesion and it is smooth. What is the likely diagnosis?",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Lepromatous leprosy",
+      "B": "Pityriasis alba",
+      "C": "Asbestosis",
+      "D": "Indeterminate leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "According to National Leprosy Elimination Programme, elimination of leprosy is defined as prevalence of Leprosy less than or equal to______.",
+    "answer": "1 per 10000 population",
+    "options": {
+      "A": "1 per 1000 population",
+      "B": "1 per 10000 population",
+      "C": "1 per 1,00,000 population",
+      "D": "2 per 10000 population"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "All are true statement regarding leprosy except:",
+    "answer": "In paucibacillary leprosy > 2 nerves are involved",
+    "options": {
+      "A": "Multibacillary leprosy means person having 6 or more skin lesions",
+      "B": "Regular MDT means patients received 2/3rd of months of treatment schedule",
+      "C": "In paucibacillary leprosy > 2 nerves are involved",
+      "D": "Loss os sensation may present"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Mass chemoprophylaxis in endemic area is recommended for all of the following, except:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Yaws",
+      "B": "Leprosy",
+      "C": "Trachoma",
+      "D": "Filaria"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following regimens is recommended for multibacillary leprosy in children of 10 to 14 years of age?",
+    "answer": "Rifampicin 450 mg once a month (under supervision)+ Dapsone 50 mg daily (self- administered)+ Clofazimine 150 mg once a month (under supervision) and 50 mg every alternate day",
+    "options": {
+      "A": "Rifampicin 450 mg once a month (under supervision)+ Dapsone 50 mg daily (self- administered)+ Clofazimine 150 mg once a month (under supervision) and 50 mg every alternate day",
+      "B": "Rifampicin 600 mg once a month (under supervision)+ Dapsone 100 mg daily (self- administered)+ Clofazimine 50 mg once a month (under supervision) and 25 mg every alternate day",
+      "C": "Rifampicin 450 mg once a month (under supervision) + Dapsone 50 mg daily (self- administered)",
+      "D": "Rifampicin 600 mg once a month (under supervision) + Dapsone 50 mg daily (self- administered)"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Lucio reaction is seen in -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Leprosy",
+      "C": "Syphillis",
+      "D": "LGV"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "8 year old boy from Tamil Nadu presents with a white, non anaesthetic, non scaly hypopigmented macule on his face, likely diagnosis is :",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Pityriasis alba",
+      "B": "Pityriasis versicolour",
+      "C": "Indeterminate leprosy",
+      "D": "Neuritic leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following drug is not used in the treatment of leprosy?",
+    "answer": "Kanamycin",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Dapsone",
+      "C": "Kanamycin",
+      "D": "Clofazimine"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 7 year old child from Bihar has a hypo pigmented anesthetic patch on his face. What is the most probable diagnosis?",
+    "answer": "Intermediate leprosy",
+    "options": {
+      "A": "Intermediate leprosy",
+      "B": "Pityriasis alba",
+      "C": "Nevus anemicus",
+      "D": "Nevus achromicus"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Symmetrical multiple lesions are seen in which type of leprosy -",
+    "answer": "Lepromatous",
+    "options": {
+      "A": "Borderline",
+      "B": "Neuritic",
+      "C": "Lepromatous",
+      "D": "Tobercular"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Iris pearl are seen in ?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "Tuberculosis",
+      "C": "Sarcoidosis",
+      "D": "Cat Scratch disease"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Punched out lesion or inverted saucer appearance are characteristic of which stage of leprosy-",
+    "answer": "Borderline lepromatous",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Borderline tuberculoid",
+      "C": "Borderline lepromatous",
+      "D": "Lepromatous"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "All of the following organs may be involved in Leprosy, except:",
+    "answer": "Uterus",
+    "options": {
+      "A": "Uterus",
+      "B": "Ovary",
+      "C": "Testes",
+      "D": "Eye"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Lepra cells seen in leprosy are:",
+    "answer": "Vacuolated Histiocytes",
+    "options": {
+      "A": "Lymphocytes",
+      "B": "Plasma cells",
+      "C": "Vacuolated Histiocytes",
+      "D": "Neutrophils"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is the most likely cause in a case of granuloma with positive AFB?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Cat scratch disease",
+      "B": "Trench fever",
+      "C": "Leprosy",
+      "D": "Syphilis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "In leprosy nerves commonly involved?",
+    "answer": "High ulnar, low median",
+    "options": {
+      "A": "High ulnar, low median",
+      "B": "High median, low ulnar",
+      "C": "Triple nerve palsy",
+      "D": "High radial, low median"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Robe Koch is associated with all of the following EXCEPT: March 2013",
+    "answer": "Discovery of leprosy bacillus",
+    "options": {
+      "A": "Discovery of bacillus tuberculosis",
+      "B": "Discovery of vibrio cholerae",
+      "C": "Discovery of leprosy bacillus",
+      "D": "Postulated Koch's criteria"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which of the following is not approved for treatment of leprosy?",
+    "answer": "Azathioprine",
+    "options": {
+      "A": "Ofloxacin",
+      "B": "Minocycline",
+      "C": "Azathioprine",
+      "D": "Rifampicin"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Neurological involvement is pronounced in which type leprosy -",
+    "answer": "Tuberculoid",
+    "options": {
+      "A": "Tuberculoid",
+      "B": "Lepromatous",
+      "C": "Borderline",
+      "D": "Lucio leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "WHO regime for paucibacillary leprosy –",
+    "answer": "100 mg Dapsone daily + Rifampcin monthly (600 mg)",
+    "options": {
+      "A": "100 mg Dapsone daily + Rifampcin monthly (600 mg)",
+      "B": "Dapsone daily + Rifampcin daily",
+      "C": "Dapsone + Rifampcin + Clofazimine daily",
+      "D": "Rifampcin + Clofazimine daily"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In leprosy nerves commonly involved –",
+    "answer": "High ulnar, low median",
+    "options": {
+      "A": "High ulnar, low median",
+      "B": "High median, low ulnar",
+      "C": "Triple nerve palsy",
+      "D": "High radial, low median"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Best mode to control leprosy eradication programme is -",
+    "answer": "Early diagnosis and treatment",
+    "options": {
+      "A": "Mass chemotherapy",
+      "B": "Early diagnosis and treatment",
+      "C": "High risk chemotherapy",
+      "D": "Health education"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Neurological involvement is pronounced in which type of leprosy?",
+    "answer": "Lucio leprosy",
+    "options": {
+      "A": "Borderline",
+      "B": "Lucio leprosy",
+      "C": "Tuberculoid",
+      "D": "Lepromatous"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Skin smear is negative in which leprosy –",
+    "answer": "Neuritic",
+    "options": {
+      "A": "Indeterminate",
+      "B": "Neuritic",
+      "C": "Lepromatous",
+      "D": "Borderline"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Which of the following statements regarding drugs used in leprosy is FALSE?",
+    "answer": "Clofazimine should not be given to patients who are intolerant to dapsone or who fail to improve during treatment with dapsone",
+    "options": {
+      "A": "Single intramuscular injections of acedapsone maintain inhibitory levels of dapsone in tissues for upto 3 months",
+      "B": "Monthly doses of rifampicin delay the emergence of resistance to dapsone",
+      "C": "Clofazimine should not be given to patients who are intolerant to dapsone or who fail to improve during treatment with dapsone",
+      "D": "Clofazimine may cause changes in the skin colour"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "A 6 year old child from Tamil Nadu presents with a solitary nonanaesthetic patch on face, the possible diagnosis is –",
+    "answer": "Indeterminate leprosy",
+    "options": {
+      "A": "Pityriasis alba",
+      "B": "Indeterminate leprosy",
+      "C": "Pityriasis versicolor",
+      "D": "Tinea infection"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "The characteristic finding in a case of leprosy is -",
+    "answer": "Long contact with tuberculoid leprosy can transmit the disease.",
+    "options": {
+      "A": "Culture test is positive in 2-3 months in LT media",
+      "B": "Long contact with tuberculoid leprosy can transmit the disease.",
+      "C": "CMI is seen in Lepromatous leprosy",
+      "D": "Macule lesion heals spontaneously"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "You have noticed ape like thumb in a 30 years young man from bihar who is a known patient of leprosy? Which of the following test is not done to show the nerve involved in this condition?",
+    "answer": "Card test",
+    "options": {
+      "A": "Card test",
+      "B": "Pen test",
+      "C": "Benediction sign (pointing index deformity)",
+      "D": "Oschner clasp sign"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The following test is not used for diagnosis of leprosy –",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Lepromin test",
+      "B": "Slit skin smear",
+      "C": "Fine needle aspiration cytology",
+      "D": "Skin biopsy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leprosy commonly affects all organs except:",
+    "answer": "Ovary",
+    "options": {
+      "A": "Ovary",
+      "B": "Skin",
+      "C": "Nerves",
+      "D": "Eye"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All are true lepromatous leprosy except –",
+    "answer": "Presence of granulomas subdermally",
+    "options": {
+      "A": "Presence of globi",
+      "B": "Subepidermal free zone",
+      "C": "Decreased cell mediated immunity",
+      "D": "Presence of granulomas subdermally"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Anti leprosy drug causing ichthyoses is ?",
+    "answer": "Clarithromycin",
+    "options": {
+      "A": "Dapsone",
+      "B": "Clofazamine",
+      "C": "Rifampicin",
+      "D": "Clarithromycin"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Gynaecomastia is seen in:a) Secondary syphilisb)  Lepromatous leprosyc) HIVd) Klinefelter's syndrome",
+    "answer": "bcd",
+    "options": {
+      "A": "bcd",
+      "B": "acd",
+      "C": "ac",
+      "D": "bd"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Finding acid-fast bacilli within peripheral nerves is most suggestive of:",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Relapsing fever",
+      "B": "Syphilis",
+      "C": "Leprosy",
+      "D": "Tuberculosis"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Treatment of lepromatous leprosy is",
+    "answer": "Rifampicin + Dapsone + Clofazimine",
+    "options": {
+      "A": "Rifampicin + Dapsone",
+      "B": "Rifampicin + Clofazimine",
+      "C": "Rifampicin + Dapsone + Clofazimine",
+      "D": "Rifampicin + Ofloxacin + Minocycline"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "WHO regime for paucibacillary leprosy:",
+    "answer": "100 mg Dapsone daily + Rifampcin monthly (600 mg)",
+    "options": {
+      "A": "100 mg Dapsone daily + Rifampcin monthly (600 mg)",
+      "B": "Dapsone daily + Rifampcin daily",
+      "C": "Dapsone + Rifampcin + Clofazemine daily",
+      "D": "Rifampcin + Clofazamine daily"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "All of the following are true of tuberculoid leprosy except –",
+    "answer": "Treatment for 5 years",
+    "options": {
+      "A": "It is infective",
+      "B": "Positive lepromin test",
+      "C": "Treatment for 5 years",
+      "D": "Body immunity is high"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "\"Multibacillary\" is a spectrum of disease seen in -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Leprosy",
+      "B": "TB",
+      "C": "Tetanus",
+      "D": "Trachoma"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following is true of lepromatous leprosy  a) Bacterial index + to ++  b) Involvement of earlobes  c) Symmetrical involvement  d) Only a few bacilli are seen in the lesion  e) Loss of eyebrows",
+    "answer": "bce",
+    "options": {
+      "A": "abc",
+      "B": "bce",
+      "C": "ade",
+      "D": "cde"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient with leprosy had slightly erythematous, anesthetic plaques on the trunk and upper limbs. He was treated with paucibacillary multidrug therapy (PB-MDT) for 6 months. At the end of 6 months, he had persistent erythema and induration in the plaque. The next step of action recommended by the World Health Organization (WHO) in such a patient is",
+    "answer": "Stop antileprosy treatment",
+    "options": {
+      "A": "Stop antileprosy treatment",
+      "B": "Continue PB-MDT till erythema subsides",
+      "C": "Biopsy the lesion to document acitivity",
+      "D": "Continue dapsoen alone for another 6 months"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Necrotizing epitheloid cell granulomas are seen in all, except -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Tuberculosis",
+      "B": "Wegener's granulomatosis",
+      "C": "Cat's Scratch disease",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Grenz zone is absent in which type of leprosy",
+    "answer": "TT",
+    "options": {
+      "A": "TT",
+      "B": "BT",
+      "C": "BB",
+      "D": "LL"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Which of the following drug used in treating leprosy acts as a bactericidal agent?",
+    "answer": "Rifampicin",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Dapsone",
+      "C": "Rifampicin",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Child belongs toBihar Shows hypopigmented patches over his face. What is the right diagnosis?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "P. alba",
+      "B": "Leprosy",
+      "C": "Vitilgo",
+      "D": "None"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Most impoant in establishing diagnosis of leprosy is: March 2010",
+    "answer": "Slit smear for AFB",
+    "options": {
+      "A": "Evidence of neural involvement",
+      "B": "Hypopigmented patches",
+      "C": "Slit smear for AFB",
+      "D": "Positive lepromin test"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "All of the following organs may be involved in Leprosy except -",
+    "answer": "Uterus",
+    "options": {
+      "A": "Uterus",
+      "B": "Ovary",
+      "C": "Testes",
+      "D": "Eye"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Leprosy involves all except",
+    "answer": "Uterus",
+    "options": {
+      "A": "Uterus",
+      "B": "Ovary",
+      "C": "Nerve",
+      "D": "Eye"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "In leprosy, the best bactericidal agent is :",
+    "answer": "Rifampicin",
+    "options": {
+      "A": "Clofazimine",
+      "B": "Dapsone",
+      "C": "Rifampicin",
+      "D": "Ethionamide"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Commonest nerve involved in leprosy is:",
+    "answer": "Ulnar",
+    "options": {
+      "A": "Ulnar",
+      "B": "Median",
+      "C": "Radial",
+      "D": "Sciatic"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "The following test is not used for dignosis of leprosy-",
+    "answer": "Lepromin test",
+    "options": {
+      "A": "Lepromin test",
+      "B": "slit skin smear",
+      "C": "Fine needle aspiration cytology",
+      "D": "skin biopsy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "A young boy has a single scaly, hypo anaesthetic patch over Hand plus thickened ulnar nerve, diagnosis is:",
+    "answer": "Tuberculoid leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Lepromatous leprosy",
+      "C": "Indeterminate",
+      "D": "Borderline"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Subtype of leprosy with maximum number of TH -1 cells -",
+    "answer": "TT",
+    "options": {
+      "A": "TT",
+      "B": "BB",
+      "C": "LL",
+      "D": "Borderline leprosy"
+    },
+    "answer_idx": "A"
+  },
+  {
+    "question": "Basic laboratory service is not available at PHC for which disease -",
+    "answer": "Leprosy",
+    "options": {
+      "A": "TB",
+      "B": "Malaria",
+      "C": "Syphilis",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "All lesions are seen in leprosy except –",
+    "answer": "Vesicles",
+    "options": {
+      "A": "Erythematous Macule",
+      "B": "Hypopigmented patch",
+      "C": "Vesicles",
+      "D": "Flat & raised patches"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Lesion not seen in Lepromatous leprosy is:-",
+    "answer": "Vesicle",
+    "options": {
+      "A": "Macule",
+      "B": "Papule",
+      "C": "Nodule",
+      "D": "Vesicle"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "FALSE about Leprosy eradication programme is ?",
+    "answer": "Long term multi drug therapy",
+    "options": {
+      "A": "Early detection of cases",
+      "B": "Disability limitation",
+      "C": "Long term multi drug therapy",
+      "D": "Health education"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Single skin lesion is seen in which type of leprosy -",
+    "answer": "TT",
+    "options": {
+      "A": "LL",
+      "B": "TT",
+      "C": "BL",
+      "D": "BT"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Patient with leprosy, smear sample taken show 10 - 100 bacilli in one field. Bacterial index is ?",
+    "answer": "4+",
+    "options": {
+      "A": "1+",
+      "B": "2+",
+      "C": "3+",
+      "D": "4+"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "All of the following are the mode of transmission of leprosy except -",
+    "answer": "Blood transfusion",
+    "options": {
+      "A": "Breast milk",
+      "B": "Blood transfusion",
+      "C": "Transplacental spread",
+      "D": "Droplet infection"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "Elimination of leprosy is define as prevalence -",
+    "answer": "< 1 per 10000",
+    "options": {
+      "A": "< 1 per 1000",
+      "B": "< 1 per 10000",
+      "C": "< 1 per 1 lakh",
+      "D": "< 1 per 100"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "A patient with multiple hypopigmented & hypesthetic patches on lateral aspect of forearm with abundance of AFB and granulomatous inflammation on histology. The diagnosis is",
+    "answer": "Borderline leprosy",
+    "options": {
+      "A": "Tuberculoid leprosy",
+      "B": "Indetermediate leprosy",
+      "C": "Borderline leprosy",
+      "D": "Lepromatous leprosy"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Virchow's cells are seen in –",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Henoch scholein purpura",
+      "B": "Toxic Epidermal necrolysis",
+      "C": "Congenital syphilis",
+      "D": "Leprosy"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Annual new case detection rate of leprosy as on 31st March, 2016 is:",
+    "answer": "9.7/1,00,000 population",
+    "options": {
+      "A": "0.66 /10,000 population",
+      "B": "0.66/1,00,000 population",
+      "C": "9.7/10,000 population",
+      "D": "9.7/1,00,000 population"
+    },
+    "answer_idx": "D"
+  },
+  {
+    "question": "Which of the following is used for the treatment of paucibacillary leprosy?",
+    "answer": "3 drugs for 6 months",
+    "options": {
+      "A": "2 drugs for 6 months",
+      "B": "2 drugs for 12 months",
+      "C": "3 drugs for 6 months",
+      "D": "3 drugs for 12 months"
+    },
+    "answer_idx": "C"
+  },
+  {
+    "question": "Which nerve biopsy is taken to diagnose neuritic leprosy?",
+    "answer": "Radial cutaneous nerve",
+    "options": {
+      "A": "Median nerve",
+      "B": "Radial cutaneous nerve",
+      "C": "Ulnar nerve",
+      "D": "Radial nerve"
+    },
+    "answer_idx": "B"
+  },
+  {
+    "question": "During a humanitarian medical mission in rural Vietnam, a medical resident encounters a 50-year-old man with a year-long history of a pruritic rash on his upper body and face, along with numbness and tingling sensation of both of his palms. He mostly works on his family’s rice farm, where he also takes care of livestock. A physical examination revealed multiple erythematous macules and papules on the face, arms, chest, and back, as well as thinning of the eyebrows and loss of some eyelashes. Additional findings include hypopigmented macules around the elbows, which are insensitive to light touch, temperature, and pinprick. The grip strength is slightly diminished bilaterally with the conservation of both bicipital reflexes. What is the most likely diagnosis?",
+    "answer": "Leprosy",
+    "options": {
+      "A": "Cutaneous leishmaniasis",
+      "B": "Sporotrichosis",
+      "C": "Tinea corporis",
+      "D": "Leprosy",
+      "E": "Scrofula"
+    },
+    "meta_info": "step1",
+    "answer_idx": "D"
+  }
+]
