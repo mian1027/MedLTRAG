@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ---
 
-![KG](fig4.png)
+![KG](fig2.png)
 
 ## Online knowledge retrieval
 
